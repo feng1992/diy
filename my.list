@@ -1,5 +1,5 @@
- #自己使用的需要代理的域名
- #pt站点
+ #自己使用的不需要代理的域名
+ #pt站点以及影音
  
  DOMAINSUFFIX,mteam.cc
  DOMAINSUFFIX,dmhy.org
@@ -26,15 +26,4 @@
  DOMAINKEYWORD,taggood
  SRCIPCIDR,192.168.172.253/32
  SRCIPCIDR,192.168.172.250/32
- DOMAINSUFFIX,pan.baidu.com
- DOMAINSUFFIX,easylistdownloads.adblockplus.org
- DOMAINSUFFIX,api.themoviedb.org
- DOMAINSUFFIX,aaex.uk
- DOMAINSUFFIX,duyaoss.com
- DOMAINSUFFIX,geocust.hbonow.com
- DOMAINSUFFIX,dlercloud.com
- DOMAINSUFFIX,github.com
- DOMAINSUFFIX,thetvdb.com
- DOMAINSUFFIX,opensubtitles.org
- DOMAINSUFFIX,gitmemory.com
- DOMAINSUFFIX,v2rayssr.com
+ 

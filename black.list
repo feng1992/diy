@@ -1,14 +1,14 @@
  #由于地狱问题需要代理域名
  
- DOMAINSUFFIX,pan.baidu.com
- DOMAINSUFFIX,easylistdownloads.adblockplus.org
- DOMAINSUFFIX,api.themoviedb.org
- DOMAINSUFFIX,aaex.uk
- DOMAINSUFFIX,duyaoss.com
- DOMAINSUFFIX,geocust.hbonow.com
- DOMAINSUFFIX,dlercloud.com
- DOMAINSUFFIX,github.com
- DOMAINSUFFIX,thetvdb.com
- DOMAINSUFFIX,opensubtitles.org
- DOMAINSUFFIX,gitmemory.com
- DOMAINSUFFIX,v2rayssr.com
+ DOMAIN-SUFFIX,pan.baidu.com
+ DOMAIN-SUFFIX,easylistdownloads.adblockplus.org
+ DOMAIN-SUFFIX,api.themoviedb.org
+ DOMAIN-SUFFIX,aaex.uk
+ DOMAIN-SUFFIX,duyaoss.com
+ DOMAIN-SUFFIX,geocust.hbonow.com
+ DOMAIN-SUFFIX,dlercloud.com
+ DOMAIN-SUFFIX,github.com
+ DOMAIN-SUFFIX,thetvdb.com
+ DOMAIN-SUFFIX,opensubtitles.org
+ DOMAIN-SUFFIX,gitmemory.com
+ DOMAIN-SUFFIX,v2rayssr.com

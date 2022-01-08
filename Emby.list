@@ -1,6 +1,6 @@
 #公益服emby服务器代理，可以获得较好的使用体验
-#Misty emby
-#终点站
 
-DOMAIN-SUFFIX,aaa.ax
-DOMAIN-SUFFIX,ssky.me
+DOMAIN-SUFFIX,aaa.ax             #misty
+DOMAIN-SUFFIX,emby.wtf           #终点站
+DOMAIN-SUFFIX,jmsooo.com         #卷毛鼠
+DOMAIN-SUFFIX,odysseyplus.site   #奥德赛

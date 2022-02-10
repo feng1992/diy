@@ -107,7 +107,7 @@ http://192.168.172.1:8547/udp/238.125.1.2:5140
 http://192.168.172.1:8547/udp/238.125.1.64:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视高清
 http://192.168.172.1:8547/udp/238.125.2.223:5140
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://github.com/feng1992/diy/blob/main/IPTV/tb/CCTV16(1).png" group-title="央视",CCTV-16 4K(测试)
+#EXTINF:-1 tvg-id="7250" tvg-name="CCTV16" tvg-logo="https://github.com/feng1992/diy/blob/main/IPTV/tb/CCTV16(1).png" group-title="央视",CCTV-16 4K(测试)
 http://192.168.172.1:8547/udp/238.125.2.168:5140
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库高清
 http://192.168.172.1:8547/udp/238.125.2.219:5140

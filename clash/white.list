@@ -18,14 +18,17 @@ DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,yingk.com
 DOMAIN-SUFFIX,dicmusic.club
+DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,hares.top
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.com
 DOMAIN-SUFFIX,softethernetwork.net
 DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,cnpc.com.cn
+DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
 SRC-IP-CIDR,192.168.172.253/32
 SRC-IP-CIDR,192.168.172.250/32

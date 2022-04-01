@@ -1,6 +1,6 @@
 #由于地狱问题需要代理域名
 
-DOMAIN-SUFFIX,pan.baidu.com
+# DOMAIN-SUFFIX,pan.baidu.com
 DOMAIN-SUFFIX,easylistdownloads.adblockplus.org
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,aaex.uk

@@ -1,6 +1,5 @@
 #自己使用的不需要代理的域名
 #pt站点以及影音
- 
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-KEYWORD,dmhy
@@ -32,6 +31,7 @@ DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,cnpc.com.cn
 DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
+DOMAIN-SUFFIX,emby.misakaf.xyz
 SRC-IP-CIDR,192.168.172.253/32
 SRC-IP-CIDR,192.168.172.250/32
 SRC-PORT,55789

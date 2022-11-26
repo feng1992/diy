@@ -1,5 +1,10 @@
 #自己使用的不需要代理的域名
 #pt站点以及部分公益Emby站点
+DOMAIN-SUFFIX,dshfsh.eu.org
+DOMAIN-SUFFIX,herofsh.eu.org
+DOMAIN-SUFFIX,ffssh.eu.org
+DOMAIN-SUFFIX,mylo.eu.org
+DOMAIN-SUFFIX,Judy.eu.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-KEYWORD,dmhy

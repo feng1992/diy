@@ -39,7 +39,9 @@ DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
 DOMAIN-SUFFIX,4837.misakaf.org
-DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,happy.poloemby.xyz
+DOMAIN-SUFFIX,cmi.pololine.ml
+DOMAIN-SUFFIX,sp.pololine.ml
 DOMAIN-KEYWORD,bpshop
 SRC-IP-CIDR,192.168.172.250/32
 SRC-IP-CIDR,192.168.172.251/32

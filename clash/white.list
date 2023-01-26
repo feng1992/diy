@@ -45,7 +45,7 @@ DOMAIN-SUFFIX,sp.pololine.ml
 DOMAIN-SUFFIX,11.loseremby.org
 DOMAIN-SUFFIX,emby.speedx.one
 DOMAIN-KEYWORD,bpshop
-DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,dash.cloudflare.com
 DOMAIN-KEYWORD,letsencrypt
 SRC-IP-CIDR,192.168.172.250/32
 SRC-IP-CIDR,192.168.172.251/32

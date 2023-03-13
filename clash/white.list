@@ -47,8 +47,8 @@ DOMAIN-SUFFIX,hk.poloemby.xyz
 DOMAIN-SUFFIX,11.loseremby.org
 DOMAIN-SUFFIX,emby.speedx.one
 DOMAIN-SUFFIX,zz.studyfun.live
-DOMAIN-SUFFIX,4837.studyfun.live
-DOMAIN-SUFFIX,9929.studyfun.live
+DOMAIN-SUFFIX,cdn.studyfun.live
+DOMAIN-SUFFIX,cdn1.studyfun.live
 DOMAIN-KEYWORD,bpshop
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-KEYWORD,letsencrypt

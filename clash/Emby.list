@@ -28,10 +28,11 @@ DOMAIN-SUFFIX,cf.emby.ml
 # > 流媒体MisakaF服务器
 DOMAIN,cf.misakaf.org
 
-# > 流媒体BlueSeaEmby服务器
+# > 流媒体BlueSeaEmby&Musics服务器
 DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN-SUFFIX,bsem.ddns.me
 DOMAIN-SUFFIX,bluesea.ddns.me
+DOMAIN-SUFFIX,blueseamusics.com
 
 # > 流媒体StudyFun999服务器
 DOMAIN-SUFFIX,cf.studyfun.live

@@ -39,11 +39,12 @@ DOMAIN-SUFFIX,softethernetwork.net
 DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
-DOMAIN-SUFFIX,4837.misakaf.org
-DOMAIN-SUFFIX,10000.pololine.ml
-DOMAIN-SUFFIX,11.loseremby.org
-DOMAIN-SUFFIX,emby.speedx.one
-DOMAIN-SUFFIX,zz.studyfun.live
+# > 流媒体misakaf服务器
+DOMAIN,cdn.misakaf.org
+# > 流媒体polo服务器
+DOMAIN,hh.pololine.ml
+DOMAIN,10000.pololine.ml
+# > 流媒体studyfun服务器
 DOMAIN-SUFFIX,cdn.studyfun.live
 DOMAIN-SUFFIX,cdn1.studyfun.live
 DOMAIN-KEYWORD,bpshop
@@ -52,4 +53,4 @@ DOMAIN-KEYWORD,letsencrypt
 SRC-IP-CIDR,192.168.172.250/32
 SRC-IP-CIDR,192.168.172.251/32
 SRC-IP-CIDR,192.168.172.253/32
-SRC-PORT,55789
+

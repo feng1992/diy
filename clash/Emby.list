@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,emby.wtf
 
 # > 流媒体Cc服务器
 DOMAIN,cc.ccemby.tk
-DOMAIN-SUFFIX,dx1.ccemby.ga
+DOMAIN,dx1.ccemby.ga
 
 # > 流媒体polo服务器
 DOMAIN-SUFFIX,poloemby.xyz
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,cf.emby.ml
 
 # > 流媒体MisakaF服务器
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN,cf.misakaf.org
 
 # > 流媒体BlueSeaEmby服务器
 DOMAIN-SUFFIX,blueseacdn.com

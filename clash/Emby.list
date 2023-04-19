@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,odysseyplus.site
 # > 流媒体终点站服务器
 DOMAIN-SUFFIX,emby.wtf
 
-# > 流媒体Cc服务器
+# > 流媒体Cc验证&播放服务器
 DOMAIN,cc.ccemby.tk
 DOMAIN,dx1.ccemby.ga
 

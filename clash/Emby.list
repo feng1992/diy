@@ -1,19 +1,57 @@
-#公益服emby服务器代理，可以获得较好的使用体验
+# > 流媒体emby-misty服务器
 DOMAIN-SUFFIX,misty.ltd
+
+# > 流媒体emby-jmsooo服务器
 DOMAIN-SUFFIX,jmsooo.com
+
+# > 流媒体Odyssey服务器
 DOMAIN-SUFFIX,odysseyplus.site
+
+# > 流媒体终点站服务器
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,cf.misakaf.org
-DOMAIN-SUFFIX,cc.ccemby.tk
+
+# > 流媒体Cc服务器
+DOMAIN,cc.ccemby.tk
 DOMAIN-SUFFIX,dx1.ccemby.ga
+
+# > 流媒体polo服务器
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+
+# > 流媒体Nebula服务器
+DOMAIN,direct.nebula-emby.com
+
+# > 流媒体垃圾影音服务器
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,cf.emby.ml
+
+# > 流媒体MisakaF服务器
+DOMAIN-SUFFIX,misakaf.org
+
+# > 流媒体BlueSeaEmby服务器
 DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN-SUFFIX,bsem.ddns.me
-DOMAIN-SUFFIX,catfishemby.club
-DOMAIN-SUFFIX,embymv.tk
-DOMAIN-SUFFIX,mjjemby.org
-DOMAIN-SUFFIX,emby.pololine.ml
-DOMAIN-SUFFIX,cf.pololine.ml
-DOMAIN-SUFFIX,direct.nebula-emby.com
-DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-SUFFIX,bluesea.ddns.me
+
+# > 流媒体StudyFun999服务器
 DOMAIN-SUFFIX,cf.studyfun.live
+
+# > 流媒体Mjj-emby服务器
+DOMAIN-SUFFIX,mjjemby.org
+
+# > 流媒体CatFish服务器
+DOMAIN-SUFFIX,catfishemby.club
+
+# > 流媒体卡卡服务器
 DOMAIN-SUFFIX,emby.9191001.xyz
+
+# > 流媒体Peach服务器
+DOMAIN-SUFFIX,embymv.tk
+
+# > 流媒体莫高雷（mulgore）服务器
+DOMAIN-SUFFIX,mulgore.net
+
+# > 流媒体EmbyX波浪鼓服务器
+DOMAIN-SUFFIX,emby.speedx.one
+
+

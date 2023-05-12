@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,mjjemby.org
 # > 流媒体CatFish服务器
 DOMAIN-SUFFIX,catfishemby.club
 
-# > 流媒体卡卡服务器
+# > 流媒体放映厅（卡卡）服务器
 DOMAIN-SUFFIX,emby.9191001.xyz
 
 # > 流媒体Peach服务器
@@ -54,5 +54,13 @@ DOMAIN-SUFFIX,mulgore.net
 
 # > 流媒体EmbyX波浪鼓服务器
 DOMAIN-SUFFIX,emby.speedx.one
+
+# > 流媒体剧狗服务器
+DOMAIN-SUFFIX,ju.dog
+
+# > 流媒体星空服务器
+DOMAIN-SUFFIX,9wfree.emby.eu.org
+DOMAIN-SUFFIX,free.emby.eu.org
+
 
 

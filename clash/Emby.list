@@ -76,3 +76,6 @@ DOMAIN-SUFFIX,film.goodisp.org
 
 # > 野兽制会员餐厅emby服务器
 DOMAIN-SUFFIX,emby.mius.uk
+
+# > 卡戎emby服务器
+DOMAIN-SUFFIX,play.charontv.com

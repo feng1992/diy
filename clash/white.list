@@ -39,11 +39,6 @@ DOMAIN-SUFFIX,softethernetwork.net
 DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
-# > 流媒体misakaf服务器
-DOMAIN,cdn.misakaf.org
-# > 流媒体polo服务器
-DOMAIN,hh.pololine.ml
-DOMAIN,10000.pololine.ml
 # > 流媒体studyfun服务器
 DOMAIN-SUFFIX,cdn.studyfun.live
 DOMAIN-SUFFIX,cdn1.studyfun.live

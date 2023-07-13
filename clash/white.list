@@ -39,13 +39,7 @@ DOMAIN-SUFFIX,softethernetwork.net
 DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
-# > 流媒体studyfun服务器
-DOMAIN-SUFFIX,cdn.studyfun.live
-DOMAIN-SUFFIX,cdn1.studyfun.live
 DOMAIN-KEYWORD,bpshop
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-KEYWORD,letsencrypt
-SRC-IP-CIDR,192.168.172.250/32
-SRC-IP-CIDR,192.168.172.251/32
-SRC-IP-CIDR,192.168.172.253/32
 

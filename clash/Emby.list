@@ -79,3 +79,9 @@ DOMAIN-SUFFIX,emby.mius.uk
 
 # > 卡戎emby服务器
 DOMAIN-SUFFIX,play.charontv.com
+
+# > 私人影院服务器
+DOMAIN-SUFFIX,emby.agon.cf
+
+# > Dolphin emby服务器
+DOMAIN-SUFFIX,public.emby.ws

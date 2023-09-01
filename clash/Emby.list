@@ -24,6 +24,7 @@ DOMAIN,direct.nebula-emby.com
 # > 流媒体垃圾影音服务器
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-SUFFIX,cf.xmsl.org
 
 # > TreeDiagram 服务器
 DOMAIN,789.123456.al

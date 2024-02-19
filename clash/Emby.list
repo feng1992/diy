@@ -11,8 +11,7 @@ DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,emby.wtf
 
 # > 流媒体Cc验证&播放服务器
-DOMAIN,cc.ccemby.tk
-DOMAIN,dx1.ccemby.ga
+DOMAIN,cc.coemn.com
 
 # > 流媒体polo服务器
 DOMAIN-SUFFIX,poloemby.xyz

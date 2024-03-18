@@ -41,8 +41,8 @@ DOMAIN-SUFFIX,51zmt.top
 DOMAIN-SUFFIX,scratch-network.net
 DOMAIN-KEYWORD,taggood
 DOMAIN-KEYWORD,bpshop
-DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,letsencrypt
 DOMAIN-SUFFIX,mi.com
-DOMAIN-KEYWORD,ipv6
+#DOMAIN-KEYWORD,ipv6
 

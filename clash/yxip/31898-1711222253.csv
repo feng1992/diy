@@ -1,0 +1,2239 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+141.147.48.190,443,443,true,FRA,Europe,Frankfurt,176,11.41
+141.147.175.230,2083,2083,true,LAX,North America,Los Angeles,202,11.41
+138.3.212.144,2086,2086,false,NRT,Asia Pacific,Tokyo,74,11.40
+151.145.68.104,2053,2053,true,LAX,North America,Los Angeles,245,11.38
+168.138.206.109,2082,2082,false,NRT,Asia Pacific,Tokyo,71,11.38
+151.145.75.28,8880,8880,false,NRT,Asia Pacific,Tokyo,74,11.37
+150.230.221.114,8443,8443,true,LAX,North America,Los Angeles,195,11.37
+138.3.208.9,80,80,false,SIN,Asia Pacific,Singapore,172,11.36
+150.230.117.182,443,443,true,FRA,Europe,Frankfurt,174,11.35
+141.148.225.250,443,443,true,FRA,Europe,Frankfurt,183,11.35
+132.145.127.21,2096,2096,true,NRT,Asia Pacific,Tokyo,73,11.34
+151.145.68.166,2096,2096,true,LAX,North America,Los Angeles,183,11.34
+150.230.22.122,443,443,true,FRA,Europe,Frankfurt,183,11.33
+130.61.203.115,8443,443,true,FRA,Europe,Frankfurt,176,11.33
+168.138.205.38,8880,8880,false,LAX,North America,Los Angeles,196,11.33
+138.2.0.217,8880,8880,false,LAX,North America,Los Angeles,191,11.33
+151.145.74.56,2083,2083,true,LAX,North America,Los Angeles,197,11.33
+138.2.8.232,2083,2083,true,LAX,North America,Los Angeles,208,11.31
+141.147.16.152,8443,443,true,FRA,Europe,Frankfurt,177,11.31
+158.178.148.104,443,443,true,FRA,Europe,Frankfurt,176,11.31
+141.144.254.184,443,443,true,FRA,Europe,Frankfurt,179,11.31
+152.70.49.208,443,443,true,AMS,Europe,Amsterdam,193,11.31
+138.2.0.217,2083,2083,true,LAX,North America,Los Angeles,180,11.29
+150.230.221.114,2053,2053,true,LAX,North America,Los Angeles,196,11.29
+129.159.251.169,443,443,true,FRA,Europe,Frankfurt,188,11.28
+168.138.206.68,2087,2087,true,NRT,Asia Pacific,Tokyo,84,11.27
+151.145.69.174,2082,2082,false,NRT,Asia Pacific,Tokyo,74,11.27
+158.101.155.115,80,80,false,NRT,Asia Pacific,Tokyo,77,11.27
+155.248.187.37,80,0,false,LAX,North America,Los Angeles,187,11.27
+130.162.211.207,8443,443,true,FRA,Europe,Frankfurt,167,11.27
+158.180.29.27,443,443,true,FRA,Europe,Frankfurt,167,11.26
+150.230.201.162,2086,2086,false,LAX,North America,Los Angeles,180,11.26
+141.147.35.104,443,443,true,FRA,Europe,Frankfurt,205,11.26
+158.101.150.126,8880,8880,false,NRT,Asia Pacific,Tokyo,68,11.26
+138.2.29.102,8443,8443,true,LAX,North America,Los Angeles,243,11.26
+140.83.36.42,2096,2096,true,LAX,North America,Los Angeles,176,11.25
+138.3.215.11,2095,2095,false,HKG,Asia Pacific,Hong Kong,132,11.25
+138.2.13.200,2083,2083,true,LAX,North America,Los Angeles,201,11.23
+168.138.205.38,8443,8443,true,LAX,North America,Los Angeles,180,11.23
+143.47.229.75,443,443,true,FRA,Europe,Frankfurt,180,11.23
+138.3.208.9,2095,2095,false,HKG,Asia Pacific,Hong Kong,161,11.21
+151.145.74.56,2053,2053,true,LAX,North America,Los Angeles,175,11.20
+132.226.9.173,2053,2053,true,LAX,North America,Los Angeles,186,11.19
+158.101.142.103,2086,2086,false,NRT,Asia Pacific,Tokyo,80,11.19
+138.3.220.4,2053,2053,true,HKG,Asia Pacific,Hong Kong,168,11.19
+158.179.188.7,2053,2053,true,LAX,North America,Los Angeles,184,11.18
+143.47.240.170,443,443,true,FRA,Europe,Frankfurt,164,11.15
+151.145.74.199,2082,2082,false,NRT,Asia Pacific,Tokyo,78,11.15
+151.145.69.174,8880,8880,false,NRT,Asia Pacific,Tokyo,85,11.15
+141.147.114.110,443,443,true,FRA,Europe,Frankfurt,174,11.14
+141.147.191.211,2087,2087,true,LAX,North America,Los Angeles,182,11.14
+132.145.123.143,8880,8880,false,NRT,Asia Pacific,Tokyo,82,11.14
+132.145.126.21,2052,2052,false,NRT,Asia Pacific,Tokyo,74,11.14
+141.147.189.23,2053,2053,true,LAX,North America,Los Angeles,184,11.13
+151.145.69.174,8080,8080,false,NRT,Asia Pacific,Tokyo,69,11.13
+138.2.13.133,80,80,false,LAX,North America,Los Angeles,175,11.12
+138.2.14.248,2096,2096,true,HKG,Asia Pacific,Hong Kong,182,11.12
+132.145.124.198,2083,2083,true,HKG,Asia Pacific,Hong Kong,142,11.12
+130.162.169.248,443,443,true,FRA,Europe,Frankfurt,180,11.11
+84.235.174.156,443,443,true,FRA,Europe,Frankfurt,192,11.11
+158.101.142.103,8443,8443,true,NRT,Asia Pacific,Tokyo,72,11.10
+158.101.137.74,8443,8443,true,LAX,North America,Los Angeles,248,11.09
+141.147.67.188,443,443,true,FRA,Europe,Frankfurt,177,11.09
+158.101.143.49,8443,8443,true,NRT,Asia Pacific,Tokyo,98,11.09
+131.186.62.26,2095,2095,false,LAX,North America,Los Angeles,175,11.08
+132.226.6.5,2096,2096,true,LAX,North America,Los Angeles,199,11.08
+141.147.59.246,443,443,true,FRA,Europe,Frankfurt,188,11.07
+141.148.224.44,443,443,true,SIN,Asia Pacific,Singapore,191,11.07
+151.145.70.28,80,80,false,NRT,Asia Pacific,Tokyo,83,11.07
+141.147.182.76,8443,8443,true,LAX,North America,Los Angeles,183,11.06
+158.101.136.239,8443,8443,true,NRT,Asia Pacific,Tokyo,185,11.06
+150.230.201.162,2052,0,false,LAX,North America,Los Angeles,185,11.05
+168.138.202.169,2052,2052,false,NRT,Asia Pacific,Tokyo,71,11.05
+168.138.205.38,2087,2087,true,LAX,North America,Los Angeles,177,11.05
+168.138.207.64,8080,8080,false,NRT,Asia Pacific,Tokyo,68,11.04
+141.147.55.81,443,443,true,FRA,Europe,Frankfurt,179,11.03
+141.147.117.253,443,443,true,FRA,Europe,Frankfurt,190,11.02
+151.145.74.56,2052,2052,false,LAX,North America,Los Angeles,174,11.02
+141.147.113.200,443,443,true,FRA,Europe,Frankfurt,180,11.02
+138.3.220.4,2096,2096,true,LAX,North America,Los Angeles,179,11.01
+150.230.117.43,443,443,true,FRA,Europe,Frankfurt,192,11.01
+131.186.37.49,2082,2082,false,NRT,Asia Pacific,Tokyo,71,11.00
+132.145.123.159,2053,2053,true,NRT,Asia Pacific,Tokyo,84,11.00
+132.145.11.121,443,443,true,SIN,Asia Pacific,Singapore,195,11.00
+141.147.114.235,443,443,true,FRA,Europe,Frankfurt,179,10.98
+89.168.85.232,443,443,true,FRA,Europe,Frankfurt,181,10.98
+138.2.0.217,2082,2082,false,HKG,Asia Pacific,Hong Kong,135,10.98
+158.101.139.42,2053,2053,true,LAX,North America,Los Angeles,208,10.97
+132.145.253.119,443,443,true,FRA,Europe,Frankfurt,167,10.97
+138.3.244.189,443,443,true,FRA,Europe,Frankfurt,178,10.97
+151.145.70.28,2083,2083,true,NRT,Asia Pacific,Tokyo,71,10.97
+158.178.150.101,443,443,true,FRA,Europe,Frankfurt,160,10.96
+130.162.178.98,443,443,true,FRA,Europe,Frankfurt,202,10.95
+141.147.186.210,2096,2096,true,LAX,North America,Los Angeles,187,10.95
+138.2.11.179,2096,2096,true,NRT,Asia Pacific,Tokyo,218,10.93
+141.147.191.211,8443,8443,true,LAX,North America,Los Angeles,175,10.93
+141.144.243.79,443,443,true,CDG,Europe,Paris,184,10.91
+151.145.71.127,8443,8443,true,LAX,North America,Los Angeles,292,10.91
+150.230.22.99,443,443,true,FRA,Europe,Frankfurt,183,10.90
+152.70.48.46,443,443,true,FRA,Europe,Frankfurt,159,10.90
+138.2.20.230,2095,2095,false,LAX,North America,Los Angeles,193,10.90
+158.101.139.42,80,80,false,LAX,North America,Los Angeles,184,10.90
+150.230.221.114,2083,2083,true,LAX,North America,Los Angeles,181,10.89
+138.2.14.248,80,80,false,HKG,Asia Pacific,Hong Kong,129,10.88
+138.3.217.39,2053,2053,true,LAX,North America,Los Angeles,176,10.88
+141.147.9.18,443,443,true,FRA,Europe,Frankfurt,168,10.87
+138.2.13.133,2082,2082,false,LAX,North America,Los Angeles,191,10.85
+130.162.162.237,443,443,true,FRA,Europe,Frankfurt,191,10.85
+132.226.5.102,8443,8443,true,LAX,North America,Los Angeles,183,10.85
+138.2.31.68,2086,2086,false,HKG,Asia Pacific,Hong Kong,140,10.85
+84.235.172.55,443,443,true,FRA,Europe,Frankfurt,159,10.85
+150.230.217.63,2086,0,false,LAX,North America,Los Angeles,186,10.85
+141.147.178.115,2095,2095,false,LAX,North America,Los Angeles,183,10.84
+141.148.235.220,443,443,true,FRA,Europe,Frankfurt,174,10.84
+138.2.20.230,8443,8443,true,LAX,North America,Los Angeles,199,10.83
+151.145.74.199,2086,2086,false,NRT,Asia Pacific,Tokyo,82,10.83
+130.162.183.154,443,443,true,FRA,Europe,Frankfurt,180,10.82
+141.147.114.205,443,443,true,FRA,Europe,Frankfurt,193,10.82
+151.145.74.199,2095,2095,false,NRT,Asia Pacific,Tokyo,81,10.82
+150.230.192.173,8880,8880,false,LAX,North America,Los Angeles,184,10.82
+168.138.200.159,2052,2052,false,NRT,Asia Pacific,Tokyo,80,10.82
+141.147.102.196,443,443,true,FRA,Europe,Frankfurt,204,10.82
+150.230.216.34,8880,8880,false,HKG,Asia Pacific,Hong Kong,135,10.81
+132.145.125.165,2096,2096,true,NRT,Asia Pacific,Tokyo,75,10.81
+168.138.202.145,2096,2096,true,NRT,Asia Pacific,Tokyo,76,10.81
+138.2.0.217,8443,8443,true,LAX,North America,Los Angeles,185,10.81
+158.180.25.91,443,443,true,FRA,Europe,Frankfurt,153,10.80
+141.147.189.242,8443,8443,true,LAX,North America,Los Angeles,183,10.80
+150.230.196.73,2095,2095,false,LAX,North America,Los Angeles,176,10.80
+141.148.247.58,443,443,true,FRA,Europe,Frankfurt,196,10.79
+132.145.120.103,2095,2095,false,NRT,Asia Pacific,Tokyo,76,10.77
+141.144.244.214,443,443,true,AMS,Europe,Amsterdam,167,10.77
+158.101.137.74,2086,2086,false,LAX,North America,Los Angeles,196,10.76
+158.178.154.187,443,443,true,FRA,Europe,Frankfurt,186,10.76
+143.47.234.172,443,443,true,FRA,Europe,Frankfurt,195,10.75
+151.145.69.174,2095,2095,false,NRT,Asia Pacific,Tokyo,85,10.75
+132.145.123.159,2096,2096,true,NRT,Asia Pacific,Tokyo,79,10.74
+132.226.5.102,2087,2087,true,LAX,North America,Los Angeles,184,10.73
+158.101.148.221,2052,2052,false,HKG,Asia Pacific,Hong Kong,137,10.73
+130.162.166.229,443,443,true,MUC,Europe,Munich,194,10.73
+132.226.6.5,2083,2083,true,LAX,North America,Los Angeles,182,10.72
+141.147.189.23,8443,8443,true,LAX,North America,Los Angeles,182,10.71
+150.230.212.87,8880,8880,false,LAX,North America,Los Angeles,182,10.71
+143.47.235.182,443,443,true,FRA,Europe,Frankfurt,186,10.71
+150.230.112.99,443,443,true,FRA,Europe,Frankfurt,194,10.71
+168.138.200.159,2083,2083,true,NRT,Asia Pacific,Tokyo,82,10.70
+89.168.121.194,443,443,true,AMS,Europe,Amsterdam,183,10.70
+132.145.123.14,2086,2086,false,NRT,Asia Pacific,Tokyo,71,10.70
+89.168.118.243,443,443,true,FRA,Europe,Frankfurt,240,10.70
+143.47.177.124,443,443,true,FRA,Europe,Frankfurt,171,10.69
+129.159.197.49,443,443,true,FRA,Europe,Frankfurt,166,10.69
+193.123.63.1,443,443,true,FRA,Europe,Frankfurt,183,10.68
+132.145.125.86,2087,2087,true,NRT,Asia Pacific,Tokyo,71,10.66
+89.168.80.167,443,443,true,FRA,Europe,Frankfurt,179,10.66
+141.147.74.242,443,0,true,FRA,Europe,Frankfurt,194,10.65
+138.2.19.122,2096,2096,true,LAX,North America,Los Angeles,200,10.65
+158.180.12.92,443,443,true,AMS,Europe,Amsterdam,182,10.62
+89.168.126.135,443,443,true,FRA,Europe,Frankfurt,227,10.61
+89.168.65.20,443,443,true,FRA,Europe,Frankfurt,179,10.61
+138.2.20.230,8080,8080,false,LAX,North America,Los Angeles,201,10.61
+141.147.189.242,2053,2053,true,HKG,Asia Pacific,Hong Kong,142,10.60
+141.148.243.239,443,443,true,FRA,Europe,Frankfurt,171,10.60
+193.123.39.235,443,443,true,FRA,Europe,Frankfurt,183,10.59
+138.3.216.67,2087,2087,true,NRT,Asia Pacific,Tokyo,111,10.58
+138.3.220.4,2083,2083,true,LAX,North America,Los Angeles,185,10.57
+138.3.217.39,2083,2083,true,LAX,North America,Los Angeles,199,10.56
+168.138.200.155,2083,2083,true,HKG,Asia Pacific,Hong Kong,163,10.56
+132.145.112.168,2095,2095,false,LAX,North America,Los Angeles,178,10.56
+89.168.75.137,443,443,true,FRA,Europe,Frankfurt,184,10.56
+158.178.145.168,443,443,true,FRA,Europe,Frankfurt,174,10.55
+89.168.81.241,443,443,true,FRA,Europe,Frankfurt,168,10.55
+132.226.9.173,2096,2096,true,LAX,North America,Los Angeles,196,10.55
+141.148.230.113,443,443,true,FRA,Europe,Frankfurt,192,10.55
+132.226.9.173,8443,8443,true,LAX,North America,Los Angeles,181,10.54
+158.178.149.178,443,443,true,AMS,Europe,Amsterdam,158,10.53
+138.2.29.250,2096,2096,true,LAX,North America,Los Angeles,201,10.52
+158.101.139.42,2095,2095,false,LAX,North America,Los Angeles,185,10.52
+130.162.169.69,443,443,true,FRA,Europe,Frankfurt,193,10.51
+158.101.144.189,2087,2087,true,NRT,Asia Pacific,Tokyo,71,10.51
+132.145.122.95,2095,2095,false,NRT,Asia Pacific,Tokyo,68,10.51
+138.3.211.101,2086,2086,false,NRT,Asia Pacific,Tokyo,70,10.50
+138.3.223.50,2096,2096,true,NRT,Asia Pacific,Tokyo,88,10.49
+152.70.56.107,443,443,true,FRA,Europe,Frankfurt,191,10.48
+158.101.131.218,2053,2053,true,HKG,Asia Pacific,Hong Kong,140,10.48
+132.145.126.204,2083,2083,true,NRT,Asia Pacific,Tokyo,78,10.48
+158.101.150.74,8880,8880,false,LAX,North America,Los Angeles,186,10.47
+132.145.123.159,80,80,false,NRT,Asia Pacific,Tokyo,71,10.46
+158.101.143.49,2095,2095,false,NRT,Asia Pacific,Tokyo,70,10.45
+132.145.123.238,8443,8443,true,LAX,North America,Los Angeles,192,10.45
+143.47.178.139,443,443,true,FRA,Europe,Frankfurt,173,10.44
+132.145.122.95,2053,2053,true,NRT,Asia Pacific,Tokyo,74,10.44
+138.2.24.114,2083,2083,true,LAX,North America,Los Angeles,215,10.42
+152.70.48.252,443,443,true,FRA,Europe,Frankfurt,193,10.42
+193.122.125.174,2053,443,true,ICN,Asia Pacific,Seoul,108,10.42
+143.47.226.189,443,443,true,CDG,Europe,Paris,193,10.41
+151.145.69.174,2083,2083,true,NRT,Asia Pacific,Tokyo,230,10.41
+141.147.38.189,443,443,true,FRA,Europe,Frankfurt,176,10.41
+150.230.221.114,2096,2096,true,LAX,North America,Los Angeles,187,10.39
+141.147.185.149,2096,0,true,LAX,North America,Los Angeles,200,10.39
+158.101.139.42,8080,8080,false,LAX,North America,Los Angeles,209,10.38
+132.145.126.21,2053,2053,true,NRT,Asia Pacific,Tokyo,74,10.36
+89.168.88.1,443,443,true,FRA,Europe,Frankfurt,181,10.35
+138.3.211.101,8880,8880,false,NRT,Asia Pacific,Tokyo,78,10.34
+132.226.6.5,2053,2053,true,LAX,North America,Los Angeles,179,10.32
+129.146.83.33,8443,8443,true,LAX,North America,Los Angeles,177,10.26
+151.145.71.127,2096,2096,true,LAX,North America,Los Angeles,321,10.26
+151.145.74.56,2086,2086,false,LAX,North America,Los Angeles,184,10.24
+158.101.137.96,2082,2082,false,NRT,Asia Pacific,Tokyo,71,10.24
+168.138.207.64,2087,2087,true,NRT,Asia Pacific,Tokyo,72,10.23
+138.2.19.122,8880,8880,false,LAX,North America,Los Angeles,178,10.20
+132.145.125.165,2086,2086,false,NRT,Asia Pacific,Tokyo,79,10.19
+143.47.186.134,443,443,true,FRA,Europe,Frankfurt,222,10.19
+158.101.133.129,2095,2095,false,NRT,Asia Pacific,Tokyo,71,10.19
+158.101.144.34,2087,2087,true,LAX,North America,Los Angeles,255,10.18
+168.138.205.195,2087,2087,true,NRT,Asia Pacific,Tokyo,78,10.18
+138.3.212.226,2052,2052,false,LAX,North America,Los Angeles,176,10.17
+158.101.149.81,2086,2086,false,NRT,Asia Pacific,Tokyo,70,10.16
+138.3.222.204,8080,8080,false,NRT,Asia Pacific,Tokyo,71,10.15
+132.145.127.21,80,80,false,NRT,Asia Pacific,Tokyo,75,10.13
+144.21.50.71,443,443,true,FRA,Europe,Frankfurt,177,10.13
+151.145.65.203,2053,2053,true,LAX,North America,Los Angeles,254,10.13
+158.101.140.255,2083,2083,true,SIN,Asia Pacific,Singapore,167,10.12
+151.145.66.219,2086,2086,false,NRT,Asia Pacific,Tokyo,72,10.12
+193.123.60.59,443,443,true,EWR,North America,Newark,175,10.12
+141.148.233.94,443,443,true,FRA,Europe,Frankfurt,184,10.10
+140.83.36.42,2053,2053,true,LAX,North America,Los Angeles,177,10.07
+138.3.212.162,2082,2082,false,LAX,North America,Los Angeles,182,10.07
+158.101.144.189,2082,2082,false,NRT,Asia Pacific,Tokyo,70,10.07
+143.47.249.50,443,443,true,FRA,Europe,Frankfurt,195,10.07
+151.145.66.219,2096,2096,true,NRT,Asia Pacific,Tokyo,82,10.06
+130.61.23.77,443,443,true,FRA,Europe,Frankfurt,167,10.06
+168.138.198.202,8443,8443,true,NRT,Asia Pacific,Tokyo,90,10.06
+158.101.144.34,2096,2096,true,LAX,North America,Los Angeles,192,10.03
+144.21.51.91,443,443,true,FRA,Europe,Frankfurt,194,10.03
+158.101.147.4,80,80,false,LAX,North America,Los Angeles,205,10.03
+143.47.179.49,443,443,true,FRA,Europe,Frankfurt,169,10.03
+138.3.211.101,2095,2095,false,NRT,Asia Pacific,Tokyo,77,10.02
+138.2.31.68,2082,2082,false,HKG,Asia Pacific,Hong Kong,124,10.02
+151.145.71.127,8080,8080,false,LAX,North America,Los Angeles,184,10.02
+158.101.140.154,2087,2087,true,HKG,Asia Pacific,Hong Kong,227,10.01
+138.3.216.67,8880,8880,false,NRT,Asia Pacific,Tokyo,67,10.00
+138.3.220.4,8080,8080,false,LAX,North America,Los Angeles,185,10.00
+138.3.212.162,80,80,false,LAX,North America,Los Angeles,183,10.00
+158.101.155.158,2095,2095,false,LAX,North America,Los Angeles,197,10.00
+151.145.75.28,2096,2096,true,NRT,Asia Pacific,Tokyo,75,9.98
+132.145.126.21,8443,8443,true,NRT,Asia Pacific,Tokyo,69,9.98
+143.47.254.176,443,443,true,FRA,Europe,Frankfurt,191,9.98
+168.138.205.195,2086,2086,false,NRT,Asia Pacific,Tokyo,80,9.97
+141.147.191.132,2096,2096,true,LAX,North America,Los Angeles,188,9.97
+158.101.136.239,2082,2082,false,NRT,Asia Pacific,Tokyo,86,9.97
+141.147.23.130,443,443,true,AMS,Europe,Amsterdam,182,9.96
+150.230.114.121,443,443,true,FRA,Europe,Frankfurt,180,9.96
+143.47.237.115,443,443,true,FRA,Europe,Frankfurt,164,9.95
+168.138.202.169,2086,2086,false,NRT,Asia Pacific,Tokyo,79,9.95
+158.178.152.111,443,443,true,FRA,Europe,Frankfurt,194,9.95
+158.101.154.70,2083,2083,true,LAX,North America,Los Angeles,188,9.95
+168.138.205.195,8443,8443,true,NRT,Asia Pacific,Tokyo,72,9.95
+141.147.105.131,443,443,true,FRA,Europe,Frankfurt,192,9.95
+152.70.52.215,443,443,true,AMS,Europe,Amsterdam,193,9.94
+138.2.14.248,2087,2087,true,HKG,Asia Pacific,Hong Kong,201,9.94
+150.230.106.21,2086,0,false,LAX,North America,Los Angeles,226,9.94
+151.145.74.56,8880,8880,false,HKG,Asia Pacific,Hong Kong,144,9.91
+158.178.149.201,443,443,true,FRA,Europe,Frankfurt,178,9.91
+144.21.34.129,443,443,true,FRA,Europe,Frankfurt,186,9.91
+138.3.223.70,8880,8880,false,NRT,Asia Pacific,Tokyo,91,9.91
+158.101.131.218,2083,2083,true,LAX,North America,Los Angeles,200,9.90
+141.147.85.201,443,443,true,FRA,Europe,Frankfurt,180,9.89
+141.147.72.95,443,443,true,FRA,Europe,Frankfurt,198,9.88
+138.2.14.209,2052,2052,false,LAX,North America,Los Angeles,178,9.87
+131.186.59.232,8080,0,false,HKG,Asia Pacific,Hong Kong,132,9.86
+132.226.135.52,443,443,true,FRA,Europe,Frankfurt,180,9.85
+132.145.123.159,8443,8443,true,NRT,Asia Pacific,Tokyo,72,9.84
+138.3.222.204,2052,2052,false,NRT,Asia Pacific,Tokyo,71,9.84
+143.47.254.51,443,443,true,FRA,Europe,Frankfurt,178,9.84
+151.145.71.40,2083,2083,true,NRT,Asia Pacific,Tokyo,78,9.84
+144.21.51.247,443,443,true,EWR,North America,Newark,178,9.83
+168.138.200.159,80,80,false,NRT,Asia Pacific,Tokyo,70,9.82
+168.138.202.145,2083,2083,true,NRT,Asia Pacific,Tokyo,70,9.82
+158.101.144.34,8443,8443,true,LAX,North America,Los Angeles,257,9.82
+138.3.210.114,8080,8080,false,LAX,North America,Los Angeles,178,9.81
+130.162.183.92,443,443,true,FRA,Europe,Frankfurt,179,9.80
+141.147.106.185,443,443,true,AMS,Europe,Amsterdam,183,9.79
+138.3.214.43,8880,8880,false,HKG,Asia Pacific,Hong Kong,152,9.79
+138.2.14.164,8443,8443,true,HKG,Asia Pacific,Hong Kong,143,9.79
+141.147.84.101,443,443,true,FRA,Europe,Frankfurt,192,9.78
+138.2.31.68,2052,2052,false,HKG,Asia Pacific,Hong Kong,135,9.77
+138.3.223.50,2082,2082,false,NRT,Asia Pacific,Tokyo,74,9.76
+132.226.134.20,443,443,true,FRA,Europe,Frankfurt,192,9.75
+158.101.136.239,2096,2096,true,NRT,Asia Pacific,Tokyo,91,9.75
+143.47.224.76,443,443,true,FRA,Europe,Frankfurt,183,9.75
+132.226.6.5,80,80,false,LAX,North America,Los Angeles,182,9.73
+138.2.14.248,2095,2095,false,HKG,Asia Pacific,Hong Kong,144,9.73
+132.145.114.250,2095,2095,false,NRT,Asia Pacific,Tokyo,74,9.73
+158.178.158.69,443,443,true,FRA,Europe,Frankfurt,176,9.72
+138.2.29.102,2082,2082,false,LAX,North America,Los Angeles,176,9.71
+158.101.143.49,2087,2087,true,NRT,Asia Pacific,Tokyo,154,9.70
+141.147.107.234,443,443,true,FRA,Europe,Frankfurt,210,9.69
+132.145.127.21,2082,2082,false,NRT,Asia Pacific,Tokyo,70,9.69
+132.226.129.124,443,443,true,FRA,Europe,Frankfurt,204,9.68
+141.147.191.132,2083,2083,true,LAX,North America,Los Angeles,175,9.68
+143.47.253.252,443,443,true,FRA,Europe,Frankfurt,181,9.68
+151.145.66.219,8080,8080,false,NRT,Asia Pacific,Tokyo,72,9.67
+193.123.56.128,443,443,true,FRA,Europe,Frankfurt,192,9.65
+158.101.137.74,2053,2053,true,LAX,North America,Los Angeles,213,9.65
+132.145.125.86,2052,2052,false,NRT,Asia Pacific,Tokyo,82,9.64
+143.47.237.251,443,443,true,FRA,Europe,Frankfurt,183,9.63
+132.145.112.247,8880,8880,false,LAX,North America,Los Angeles,189,9.62
+158.101.148.221,8080,8080,false,HKG,Asia Pacific,Hong Kong,126,9.61
+141.147.65.77,443,443,true,FRA,Europe,Frankfurt,178,9.60
+143.47.246.163,443,443,true,FRA,Europe,Frankfurt,179,9.59
+158.101.131.218,2083,2083,true,LAX,North America,Los Angeles,257,9.57
+131.186.37.49,2052,2052,false,NRT,Asia Pacific,Tokyo,75,9.55
+138.2.12.32,2095,2095,false,LAX,North America,Los Angeles,174,9.54
+140.83.34.230,2082,2082,false,NRT,Asia Pacific,Tokyo,71,9.53
+138.3.212.226,8080,8080,false,LAX,North America,Los Angeles,184,9.53
+130.162.162.217,443,443,true,FRA,Europe,Frankfurt,195,9.52
+138.3.223.70,2096,2096,true,NRT,Asia Pacific,Tokyo,101,9.52
+168.138.206.236,80,80,false,LAX,North America,Los Angeles,183,9.51
+138.3.222.204,8443,8443,true,NRT,Asia Pacific,Tokyo,83,9.50
+151.145.68.166,8080,8080,false,LAX,North America,Los Angeles,185,9.49
+143.47.187.187,443,443,true,FRA,Europe,Frankfurt,177,9.48
+144.21.59.35,443,0,true,FRA,Europe,Frankfurt,180,9.48
+151.145.70.28,8080,8080,false,NRT,Asia Pacific,Tokyo,80,9.47
+151.145.75.28,2052,2052,false,NRT,Asia Pacific,Tokyo,88,9.47
+141.147.45.195,2052,443,true,CDG,Europe,Paris,177,9.47
+143.47.180.222,443,443,true,FRA,Europe,Frankfurt,156,9.46
+141.147.76.17,443,443,true,FRA,Europe,Frankfurt,193,9.46
+130.162.184.162,443,443,true,FRA,Europe,Frankfurt,181,9.45
+132.226.9.173,8880,8880,false,LAX,North America,Los Angeles,186,9.44
+132.145.126.21,2083,2083,true,NRT,Asia Pacific,Tokyo,74,9.44
+168.138.206.109,2096,2096,true,NRT,Asia Pacific,Tokyo,70,9.43
+151.145.69.105,2082,2082,false,HKG,Asia Pacific,Hong Kong,133,9.43
+143.47.234.203,443,443,true,FRA,Europe,Frankfurt,180,9.43
+144.24.85.158,443,443,true,ICN,Asia Pacific,Seoul,67,9.42
+158.101.142.103,8080,8080,false,NRT,Asia Pacific,Tokyo,74,9.42
+132.145.123.238,2086,2086,false,LAX,North America,Los Angeles,187,9.41
+168.138.200.159,2096,2096,true,NRT,Asia Pacific,Tokyo,74,9.41
+129.146.46.164,443,443,true,LAX,North America,Los Angeles,186,9.40
+143.47.234.126,443,443,true,FRA,Europe,Frankfurt,190,9.38
+138.2.20.230,80,80,false,HKG,Asia Pacific,Hong Kong,135,9.37
+158.101.137.74,2096,2096,true,LAX,North America,Los Angeles,187,9.37
+168.138.206.109,2087,2087,true,NRT,Asia Pacific,Tokyo,82,9.36
+158.101.146.165,2052,2052,false,LAX,North America,Los Angeles,181,9.36
+138.2.19.122,2082,2082,false,LAX,North America,Los Angeles,183,9.35
+168.138.206.68,2083,2083,true,NRT,Asia Pacific,Tokyo,78,9.35
+138.2.12.32,80,80,false,LAX,North America,Los Angeles,175,9.34
+132.226.6.5,8880,8880,false,LAX,North America,Los Angeles,174,9.34
+130.162.168.138,443,443,true,FRA,Europe,Frankfurt,204,9.33
+84.235.162.31,443,443,true,FRA,Europe,Frankfurt,174,9.31
+138.2.31.68,80,80,false,HKG,Asia Pacific,Hong Kong,133,9.30
+150.230.193.89,2052,0,false,LAX,North America,Los Angeles,176,9.30
+158.101.150.74,2083,2083,true,SIN,Asia Pacific,Singapore,170,9.29
+151.145.66.219,8443,8443,true,NRT,Asia Pacific,Tokyo,79,9.29
+132.226.5.102,2053,2053,true,LAX,North America,Los Angeles,178,9.28
+168.138.198.202,2083,2083,true,NRT,Asia Pacific,Tokyo,75,9.27
+158.101.155.246,2053,2053,true,LAX,North America,Los Angeles,226,9.25
+129.146.247.85,2053,443,true,LAX,North America,Los Angeles,173,9.25
+151.145.66.219,2095,2095,false,NRT,Asia Pacific,Tokyo,69,9.25
+138.2.13.133,8080,8080,false,HKG,Asia Pacific,Hong Kong,139,9.24
+143.47.226.0,443,443,true,FRA,Europe,Frankfurt,180,9.24
+138.3.254.39,443,443,true,FRA,Europe,Frankfurt,242,9.24
+168.138.200.159,8443,8443,true,NRT,Asia Pacific,Tokyo,76,9.24
+158.179.188.7,2087,2087,true,LAX,North America,Los Angeles,187,9.24
+138.2.18.11,2082,2082,false,LAX,North America,Los Angeles,176,9.21
+143.47.240.198,443,443,true,MUC,Europe,Munich,195,9.21
+132.145.123.14,80,80,false,NRT,Asia Pacific,Tokyo,78,9.21
+150.230.219.83,8080,8080,false,LAX,North America,Los Angeles,192,9.21
+158.101.152.221,2096,2096,true,LAX,North America,Los Angeles,227,9.19
+89.168.120.75,443,443,true,FRA,Europe,Frankfurt,232,9.19
+168.138.198.202,2096,2096,true,NRT,Asia Pacific,Tokyo,82,9.19
+158.101.158.251,2083,2083,true,LAX,North America,Los Angeles,182,9.18
+138.3.220.4,2082,2082,false,LAX,North America,Los Angeles,176,9.18
+138.2.21.31,8443,8443,true,LAX,North America,Los Angeles,192,9.17
+138.2.10.251,2095,2095,false,LAX,North America,Los Angeles,184,9.16
+158.101.140.255,2053,2053,true,LAX,North America,Los Angeles,285,9.16
+158.101.158.238,8080,8080,false,NRT,Asia Pacific,Tokyo,77,9.15
+132.145.124.198,2095,2095,false,LAX,North America,Los Angeles,193,9.14
+140.83.35.172,2053,2053,true,LAX,North America,Los Angeles,193,9.11
+158.179.191.14,2052,2052,false,NRT,Asia Pacific,Tokyo,69,9.10
+158.101.140.255,2083,2083,true,LAX,North America,Los Angeles,212,9.09
+150.230.105.179,2052,0,false,NRT,Asia Pacific,Tokyo,84,9.07
+138.3.223.70,2086,2086,false,NRT,Asia Pacific,Tokyo,70,9.07
+168.138.198.53,2053,2053,true,NRT,Asia Pacific,Tokyo,72,9.07
+144.21.62.76,443,443,true,FRA,Europe,Frankfurt,196,9.06
+132.145.126.204,8443,8443,true,NRT,Asia Pacific,Tokyo,70,9.06
+138.3.212.144,2083,2083,true,NRT,Asia Pacific,Tokyo,89,9.05
+138.3.217.39,2086,2086,false,LAX,North America,Los Angeles,182,9.03
+151.145.71.40,2087,2087,true,NRT,Asia Pacific,Tokyo,88,9.03
+138.2.31.68,2087,2087,true,HKG,Asia Pacific,Hong Kong,192,9.01
+138.2.31.68,2053,2053,true,HKG,Asia Pacific,Hong Kong,130,9.00
+168.138.205.195,2083,2083,true,NRT,Asia Pacific,Tokyo,86,8.99
+138.3.220.4,2052,2052,false,LAX,North America,Los Angeles,176,8.97
+158.101.140.154,8080,8080,false,HKG,Asia Pacific,Hong Kong,133,8.96
+168.138.207.64,2053,2053,true,NRT,Asia Pacific,Tokyo,79,8.96
+150.230.105.53,2095,2095,false,LAX,North America,Los Angeles,183,8.94
+151.145.68.166,8880,8880,false,HKG,Asia Pacific,Hong Kong,159,8.93
+129.153.119.97,443,443,true,LAX,North America,Los Angeles,213,8.93
+158.101.133.129,2087,2087,true,NRT,Asia Pacific,Tokyo,146,8.91
+132.226.9.173,2087,2087,true,LAX,North America,Los Angeles,182,8.91
+138.3.223.50,2095,2095,false,NRT,Asia Pacific,Tokyo,71,8.91
+138.2.21.31,2052,2052,false,LAX,North America,Los Angeles,183,8.89
+132.145.125.86,2053,2053,true,NRT,Asia Pacific,Tokyo,71,8.88
+151.145.66.219,2083,2083,true,NRT,Asia Pacific,Tokyo,79,8.81
+130.162.182.167,443,443,true,FRA,Europe,Frankfurt,189,8.81
+168.138.206.109,2095,2095,false,NRT,Asia Pacific,Tokyo,89,8.80
+168.138.200.155,2082,2082,false,LAX,North America,Los Angeles,181,8.80
+158.180.24.169,443,443,true,FRA,Europe,Frankfurt,170,8.79
+151.145.69.174,80,80,false,NRT,Asia Pacific,Tokyo,72,8.78
+158.101.144.189,80,80,false,NRT,Asia Pacific,Tokyo,68,8.78
+168.138.207.64,2096,2096,true,NRT,Asia Pacific,Tokyo,68,8.76
+132.226.5.102,2082,2082,false,LAX,North America,Los Angeles,175,8.76
+132.145.120.103,2082,2082,false,NRT,Asia Pacific,Tokyo,75,8.75
+132.226.6.5,2095,2095,false,HKG,Asia Pacific,Hong Kong,145,8.73
+158.101.149.122,2052,2052,false,LAX,North America,Los Angeles,184,8.73
+158.101.148.221,2053,2053,true,HKG,Asia Pacific,Hong Kong,142,8.73
+138.3.214.43,2095,2095,false,LAX,North America,Los Angeles,178,8.72
+130.61.109.6,2053,443,true,FRA,Europe,Frankfurt,178,8.72
+158.179.188.7,2052,2052,false,LAX,North America,Los Angeles,175,8.71
+158.101.140.154,2086,2086,false,LAX,North America,Los Angeles,184,8.71
+158.179.188.159,8443,8443,true,LAX,North America,Los Angeles,203,8.71
+158.179.188.7,8443,8443,true,HKG,Asia Pacific,Hong Kong,182,8.68
+138.2.31.68,2096,2096,true,HKG,Asia Pacific,Hong Kong,179,8.68
+150.230.116.26,443,443,true,FRA,Europe,Frankfurt,166,8.66
+158.101.131.218,2086,2086,false,HKG,Asia Pacific,Hong Kong,152,8.66
+158.101.146.165,8080,8080,false,LAX,North America,Los Angeles,199,8.66
+158.101.159.212,80,80,false,HKG,Asia Pacific,Hong Kong,135,8.65
+141.147.78.11,443,443,true,FRA,Europe,Frankfurt,191,8.62
+158.101.143.49,2053,2053,true,NRT,Asia Pacific,Tokyo,197,8.61
+138.3.223.50,80,80,false,NRT,Asia Pacific,Tokyo,69,8.61
+158.101.140.154,80,80,false,LAX,North America,Los Angeles,187,8.60
+158.101.159.212,2083,2083,true,LAX,North America,Los Angeles,207,8.60
+158.101.146.165,2095,2095,false,LAX,North America,Los Angeles,176,8.59
+140.83.53.190,443,443,true,KIX,Asia Pacific,Osaka,68,8.58
+168.138.200.155,8080,8080,false,LAX,North America,Los Angeles,175,8.57
+158.101.136.239,2095,2095,false,NRT,Asia Pacific,Tokyo,72,8.55
+158.101.149.122,2096,2096,true,HKG,Asia Pacific,Hong Kong,194,8.54
+158.101.154.70,8880,8880,false,LAX,North America,Los Angeles,200,8.54
+158.179.191.14,8443,8443,true,NRT,Asia Pacific,Tokyo,76,8.53
+158.179.188.159,2096,2096,true,LAX,North America,Los Angeles,258,8.52
+151.145.74.56,2082,2082,false,LAX,North America,Los Angeles,175,8.52
+150.230.105.179,8080,0,false,NRT,Asia Pacific,Tokyo,86,8.49
+132.145.121.34,8880,0,false,LAX,North America,Los Angeles,182,8.48
+131.186.41.255,2095,2095,false,HKG,Asia Pacific,Hong Kong,139,8.47
+138.2.10.251,80,80,false,LAX,North America,Los Angeles,189,8.47
+138.2.8.232,80,80,false,LAX,North America,Los Angeles,184,8.46
+158.101.139.42,2053,2053,true,LAX,North America,Los Angeles,210,8.46
+168.138.206.236,2095,2095,false,LAX,North America,Los Angeles,176,8.45
+132.145.120.115,8880,8880,false,LAX,North America,Los Angeles,184,8.44
+138.2.14.248,8080,8080,false,HKG,Asia Pacific,Hong Kong,136,8.44
+138.2.24.114,2096,2096,true,LAX,North America,Los Angeles,282,8.43
+158.101.159.181,2052,2052,false,LAX,North America,Los Angeles,179,8.41
+140.83.37.200,2053,2053,true,LAX,North America,Los Angeles,176,8.41
+138.3.212.162,2095,2095,false,LAX,North America,Los Angeles,190,8.40
+138.3.216.67,80,80,false,NRT,Asia Pacific,Tokyo,69,8.39
+158.101.140.255,2052,2052,false,LAX,North America,Los Angeles,187,8.38
+158.101.140.154,2087,2087,true,LAX,North America,Los Angeles,176,8.38
+158.101.155.246,8880,8880,false,LAX,North America,Los Angeles,196,8.38
+158.101.148.221,2095,2095,false,HKG,Asia Pacific,Hong Kong,129,8.36
+138.3.212.226,2086,2086,false,LAX,North America,Los Angeles,187,8.34
+138.2.13.200,2053,2053,true,HKG,Asia Pacific,Hong Kong,136,8.34
+158.179.206.143,443,443,true,ARN,Europe,Stockholm,223,8.31
+132.145.126.204,2053,2053,true,NRT,Asia Pacific,Tokyo,71,8.30
+151.145.68.104,8080,8080,false,LAX,North America,Los Angeles,177,8.30
+131.186.45.88,2052,0,false,LAX,North America,Los Angeles,177,8.30
+158.101.146.160,2052,2052,false,LAX,North America,Los Angeles,175,8.29
+151.145.69.105,8080,8080,false,HKG,Asia Pacific,Hong Kong,131,8.29
+144.21.43.13,443,443,true,FRA,Europe,Frankfurt,192,8.28
+138.3.223.70,8080,8080,false,NRT,Asia Pacific,Tokyo,70,8.28
+138.2.18.11,2053,2053,true,LAX,North America,Los Angeles,194,8.27
+140.238.36.216,2083,2083,true,NRT,Asia Pacific,Tokyo,103,8.26
+132.145.121.123,2052,2052,false,LAX,North America,Los Angeles,187,8.26
+158.101.146.165,2087,2087,true,HKG,Asia Pacific,Hong Kong,168,8.25
+138.2.8.232,2082,2082,false,SIN,Asia Pacific,Singapore,156,8.25
+138.3.214.43,2082,2082,false,LAX,North America,Los Angeles,175,8.25
+141.147.178.115,8880,8880,false,LAX,North America,Los Angeles,183,8.25
+151.145.68.166,2082,2082,false,LAX,North America,Los Angeles,191,8.24
+158.101.146.160,2083,2083,true,SIN,Asia Pacific,Singapore,152,8.22
+158.101.146.160,2095,2095,false,LAX,North America,Los Angeles,186,8.22
+158.101.133.129,2086,2086,false,NRT,Asia Pacific,Tokyo,70,8.22
+158.101.146.165,2082,2082,false,LAX,North America,Los Angeles,183,8.21
+132.145.123.159,2095,2095,false,NRT,Asia Pacific,Tokyo,70,8.21
+151.145.71.127,2086,2086,false,LAX,North America,Los Angeles,174,8.21
+158.101.148.221,2096,2096,true,HKG,Asia Pacific,Hong Kong,166,8.18
+138.2.14.209,2096,2096,true,LAX,North America,Los Angeles,223,8.18
+158.101.140.255,2053,2053,true,HKG,Asia Pacific,Hong Kong,224,8.16
+151.145.74.199,2087,2087,true,NRT,Asia Pacific,Tokyo,76,8.14
+158.101.149.122,8880,8880,false,LAX,North America,Los Angeles,182,8.14
+138.2.29.102,8880,8880,false,LAX,North America,Los Angeles,181,8.14
+138.3.217.39,2052,2052,false,LAX,North America,Los Angeles,179,8.14
+141.148.226.165,443,443,true,CDG,Europe,Paris,168,8.13
+158.101.139.42,8443,8443,true,LAX,North America,Los Angeles,202,8.13
+158.101.137.74,8080,8080,false,LAX,North America,Los Angeles,202,8.09
+168.138.206.68,2082,2082,false,NRT,Asia Pacific,Tokyo,78,8.07
+138.3.217.39,80,80,false,LAX,North America,Los Angeles,180,8.03
+138.3.214.43,2086,2086,false,LAX,North America,Los Angeles,193,7.97
+158.101.140.255,2082,2082,false,LAX,North America,Los Angeles,189,7.95
+158.101.145.246,8080,8080,false,NRT,Asia Pacific,Tokyo,75,7.93
+141.147.183.96,8080,8080,false,LAX,North America,Los Angeles,178,7.93
+138.3.210.114,2095,2095,false,LAX,North America,Los Angeles,176,7.91
+130.162.168.186,443,443,true,FRA,Europe,Frankfurt,174,7.91
+158.101.149.52,2053,2053,true,NRT,Asia Pacific,Tokyo,184,7.90
+132.226.5.102,80,80,false,LAX,North America,Los Angeles,175,7.90
+140.238.38.245,2096,2096,true,NRT,Asia Pacific,Tokyo,77,7.88
+158.101.143.49,8080,8080,false,NRT,Asia Pacific,Tokyo,74,7.88
+158.101.137.74,2095,2095,false,LAX,North America,Los Angeles,192,7.86
+151.145.71.127,8880,8880,false,LAX,North America,Los Angeles,182,7.85
+158.101.154.70,2052,2052,false,LAX,North America,Los Angeles,177,7.85
+132.226.123.8,443,443,true,LAX,North America,Los Angeles,196,7.84
+158.101.146.160,2086,2086,false,LAX,North America,Los Angeles,184,7.83
+139.185.34.131,443,443,true,CDG,Europe,Paris,85,7.83
+132.226.13.229,8443,443,true,NRT,Asia Pacific,Tokyo,69,7.82
+131.186.44.38,2086,2086,false,NRT,Asia Pacific,Tokyo,82,7.80
+138.2.21.31,2086,2086,false,SIN,Asia Pacific,Singapore,169,7.80
+158.179.188.159,2053,2053,true,LAX,North America,Los Angeles,228,7.79
+168.138.200.155,8880,8880,false,LAX,North America,Los Angeles,174,7.79
+158.101.143.49,2082,2082,false,NRT,Asia Pacific,Tokyo,77,7.79
+138.2.29.250,8880,8880,false,LAX,North America,Los Angeles,180,7.78
+168.138.202.169,2095,2095,false,NRT,Asia Pacific,Tokyo,73,7.78
+140.83.35.172,2096,2096,true,LAX,North America,Los Angeles,176,7.78
+151.145.65.8,2082,2082,false,NRT,Asia Pacific,Tokyo,77,7.71
+132.226.6.5,2052,2052,false,HKG,Asia Pacific,Hong Kong,138,7.71
+141.145.199.188,443,443,true,CDG,Europe,Paris,256,7.70
+158.101.148.221,2083,2083,true,HKG,Asia Pacific,Hong Kong,132,7.70
+138.2.14.209,2087,2087,true,LAX,North America,Los Angeles,182,7.69
+168.138.200.155,2052,2052,false,LAX,North America,Los Angeles,184,7.69
+150.230.99.173,2052,0,false,LAX,North America,Los Angeles,180,7.68
+158.179.188.159,2052,2052,false,LAX,North America,Los Angeles,176,7.67
+138.2.29.250,8080,8080,false,LAX,North America,Los Angeles,193,7.65
+138.2.14.209,8080,8080,false,LAX,North America,Los Angeles,183,7.65
+141.147.174.190,2082,2082,false,LAX,North America,Los Angeles,185,7.65
+138.3.220.4,8880,8880,false,LAX,North America,Los Angeles,180,7.64
+141.147.178.135,2082,2082,false,HKG,Asia Pacific,Hong Kong,132,7.61
+138.2.24.114,2082,2082,false,LAX,North America,Los Angeles,186,7.59
+138.3.212.162,8080,8080,false,LAX,North America,Los Angeles,193,7.58
+150.230.97.239,80,0,false,LAX,North America,Los Angeles,209,7.57
+130.162.179.49,443,443,true,FRA,Europe,Frankfurt,177,7.56
+158.101.148.221,2087,2087,true,HKG,Asia Pacific,Hong Kong,129,7.56
+131.186.47.223,8880,8880,false,LAX,North America,Los Angeles,176,7.55
+158.101.155.246,2087,2087,true,LAX,North America,Los Angeles,187,7.54
+151.145.69.105,2096,2096,true,HKG,Asia Pacific,Hong Kong,130,7.54
+158.101.144.189,2052,2052,false,NRT,Asia Pacific,Tokyo,80,7.54
+138.2.14.209,2095,2095,false,LAX,North America,Los Angeles,180,7.53
+158.101.136.239,2087,2087,true,NRT,Asia Pacific,Tokyo,110,7.53
+158.101.155.158,8443,8443,true,HKG,Asia Pacific,Hong Kong,157,7.52
+143.47.248.197,443,443,true,FRA,Europe,Frankfurt,174,7.51
+138.2.132.77,443,443,true,FRA,Europe,Frankfurt,191,7.48
+158.179.191.14,8080,8080,false,NRT,Asia Pacific,Tokyo,68,7.46
+138.2.31.68,8880,8880,false,HKG,Asia Pacific,Hong Kong,136,7.45
+140.83.35.172,2083,2083,true,LAX,North America,Los Angeles,180,7.44
+141.147.168.159,2086,2086,false,LAX,North America,Los Angeles,177,7.43
+138.2.20.230,2096,2096,true,LAX,North America,Los Angeles,202,7.43
+151.145.74.56,8080,8080,false,LAX,North America,Los Angeles,178,7.42
+138.3.210.114,2086,2086,false,LAX,North America,Los Angeles,196,7.42
+138.3.223.50,8080,8080,false,NRT,Asia Pacific,Tokyo,75,7.41
+138.3.210.114,80,80,false,LAX,North America,Los Angeles,184,7.40
+140.238.59.255,2096,2096,true,NRT,Asia Pacific,Tokyo,71,7.39
+151.145.65.203,80,80,false,LAX,North America,Los Angeles,193,7.39
+138.2.20.230,2053,2053,true,LAX,North America,Los Angeles,202,7.39
+132.145.121.34,2052,0,false,LAX,North America,Los Angeles,182,7.38
+158.101.137.96,2086,2086,false,NRT,Asia Pacific,Tokyo,71,7.37
+144.21.53.168,443,443,true,AMS,Europe,Amsterdam,183,7.37
+132.145.113.148,8080,8080,false,LAX,North America,Los Angeles,181,7.36
+158.101.137.74,8443,8443,true,LAX,North America,Los Angeles,193,7.36
+168.138.206.109,2053,2053,true,NRT,Asia Pacific,Tokyo,80,7.35
+168.138.206.109,8443,8443,true,NRT,Asia Pacific,Tokyo,87,7.32
+141.147.183.96,2082,2082,false,HKG,Asia Pacific,Hong Kong,150,7.32
+132.145.125.165,2083,2083,true,NRT,Asia Pacific,Tokyo,79,7.30
+158.101.148.221,8443,8443,true,HKG,Asia Pacific,Hong Kong,132,7.29
+158.101.147.4,2087,2087,true,LAX,North America,Los Angeles,205,7.28
+138.3.208.9,2087,2087,true,HKG,Asia Pacific,Hong Kong,192,7.26
+131.186.59.94,8880,8880,false,LAX,North America,Los Angeles,178,7.25
+138.2.31.68,2083,2083,true,HKG,Asia Pacific,Hong Kong,233,7.25
+158.101.145.246,2095,2095,false,NRT,Asia Pacific,Tokyo,70,7.24
+131.186.59.94,2052,0,false,HKG,Asia Pacific,Hong Kong,136,7.24
+158.179.188.7,2083,2083,true,LAX,North America,Los Angeles,252,7.23
+131.186.40.31,2095,2095,false,HKG,Asia Pacific,Hong Kong,123,7.23
+158.101.155.246,8080,8080,false,LAX,North America,Los Angeles,181,7.23
+131.186.37.191,8080,8080,false,LAX,North America,Los Angeles,189,7.22
+138.3.210.114,2082,2082,false,LAX,North America,Los Angeles,180,7.22
+158.101.154.70,8443,8443,true,LAX,North America,Los Angeles,182,7.20
+141.147.178.202,80,80,false,HKG,Asia Pacific,Hong Kong,144,7.19
+132.226.6.5,8080,8080,false,LAX,North America,Los Angeles,187,7.17
+150.230.99.173,8880,0,false,LAX,North America,Los Angeles,188,7.16
+158.179.191.14,2053,2053,true,NRT,Asia Pacific,Tokyo,79,7.16
+138.2.20.230,2083,2083,true,LAX,North America,Los Angeles,277,7.16
+143.47.243.144,2053,443,true,LHR,Europe,London,194,7.16
+158.101.159.212,2087,2087,true,LAX,North America,Los Angeles,252,7.14
+132.145.114.14,8080,8080,false,NRT,Asia Pacific,Tokyo,71,7.14
+138.2.24.114,2086,2086,false,LAX,North America,Los Angeles,176,7.13
+140.83.37.200,2083,2083,true,HKG,Asia Pacific,Hong Kong,141,7.13
+131.186.37.69,80,80,false,NRT,Asia Pacific,Tokyo,72,7.12
+151.145.69.105,2086,2086,false,HKG,Asia Pacific,Hong Kong,128,7.12
+158.101.131.218,2096,2096,true,LAX,North America,Los Angeles,210,7.12
+158.101.158.251,2096,2096,true,LAX,North America,Los Angeles,266,7.11
+158.101.159.212,2096,2096,true,LAX,North America,Los Angeles,203,7.08
+168.138.205.195,2096,2096,true,NRT,Asia Pacific,Tokyo,74,7.08
+138.2.8.232,8880,8880,false,HKG,Asia Pacific,Hong Kong,135,7.08
+131.186.34.11,8080,8080,false,NRT,Asia Pacific,Tokyo,74,7.07
+151.145.68.104,2086,2086,false,LAX,North America,Los Angeles,182,7.07
+158.101.155.158,2052,2052,false,LAX,North America,Los Angeles,184,7.07
+138.2.29.102,2095,2095,false,HKG,Asia Pacific,Hong Kong,143,7.04
+138.3.214.43,2052,2052,false,HKG,Asia Pacific,Hong Kong,135,7.04
+138.2.20.230,2087,2087,true,LAX,North America,Los Angeles,187,7.04
+131.186.45.88,8880,8880,false,LAX,North America,Los Angeles,184,7.01
+138.2.14.164,2052,2052,false,LAX,North America,Los Angeles,179,7.01
+158.180.24.71,443,443,true,FRA,Europe,Frankfurt,236,7.01
+151.145.71.127,2052,2052,false,LAX,North America,Los Angeles,181,7.00
+158.179.191.14,2083,2083,true,NRT,Asia Pacific,Tokyo,79,7.00
+158.101.142.103,2052,2052,false,NRT,Asia Pacific,Tokyo,69,7.00
+138.2.13.133,8443,8443,true,LAX,North America,Los Angeles,228,7.00
+140.238.54.164,2083,2083,true,NRT,Asia Pacific,Tokyo,73,6.99
+138.2.8.232,2095,2095,false,HKG,Asia Pacific,Hong Kong,139,6.98
+158.101.148.221,2082,2082,false,HKG,Asia Pacific,Hong Kong,133,6.97
+138.2.20.230,2052,2052,false,LAX,North America,Los Angeles,195,6.97
+158.101.158.251,2095,2095,false,LAX,North America,Los Angeles,184,6.97
+158.101.131.218,2087,2087,true,LAX,North America,Los Angeles,241,6.96
+129.153.61.213,443,443,true,YYZ,North America,Toronto,228,6.95
+138.2.14.164,2053,2053,true,LAX,North America,Los Angeles,267,6.94
+140.238.50.99,2053,2053,true,NRT,Asia Pacific,Tokyo,81,6.94
+132.226.5.102,2095,2095,false,LAX,North America,Los Angeles,190,6.90
+131.186.63.35,2052,2052,false,LAX,North America,Los Angeles,188,6.90
+140.83.36.42,80,80,false,LAX,North America,Los Angeles,182,6.89
+141.147.181.148,2086,2086,false,LAX,North America,Los Angeles,182,6.89
+158.101.147.4,2082,2082,false,HKG,Asia Pacific,Hong Kong,134,6.89
+158.179.188.159,2083,2083,true,SIN,Asia Pacific,Singapore,156,6.88
+140.83.36.42,2087,2087,true,LAX,North America,Los Angeles,201,6.88
+131.186.58.151,2052,2052,false,NRT,Asia Pacific,Tokyo,81,6.87
+132.226.9.173,2086,2086,false,LAX,North America,Los Angeles,175,6.87
+140.238.61.78,2083,2083,true,NRT,Asia Pacific,Tokyo,71,6.87
+138.2.13.200,2096,2096,true,LAX,North America,Los Angeles,196,6.86
+140.83.35.172,2087,2087,true,LAX,North America,Los Angeles,198,6.85
+158.101.139.42,2095,2095,false,LAX,North America,Los Angeles,184,6.83
+138.2.14.209,2082,2082,false,LAX,North America,Los Angeles,175,6.82
+132.145.127.51,80,80,false,LAX,North America,Los Angeles,182,6.82
+193.122.197.111,443,443,true,IAD,North America,Ashburn,236,6.82
+151.145.68.166,2086,2086,false,LAX,North America,Los Angeles,174,6.81
+138.3.215.11,2083,2083,true,HKG,Asia Pacific,Hong Kong,128,6.81
+138.2.18.11,2086,2086,false,LAX,North America,Los Angeles,187,6.80
+151.145.71.127,2082,2082,false,HKG,Asia Pacific,Hong Kong,140,6.79
+141.147.174.190,2086,2086,false,LAX,North America,Los Angeles,179,6.79
+130.61.107.238,8443,443,true,FRA,Europe,Frankfurt,189,6.78
+140.83.37.200,8880,8880,false,LAX,North America,Los Angeles,183,6.78
+132.226.5.102,8080,8080,false,LAX,North America,Los Angeles,190,6.78
+138.2.21.31,8080,8080,false,LAX,North America,Los Angeles,188,6.76
+138.2.21.31,2083,2083,true,LAX,North America,Los Angeles,228,6.75
+151.145.69.105,2053,2053,true,HKG,Asia Pacific,Hong Kong,125,6.75
+158.101.158.251,8443,8443,true,LAX,North America,Los Angeles,235,6.75
+158.179.188.7,2096,2096,true,HKG,Asia Pacific,Hong Kong,138,6.75
+132.226.9.173,2095,2095,false,LAX,North America,Los Angeles,194,6.71
+132.226.157.212,443,443,true,LAX,North America,Los Angeles,203,6.71
+151.145.74.56,80,80,false,LAX,North America,Los Angeles,176,6.71
+158.101.158.251,2082,2082,false,LAX,North America,Los Angeles,196,6.70
+129.146.248.140,443,443,true,LAX,North America,Los Angeles,184,6.69
+150.230.97.239,2086,2086,false,LAX,North America,Los Angeles,187,6.69
+138.2.13.133,2096,2096,true,LAX,North America,Los Angeles,239,6.67
+158.101.159.212,2053,2053,true,LAX,North America,Los Angeles,273,6.65
+140.238.50.99,2087,2087,true,NRT,Asia Pacific,Tokyo,74,6.65
+138.2.24.114,80,80,false,LAX,North America,Los Angeles,191,6.65
+131.186.62.26,8880,8880,false,HKG,Asia Pacific,Hong Kong,135,6.65
+151.145.74.56,2095,2095,false,LAX,North America,Los Angeles,175,6.64
+150.230.106.21,2052,0,false,LAX,North America,Los Angeles,179,6.64
+151.145.75.28,80,80,false,NRT,Asia Pacific,Tokyo,80,6.63
+168.138.202.169,8443,8443,true,NRT,Asia Pacific,Tokyo,71,6.63
+168.138.205.38,2086,2086,false,LAX,North America,Los Angeles,194,6.63
+158.101.152.221,2053,2053,true,LAX,North America,Los Angeles,222,6.63
+132.145.124.198,2087,2087,true,LAX,North America,Los Angeles,186,6.62
+158.101.142.103,8443,8443,true,NRT,Asia Pacific,Tokyo,80,6.61
+158.101.131.218,2087,2087,true,LAX,North America,Los Angeles,213,6.61
+138.2.14.248,8443,8443,true,HKG,Asia Pacific,Hong Kong,225,6.60
+151.145.74.199,8880,8880,false,NRT,Asia Pacific,Tokyo,90,6.60
+132.145.120.197,2082,2082,false,NRT,Asia Pacific,Tokyo,72,6.60
+140.238.29.117,443,80,false,LAX,North America,Los Angeles,110,6.59
+131.186.38.135,2086,2086,false,LAX,North America,Los Angeles,175,6.59
+158.101.142.103,2095,2095,false,NRT,Asia Pacific,Tokyo,80,6.58
+158.101.146.160,80,80,false,LAX,North America,Los Angeles,188,6.58
+131.186.43.107,2052,2052,false,HKG,Asia Pacific,Hong Kong,140,6.57
+158.101.142.103,2082,2082,false,NRT,Asia Pacific,Tokyo,77,6.56
+138.2.12.32,2083,2083,true,LAX,North America,Los Angeles,203,6.56
+138.2.19.122,2053,2053,true,LAX,North America,Los Angeles,204,6.56
+158.179.191.14,2087,2087,true,NRT,Asia Pacific,Tokyo,72,6.56
+132.145.123.143,2087,2087,true,NRT,Asia Pacific,Tokyo,78,6.55
+158.101.131.218,8880,8880,false,LAX,North America,Los Angeles,173,6.55
+140.83.36.42,2095,2095,false,HKG,Asia Pacific,Hong Kong,136,6.54
+158.101.152.221,2086,2086,false,LAX,North America,Los Angeles,185,6.54
+132.226.9.173,8080,8080,false,LAX,North America,Los Angeles,183,6.54
+131.186.43.207,2052,2052,false,HKG,Asia Pacific,Hong Kong,140,6.53
+132.145.120.115,80,80,false,LAX,North America,Los Angeles,183,6.52
+158.101.147.4,2083,2083,true,LAX,North America,Los Angeles,225,6.52
+151.145.65.203,2082,2082,false,HKG,Asia Pacific,Hong Kong,135,6.51
+158.101.150.74,2086,2086,false,LAX,North America,Los Angeles,191,6.50
+132.145.120.197,8080,8080,false,NRT,Asia Pacific,Tokyo,71,6.50
+150.136.241.40,8443,443,true,IAD,North America,Ashburn,230,6.50
+131.186.40.31,8880,8880,false,HKG,Asia Pacific,Hong Kong,130,6.49
+150.230.108.135,2095,0,false,LAX,North America,Los Angeles,181,6.47
+158.179.188.7,2082,2082,false,LAX,North America,Los Angeles,189,6.47
+158.101.140.154,2083,2083,true,LAX,North America,Los Angeles,187,6.47
+138.2.18.11,2095,2095,false,LAX,North America,Los Angeles,185,6.47
+158.101.155.158,8080,8080,false,SIN,Asia Pacific,Singapore,163,6.47
+158.101.140.255,2087,2087,true,LAX,North America,Los Angeles,184,6.45
+138.2.19.122,2087,2087,true,LAX,North America,Los Angeles,195,6.44
+130.61.109.6,2096,443,true,FRA,Europe,Frankfurt,182,6.42
+138.3.210.114,2087,2087,true,LAX,North America,Los Angeles,226,6.42
+158.101.152.221,2083,2083,true,LAX,North America,Los Angeles,191,6.41
+158.179.188.159,80,80,false,LAX,North America,Los Angeles,180,6.41
+131.186.44.38,2095,2095,false,NRT,Asia Pacific,Tokyo,71,6.41
+132.226.5.102,2086,2086,false,LAX,North America,Los Angeles,184,6.40
+158.101.154.70,8080,8080,false,LAX,North America,Los Angeles,183,6.40
+151.145.65.8,2095,2095,false,NRT,Asia Pacific,Tokyo,70,6.40
+141.145.206.16,8443,443,true,CDG,Europe,Paris,259,6.37
+151.145.65.203,2052,2052,false,HKG,Asia Pacific,Hong Kong,128,6.37
+158.101.133.129,2087,2087,true,NRT,Asia Pacific,Tokyo,88,6.37
+140.83.35.172,2086,2086,false,HKG,Asia Pacific,Hong Kong,139,6.36
+158.101.140.154,2096,2096,true,LAX,North America,Los Angeles,183,6.36
+132.145.124.198,2052,2052,false,LAX,North America,Los Angeles,175,6.35
+132.145.123.238,2096,2096,true,HKG,Asia Pacific,Hong Kong,137,6.34
+138.2.18.11,8880,8880,false,LAX,North America,Los Angeles,176,6.34
+132.226.5.102,2052,2052,false,LAX,North America,Los Angeles,184,6.34
+138.2.14.209,2083,2083,true,LAX,North America,Los Angeles,184,6.34
+158.101.147.4,8443,8443,true,LAX,North America,Los Angeles,197,6.33
+158.101.149.122,2087,2087,true,LAX,North America,Los Angeles,240,6.33
+138.2.8.232,2086,2086,false,LAX,North America,Los Angeles,177,6.33
+158.101.140.255,2096,2096,true,LAX,North America,Los Angeles,185,6.31
+158.101.133.129,8880,8880,false,NRT,Asia Pacific,Tokyo,81,6.30
+138.2.19.122,2086,2086,false,LAX,North America,Los Angeles,176,6.29
+158.101.159.181,2053,2053,true,LAX,North America,Los Angeles,212,6.29
+158.101.150.74,2082,2082,false,LAX,North America,Los Angeles,178,6.29
+141.147.178.202,2095,2095,false,LAX,North America,Los Angeles,179,6.28
+158.101.137.96,2096,2096,true,NRT,Asia Pacific,Tokyo,72,6.28
+158.101.137.74,2053,2053,true,LAX,North America,Los Angeles,211,6.27
+131.186.37.191,2082,2082,false,LAX,North America,Los Angeles,187,6.27
+140.238.35.138,2096,2096,true,NRT,Asia Pacific,Tokyo,71,6.27
+138.2.13.133,2086,2086,false,LAX,North America,Los Angeles,174,6.26
+138.2.10.251,2082,2082,false,LAX,North America,Los Angeles,176,6.24
+131.186.59.94,8080,0,false,LAX,North America,Los Angeles,175,6.23
+140.238.59.255,2087,2087,true,NRT,Asia Pacific,Tokyo,69,6.22
+158.101.155.158,2082,2082,false,LAX,North America,Los Angeles,182,6.20
+138.2.10.251,2086,2086,false,LAX,North America,Los Angeles,184,6.20
+131.186.36.248,2086,2086,false,NRT,Asia Pacific,Tokyo,76,6.18
+140.238.61.224,2083,2083,true,NRT,Asia Pacific,Tokyo,83,6.18
+158.101.137.74,2096,2096,true,LAX,North America,Los Angeles,301,6.18
+141.147.160.86,80,80,false,LAX,North America,Los Angeles,179,6.17
+140.83.35.172,8443,8443,true,LAX,North America,Los Angeles,183,6.17
+138.2.14.164,2087,2087,true,LAX,North America,Los Angeles,189,6.16
+140.238.60.71,2096,2096,true,NRT,Asia Pacific,Tokyo,92,6.15
+158.101.146.160,8880,8880,false,LAX,North America,Los Angeles,184,6.15
+138.3.216.67,8443,8443,true,NRT,Asia Pacific,Tokyo,97,6.14
+138.3.223.70,2052,2052,false,NRT,Asia Pacific,Tokyo,70,6.14
+158.101.155.158,2086,2086,false,LAX,North America,Los Angeles,175,6.14
+138.3.212.162,2053,2053,true,LAX,North America,Los Angeles,215,6.14
+158.101.148.221,2086,2086,false,HKG,Asia Pacific,Hong Kong,142,6.13
+158.101.139.42,8443,8443,true,LAX,North America,Los Angeles,197,6.13
+132.145.124.198,8880,8880,false,LAX,North America,Los Angeles,180,6.12
+150.230.101.125,2095,0,false,LAX,North America,Los Angeles,187,6.12
+168.138.206.236,2086,2086,false,LAX,North America,Los Angeles,196,6.12
+132.145.123.112,2082,2082,false,LAX,North America,Los Angeles,178,6.12
+151.145.65.203,2095,2095,false,LAX,North America,Los Angeles,185,6.12
+138.2.29.250,2086,2086,false,LAX,North America,Los Angeles,184,6.07
+158.101.145.246,2082,2082,false,NRT,Asia Pacific,Tokyo,74,6.07
+138.2.12.32,2052,2052,false,LAX,North America,Los Angeles,188,6.06
+140.238.35.78,2053,2053,true,NRT,Asia Pacific,Tokyo,81,6.06
+158.101.158.251,2053,2053,true,SIN,Asia Pacific,Singapore,194,6.06
+131.186.43.207,2086,0,false,LAX,North America,Los Angeles,188,6.05
+132.145.123.238,2095,2095,false,HKG,Asia Pacific,Hong Kong,139,6.04
+158.101.159.181,2086,2086,false,HKG,Asia Pacific,Hong Kong,136,6.04
+138.2.13.133,2052,2052,false,LAX,North America,Los Angeles,179,6.04
+138.2.29.250,2052,2052,false,LAX,North America,Los Angeles,187,6.03
+168.138.205.195,2053,2053,true,NRT,Asia Pacific,Tokyo,70,6.03
+140.83.36.42,2083,2083,true,LAX,North America,Los Angeles,176,6.03
+131.186.47.223,2052,0,false,LAX,North America,Los Angeles,176,6.01
+158.101.144.34,2082,2082,false,LAX,North America,Los Angeles,198,6.01
+138.2.12.32,2096,2096,true,HKG,Asia Pacific,Hong Kong,219,6.00
+158.101.152.221,8080,8080,false,LAX,North America,Los Angeles,181,5.99
+141.147.182.76,80,80,false,LAX,North America,Los Angeles,178,5.98
+204.216.105.106,8443,8443,true,YUL,North America,Montréal,256,5.98
+158.101.152.221,2087,2087,true,HKG,Asia Pacific,Hong Kong,136,5.97
+158.101.139.42,2096,2096,true,LAX,North America,Los Angeles,225,5.97
+140.83.37.200,2087,2087,true,LAX,North America,Los Angeles,184,5.97
+138.2.19.122,2095,2095,false,LAX,North America,Los Angeles,180,5.96
+158.101.150.74,2087,2087,true,LAX,North America,Los Angeles,198,5.96
+158.101.150.74,8443,8443,true,HKG,Asia Pacific,Hong Kong,143,5.95
+158.101.136.239,2052,2052,false,NRT,Asia Pacific,Tokyo,69,5.95
+140.83.57.116,8443,80,false,KIX,Asia Pacific,Osaka,76,5.94
+140.238.32.184,2053,2053,true,NRT,Asia Pacific,Tokyo,71,5.93
+158.101.149.122,2083,2083,true,HKG,Asia Pacific,Hong Kong,175,5.93
+168.138.198.53,2086,2086,false,NRT,Asia Pacific,Tokyo,68,5.92
+140.238.33.165,2053,2053,true,NRT,Asia Pacific,Tokyo,77,5.92
+158.101.152.221,2052,2052,false,LAX,North America,Los Angeles,174,5.91
+140.238.52.141,8443,8443,true,LAX,North America,Los Angeles,177,5.91
+158.101.155.158,8880,8880,false,LAX,North America,Los Angeles,188,5.91
+140.238.52.141,2087,2087,true,LAX,North America,Los Angeles,184,5.90
+140.238.50.32,2053,2053,true,NRT,Asia Pacific,Tokyo,70,5.89
+132.145.120.182,2095,2095,false,LAX,North America,Los Angeles,175,5.89
+138.2.14.248,2083,2083,true,HKG,Asia Pacific,Hong Kong,142,5.88
+140.238.51.184,2096,2096,true,NRT,Asia Pacific,Tokyo,71,5.86
+158.101.158.251,2086,2086,false,LAX,North America,Los Angeles,184,5.86
+158.179.188.7,8080,8080,false,LAX,North America,Los Angeles,183,5.86
+140.83.37.200,8080,8080,false,HKG,Asia Pacific,Hong Kong,151,5.85
+150.230.108.135,8880,0,false,HKG,Asia Pacific,Hong Kong,134,5.85
+138.2.21.31,8880,8880,false,LAX,North America,Los Angeles,181,5.84
+158.101.140.255,2087,2087,true,LAX,North America,Los Angeles,179,5.84
+64.110.103.69,443,443,true,KIX,Asia Pacific,Osaka,74,5.84
+168.138.205.38,80,80,false,LAX,North America,Los Angeles,184,5.83
+158.101.155.158,2083,2083,true,LAX,North America,Los Angeles,217,5.83
+158.101.158.251,2052,2052,false,LAX,North America,Los Angeles,175,5.80
+158.101.152.221,2095,2095,false,HKG,Asia Pacific,Hong Kong,145,5.80
+138.2.10.251,2083,2083,true,LAX,North America,Los Angeles,282,5.78
+158.101.146.165,8443,8443,true,LAX,North America,Los Angeles,187,5.76
+138.2.13.200,8880,8880,false,LAX,North America,Los Angeles,183,5.74
+158.179.188.159,8080,8080,false,HKG,Asia Pacific,Hong Kong,140,5.74
+158.179.188.159,2087,2087,true,LAX,North America,Los Angeles,214,5.74
+138.2.12.32,2053,2053,true,LAX,North America,Los Angeles,254,5.73
+151.145.69.105,2087,2087,true,HKG,Asia Pacific,Hong Kong,145,5.71
+140.238.61.224,2096,2096,true,NRT,Asia Pacific,Tokyo,79,5.70
+138.2.21.31,80,80,false,LAX,North America,Los Angeles,191,5.70
+151.145.68.104,2082,2082,false,LAX,North America,Los Angeles,188,5.70
+138.3.212.226,2083,2083,true,LAX,North America,Los Angeles,210,5.70
+140.238.195.98,443,443,true,SYD,Oceania,Sydney,92,5.70
+132.145.120.182,2052,2052,false,LAX,North America,Los Angeles,176,5.69
+138.3.215.11,2096,2096,true,HKG,Asia Pacific,Hong Kong,132,5.69
+158.101.140.154,80,80,false,HKG,Asia Pacific,Hong Kong,138,5.69
+140.238.195.98,443,443,true,SYD,Oceania,Sydney,93,5.69
+140.238.94.117,443,443,true,FRA,Europe,Frankfurt,209,5.68
+158.101.133.129,80,80,false,NRT,Asia Pacific,Tokyo,71,5.68
+141.147.178.202,8880,8880,false,LAX,North America,Los Angeles,184,5.67
+138.2.14.164,2096,2096,true,LAX,North America,Los Angeles,219,5.65
+132.145.117.216,8880,0,false,LAX,North America,Los Angeles,187,5.65
+138.2.29.250,2082,2082,false,LAX,North America,Los Angeles,176,5.64
+138.2.29.250,2083,2083,true,LAX,North America,Los Angeles,311,5.64
+158.101.137.74,2083,2083,true,HKG,Asia Pacific,Hong Kong,135,5.62
+64.110.104.30,443,443,true,KIX,Asia Pacific,Osaka,65,5.61
+132.145.123.112,8880,8880,false,LAX,North America,Los Angeles,176,5.61
+132.145.127.51,2095,2095,false,LAX,North America,Los Angeles,182,5.61
+151.145.64.170,2083,2083,true,LAX,North America,Los Angeles,248,5.60
+158.101.155.158,2096,2096,true,LAX,North America,Los Angeles,213,5.60
+158.179.188.159,2095,2095,false,LAX,North America,Los Angeles,184,5.59
+132.145.112.247,2052,2052,false,HKG,Asia Pacific,Hong Kong,140,5.59
+158.179.188.159,2082,2082,false,LAX,North America,Los Angeles,176,5.58
+158.101.137.96,2087,2087,true,NRT,Asia Pacific,Tokyo,78,5.57
+132.145.113.148,2086,2086,false,LAX,North America,Los Angeles,189,5.56
+131.186.59.94,80,80,false,LAX,North America,Los Angeles,177,5.56
+151.145.68.166,80,80,false,LAX,North America,Los Angeles,180,5.56
+158.101.147.4,2086,2086,false,LAX,North America,Los Angeles,183,5.56
+140.83.36.42,8443,8443,true,HKG,Asia Pacific,Hong Kong,145,5.55
+151.145.68.104,80,80,false,LAX,North America,Los Angeles,181,5.54
+158.101.136.239,8080,8080,false,NRT,Asia Pacific,Tokyo,69,5.51
+158.179.189.106,8443,8443,true,NRT,Asia Pacific,Tokyo,74,5.50
+140.83.37.200,2096,2096,true,LAX,North America,Los Angeles,175,5.50
+158.101.137.74,80,80,false,LAX,North America,Los Angeles,179,5.50
+131.186.37.191,2086,2086,false,LAX,North America,Los Angeles,190,5.45
+158.101.140.154,8443,8443,true,LAX,North America,Los Angeles,208,5.44
+138.2.19.122,2083,2083,true,HKG,Asia Pacific,Hong Kong,165,5.43
+158.101.146.160,2087,2087,true,LAX,North America,Los Angeles,277,5.41
+158.101.139.42,2083,2083,true,LAX,North America,Los Angeles,229,5.41
+138.2.24.114,8080,8080,false,HKG,Asia Pacific,Hong Kong,143,5.40
+158.101.155.246,8443,8443,true,HKG,Asia Pacific,Hong Kong,146,5.38
+158.101.140.255,80,80,false,LAX,North America,Los Angeles,177,5.38
+138.2.18.11,2083,2083,true,LAX,North America,Los Angeles,251,5.38
+158.101.137.74,2083,2083,true,LAX,North America,Los Angeles,216,5.37
+168.138.202.169,2053,2053,true,NRT,Asia Pacific,Tokyo,94,5.37
+138.2.19.122,8443,8443,true,LAX,North America,Los Angeles,306,5.36
+168.138.205.38,2096,2096,true,HKG,Asia Pacific,Hong Kong,143,5.35
+151.145.68.166,2087,2087,true,HKG,Asia Pacific,Hong Kong,149,5.32
+158.101.155.246,2095,2095,false,LAX,North America,Los Angeles,177,5.32
+158.101.140.154,2053,2053,true,LAX,North America,Los Angeles,237,5.32
+132.145.54.84,8443,443,true,LHR,Europe,London,167,5.31
+138.2.14.164,80,80,false,LAX,North America,Los Angeles,191,5.31
+158.101.147.4,8880,8880,false,LAX,North America,Los Angeles,184,5.31
+138.2.13.200,2087,2087,true,LAX,North America,Los Angeles,264,5.31
+152.70.69.199,80,443,true,HYD,Asia Pacific,Hyderabad,43,5.30
+158.101.142.103,8880,8880,false,NRT,Asia Pacific,Tokyo,78,5.29
+158.101.131.218,2082,2082,false,LAX,North America,Los Angeles,191,5.27
+158.101.152.221,2082,2082,false,LAX,North America,Los Angeles,175,5.26
+138.2.8.232,2096,2096,true,LAX,North America,Los Angeles,236,5.24
+138.3.214.43,2083,2083,true,LAX,North America,Los Angeles,215,5.24
+132.226.6.5,2086,2086,false,LAX,North America,Los Angeles,184,5.24
+158.101.149.122,2086,2086,false,LAX,North America,Los Angeles,186,5.23
+168.138.198.53,2096,2096,true,NRT,Asia Pacific,Tokyo,82,5.23
+158.179.188.7,8880,8880,false,LAX,North America,Los Angeles,179,5.22
+132.145.121.123,2095,2095,false,HKG,Asia Pacific,Hong Kong,143,5.22
+146.56.151.87,2087,2096,true,ICN,Asia Pacific,Seoul,97,5.22
+140.83.35.172,80,80,false,LAX,North America,Los Angeles,186,5.22
+151.145.65.203,2086,2086,false,LAX,North America,Los Angeles,194,5.22
+158.101.155.246,2083,2083,true,LAX,North America,Los Angeles,186,5.21
+158.101.144.34,2083,2083,true,LAX,North America,Los Angeles,292,5.21
+131.186.63.127,2052,0,false,LAX,North America,Los Angeles,174,5.21
+138.3.212.162,2096,2096,true,LAX,North America,Los Angeles,222,5.20
+140.83.35.172,2052,2052,false,LAX,North America,Los Angeles,177,5.19
+158.101.139.42,2082,2082,false,LAX,North America,Los Angeles,189,5.19
+132.145.112.168,2082,2082,false,LAX,North America,Los Angeles,179,5.18
+132.145.120.115,2082,2082,false,LAX,North America,Los Angeles,183,5.17
+138.2.19.122,80,80,false,LAX,North America,Los Angeles,192,5.16
+168.138.205.38,2095,2095,false,HKG,Asia Pacific,Hong Kong,145,5.16
+151.145.71.127,2095,2095,false,LAX,North America,Los Angeles,183,5.16
+158.101.140.255,2052,2052,false,LAX,North America,Los Angeles,189,5.15
+158.101.149.71,8443,8443,true,NRT,Asia Pacific,Tokyo,109,5.15
+158.101.154.70,80,80,false,LAX,North America,Los Angeles,189,5.15
+140.238.50.32,8443,8443,true,NRT,Asia Pacific,Tokyo,83,5.14
+131.186.34.244,2082,0,false,LAX,North America,Los Angeles,183,5.14
+130.162.187.43,443,443,true,FRA,Europe,Frankfurt,177,5.14
+158.101.147.4,2096,2096,true,LAX,North America,Los Angeles,207,5.14
+150.230.106.21,80,0,false,SIN,Asia Pacific,Singapore,162,5.14
+158.101.144.34,2095,2095,false,LAX,North America,Los Angeles,184,5.13
+158.101.155.246,2086,2086,false,LAX,North America,Los Angeles,190,5.13
+158.101.155.158,2053,2053,true,HKG,Asia Pacific,Hong Kong,188,5.11
+158.101.146.165,2086,2086,false,LAX,North America,Los Angeles,176,5.10
+150.230.104.197,8880,8880,false,LAX,North America,Los Angeles,236,5.10
+131.186.34.11,80,80,false,NRT,Asia Pacific,Tokyo,85,5.09
+132.145.123.238,2082,2082,false,LAX,North America,Los Angeles,182,5.05
+138.3.220.4,2087,2087,true,SIN,Asia Pacific,Singapore,158,5.05
+151.145.68.104,2095,2095,false,LAX,North America,Los Angeles,184,5.04
+140.238.54.182,2096,2096,true,LAX,North America,Los Angeles,190,5.04
+158.101.131.218,8443,8443,true,HKG,Asia Pacific,Hong Kong,162,5.04
+158.101.159.181,2087,2087,true,LAX,North America,Los Angeles,218,5.03
+131.186.46.75,2095,2095,false,NRT,Asia Pacific,Tokyo,71,5.03
+138.2.13.200,2052,2052,false,LAX,North America,Los Angeles,174,5.02
+132.145.123.112,2053,2053,true,HKG,Asia Pacific,Hong Kong,144,5.00
+168.138.205.38,2053,2053,true,LAX,North America,Los Angeles,175,5.00
+132.145.123.238,2052,2052,false,LAX,North America,Los Angeles,178,5.00
+158.179.188.7,80,80,false,LAX,North America,Los Angeles,183,5.00
+158.101.155.246,80,80,false,LAX,North America,Los Angeles,185,4.98
+141.147.168.13,8080,8080,false,LAX,North America,Los Angeles,183,4.97
+158.101.152.221,8443,8443,true,LAX,North America,Los Angeles,182,4.97
+158.179.188.159,8880,8880,false,LAX,North America,Los Angeles,196,4.96
+138.2.20.230,8880,8880,false,LAX,North America,Los Angeles,176,4.96
+151.145.68.104,2052,2052,false,SIN,Asia Pacific,Singapore,162,4.95
+138.3.212.162,8443,8443,true,LAX,North America,Los Angeles,210,4.95
+158.101.147.4,2053,2053,true,LAX,North America,Los Angeles,278,4.94
+158.101.149.122,2095,2095,false,LAX,North America,Los Angeles,197,4.94
+158.101.140.255,8443,8443,true,LAX,North America,Los Angeles,236,4.94
+138.3.215.11,2053,2053,true,HKG,Asia Pacific,Hong Kong,136,4.93
+138.2.13.200,2095,2095,false,LAX,North America,Los Angeles,187,4.93
+132.145.124.198,80,80,false,LAX,North America,Los Angeles,182,4.92
+138.2.20.230,2086,2086,false,LAX,North America,Los Angeles,199,4.91
+140.83.36.42,2086,2086,false,LAX,North America,Los Angeles,197,4.91
+158.101.154.70,2082,2082,false,LAX,North America,Los Angeles,178,4.91
+138.2.24.114,2053,2053,true,LAX,North America,Los Angeles,225,4.90
+131.186.37.191,2095,2095,false,LAX,North America,Los Angeles,179,4.89
+158.101.140.154,2095,2095,false,LAX,North America,Los Angeles,184,4.88
+168.138.200.159,2087,2087,true,NRT,Asia Pacific,Tokyo,83,4.86
+158.101.159.181,2083,2083,true,SIN,Asia Pacific,Singapore,183,4.85
+132.145.123.238,2083,2083,true,LAX,North America,Los Angeles,192,4.85
+158.101.136.239,2053,2053,true,NRT,Asia Pacific,Tokyo,81,4.85
+132.145.54.84,2053,443,true,LHR,Europe,London,167,4.85
+168.138.206.236,8880,8880,false,LAX,North America,Los Angeles,182,4.85
+150.230.105.53,2086,0,false,LAX,North America,Los Angeles,179,4.84
+132.145.121.175,2052,0,false,LAX,North America,Los Angeles,174,4.84
+158.101.140.154,2053,2053,true,LAX,North America,Los Angeles,198,4.83
+138.2.29.250,2087,2087,true,HKG,Asia Pacific,Hong Kong,136,4.82
+141.147.47.32,8443,443,true,FRA,Europe,Frankfurt,178,4.82
+129.151.152.254,443,443,true,AMS,Europe,Amsterdam,93,4.81
+158.101.131.218,8443,8443,true,LAX,North America,Los Angeles,230,4.81
+138.2.29.102,2087,2087,true,LAX,North America,Los Angeles,186,4.80
+132.145.123.238,80,80,false,SIN,Asia Pacific,Singapore,152,4.79
+132.226.157.212,80,80,false,LAX,North America,Los Angeles,205,4.78
+138.2.29.250,80,80,false,LAX,North America,Los Angeles,182,4.78
+158.178.193.75,80,80,false,CDG,Europe,Paris,231,4.78
+158.101.148.105,443,443,true,LAX,North America,Los Angeles,91,4.76
+138.3.217.39,2096,2096,true,LAX,North America,Los Angeles,206,4.76
+138.2.29.102,8080,8080,false,LAX,North America,Los Angeles,174,4.76
+138.2.14.209,80,80,false,LAX,North America,Los Angeles,185,4.75
+141.148.229.106,443,443,true,AMS,Europe,Amsterdam,171,4.75
+138.2.14.209,8880,8880,false,HKG,Asia Pacific,Hong Kong,139,4.75
+151.145.68.104,2083,2083,true,SIN,Asia Pacific,Singapore,158,4.75
+158.101.140.154,8443,8443,true,HKG,Asia Pacific,Hong Kong,140,4.75
+132.226.6.5,2082,2082,false,LAX,North America,Los Angeles,188,4.74
+138.2.18.11,8080,8080,false,LAX,North America,Los Angeles,184,4.74
+138.2.18.11,80,80,false,LAX,North America,Los Angeles,176,4.74
+158.101.150.74,2095,2095,false,HKG,Asia Pacific,Hong Kong,142,4.72
+140.238.52.81,2053,2053,true,LAX,North America,Los Angeles,191,4.71
+158.101.139.42,2086,2086,false,LAX,North America,Los Angeles,184,4.71
+138.2.12.32,2082,2082,false,LAX,North America,Los Angeles,183,4.70
+158.101.154.70,2053,2053,true,LAX,North America,Los Angeles,185,4.70
+141.147.174.190,2095,2095,false,LAX,North America,Los Angeles,180,4.70
+138.2.14.164,2086,2086,false,LAX,North America,Los Angeles,199,4.69
+131.186.47.255,80,80,false,HKG,Asia Pacific,Hong Kong,149,4.69
+132.145.112.247,2095,0,false,LAX,North America,Los Angeles,200,4.69
+138.2.14.164,2082,2082,false,LAX,North America,Los Angeles,188,4.68
+151.145.68.166,2095,2095,false,LAX,North America,Los Angeles,183,4.68
+140.83.37.200,2052,2052,false,LAX,North America,Los Angeles,192,4.68
+138.2.21.31,2087,2087,true,LAX,North America,Los Angeles,200,4.68
+131.186.35.189,2052,2052,false,NRT,Asia Pacific,Tokyo,71,4.68
+158.101.137.96,2087,2087,true,NRT,Asia Pacific,Tokyo,83,4.67
+140.238.213.209,443,443,true,MXP,Europe,Milan,170,4.67
+158.101.131.218,2096,2096,true,LAX,North America,Los Angeles,208,4.66
+138.2.12.32,8443,8443,true,LAX,North America,Los Angeles,213,4.64
+89.168.118.76,443,443,true,FRA,Europe,Frankfurt,181,4.63
+152.70.56.209,8443,443,true,AMS,Europe,Amsterdam,187,4.63
+138.3.210.114,8880,8880,false,LAX,North America,Los Angeles,180,4.63
+138.3.208.9,2083,2083,true,LAX,North America,Los Angeles,221,4.61
+158.101.140.255,2095,2095,false,LAX,North America,Los Angeles,185,4.60
+158.101.159.181,2082,2082,false,LAX,North America,Los Angeles,185,4.60
+138.2.13.133,2053,2053,true,LAX,North America,Los Angeles,181,4.59
+168.138.200.155,80,80,false,LAX,North America,Los Angeles,187,4.57
+138.2.21.31,2096,2096,true,LAX,North America,Los Angeles,232,4.57
+138.3.215.11,80,80,false,HKG,Asia Pacific,Hong Kong,130,4.56
+158.101.152.221,8880,8880,false,LAX,North America,Los Angeles,186,4.56
+151.145.65.203,8080,8080,false,LAX,North America,Los Angeles,193,4.55
+158.101.159.181,8880,8880,false,LAX,North America,Los Angeles,194,4.53
+129.159.241.172,443,443,true,FRA,Europe,Frankfurt,174,4.53
+150.230.47.17,443,443,true,SJC,North America,San Jose,280,4.53
+138.3.212.226,8443,8443,true,LAX,North America,Los Angeles,261,4.53
+138.3.215.11,2087,2087,true,HKG,Asia Pacific,Hong Kong,222,4.52
+140.83.37.200,8443,8443,true,LAX,North America,Los Angeles,175,4.52
+140.83.37.145,8880,8880,false,LAX,North America,Los Angeles,188,4.51
+151.145.65.203,8880,8880,false,SIN,Asia Pacific,Singapore,154,4.51
+138.2.18.184,80,80,false,LAX,North America,Los Angeles,179,4.50
+132.145.124.198,8080,8080,false,LAX,North America,Los Angeles,180,4.50
+129.153.213.8,443,443,true,LAX,North America,Los Angeles,187,4.49
+138.3.208.9,2053,2053,true,LAX,North America,Los Angeles,275,4.49
+158.101.140.154,2096,2096,true,LAX,North America,Los Angeles,241,4.48
+138.2.19.122,8080,8080,false,LAX,North America,Los Angeles,173,4.47
+131.186.61.45,8880,8880,false,LAX,North America,Los Angeles,185,4.47
+138.3.210.114,2083,2083,true,LAX,North America,Los Angeles,189,4.46
+158.101.137.74,8080,8080,false,LAX,North America,Los Angeles,178,4.46
+168.138.200.155,2095,2095,false,LAX,North America,Los Angeles,179,4.46
+132.145.123.112,2095,2095,false,LAX,North America,Los Angeles,187,4.45
+151.145.69.105,8443,8443,true,HKG,Asia Pacific,Hong Kong,293,4.45
+150.230.105.53,2052,0,false,SIN,Asia Pacific,Singapore,162,4.45
+138.3.210.114,2052,2052,false,LAX,North America,Los Angeles,175,4.45
+138.2.12.32,2086,2086,false,LAX,North America,Los Angeles,183,4.43
+138.2.18.11,8443,8443,true,LAX,North America,Los Angeles,222,4.43
+146.235.214.73,443,443,true,SJC,North America,San Jose,264,4.43
+132.145.120.115,2095,2095,false,LAX,North America,Los Angeles,179,4.43
+158.101.140.255,8880,8880,false,LAX,North America,Los Angeles,183,4.43
+158.101.131.218,80,80,false,LAX,North America,Los Angeles,184,4.42
+152.67.250.155,443,443,true,SJC,North America,San Jose,196,4.41
+151.145.68.166,2083,2083,true,LAX,North America,Los Angeles,248,4.41
+146.56.132.247,443,443,true,LAX,North America,Los Angeles,106,4.41
+158.101.158.251,8080,8080,false,LAX,North America,Los Angeles,176,4.41
+138.2.13.200,2082,2082,false,LAX,North America,Los Angeles,185,4.41
+151.145.65.203,2096,2096,true,LAX,North America,Los Angeles,241,4.40
+138.3.208.9,2096,2096,true,LAX,North America,Los Angeles,264,4.40
+138.3.212.226,2096,2096,true,LAX,North America,Los Angeles,205,4.39
+138.2.24.114,8443,8443,true,LAX,North America,Los Angeles,251,4.39
+158.101.159.181,2096,2096,true,LAX,North America,Los Angeles,226,4.38
+141.147.178.115,2086,2086,false,LAX,North America,Los Angeles,177,4.36
+158.101.140.252,2095,2095,false,LAX,North America,Los Angeles,197,4.36
+158.101.158.251,80,80,false,HKG,Asia Pacific,Hong Kong,148,4.34
+158.101.149.52,2086,2086,false,NRT,Asia Pacific,Tokyo,70,4.30
+158.101.140.255,2082,2082,false,LAX,North America,Los Angeles,174,4.30
+138.2.13.200,2086,2086,false,LAX,North America,Los Angeles,185,4.29
+158.101.144.189,8880,8880,false,NRT,Asia Pacific,Tokyo,72,4.28
+158.101.146.165,2083,2083,true,LAX,North America,Los Angeles,208,4.28
+158.101.159.212,8080,8080,false,LAX,North America,Los Angeles,182,4.28
+150.230.104.197,2052,2052,false,LAX,North America,Los Angeles,218,4.27
+131.186.36.248,8880,8880,false,NRT,Asia Pacific,Tokyo,69,4.27
+158.101.137.74,2087,2087,true,LAX,North America,Los Angeles,211,4.27
+138.2.29.102,80,80,false,LAX,North America,Los Angeles,189,4.25
+158.101.154.70,2086,2086,false,HKG,Asia Pacific,Hong Kong,143,4.24
+158.101.133.129,2082,2082,false,NRT,Asia Pacific,Tokyo,75,4.24
+151.145.68.166,2052,2052,false,LAX,North America,Los Angeles,185,4.23
+143.47.191.55,443,443,true,AMS,Europe,Amsterdam,172,4.23
+158.101.131.218,2053,2053,true,LAX,North America,Los Angeles,296,4.22
+138.3.212.162,8880,8880,false,LAX,North America,Los Angeles,180,4.21
+138.3.215.11,2052,2052,false,HKG,Asia Pacific,Hong Kong,128,4.20
+158.101.158.251,2087,2087,true,LAX,North America,Los Angeles,177,4.20
+132.145.121.34,80,0,false,LAX,North America,Los Angeles,174,4.20
+138.2.12.32,8080,8080,false,LAX,North America,Los Angeles,188,4.19
+141.147.167.40,2052,2052,false,LAX,North America,Los Angeles,172,4.19
+138.3.215.11,2082,2082,false,HKG,Asia Pacific,Hong Kong,129,4.18
+138.3.217.39,8880,8880,false,LAX,North America,Los Angeles,185,4.16
+158.101.139.42,2052,2052,false,SIN,Asia Pacific,Singapore,156,4.16
+129.153.120.171,443,443,true,LAX,North America,Los Angeles,218,4.16
+158.101.140.154,8880,8880,false,HKG,Asia Pacific,Hong Kong,138,4.16
+132.145.127.51,2082,2082,false,LAX,North America,Los Angeles,176,4.15
+158.180.231.216,443,443,true,MRS,Europe,Marseille,239,4.15
+138.3.214.43,2087,2087,true,LAX,North America,Los Angeles,256,4.14
+158.101.146.165,2053,2053,true,LAX,North America,Los Angeles,193,4.14
+151.145.68.104,8880,8880,false,LAX,North America,Los Angeles,176,4.14
+138.2.29.102,2086,2086,false,LAX,North America,Los Angeles,194,4.13
+158.101.137.74,8880,8880,false,LAX,North America,Los Angeles,194,4.11
+158.101.159.181,8443,8443,true,LAX,North America,Los Angeles,242,4.09
+138.3.214.43,80,80,false,LAX,North America,Los Angeles,185,4.07
+158.101.131.218,2052,2052,false,HKG,Asia Pacific,Hong Kong,139,4.07
+158.101.139.42,2087,2087,true,HKG,Asia Pacific,Hong Kong,149,4.07
+140.83.35.172,2095,2095,false,LAX,North America,Los Angeles,176,4.05
+168.138.47.238,8443,80,false,KIX,Asia Pacific,Osaka,66,4.04
+138.2.18.11,2096,2096,true,LAX,North America,Los Angeles,236,4.03
+138.2.14.209,2086,2086,false,LAX,North America,Los Angeles,174,4.02
+158.101.159.212,8880,8880,false,LAX,North America,Los Angeles,177,4.01
+138.2.12.32,2087,2087,true,LAX,North America,Los Angeles,193,4.01
+158.101.137.74,2052,2052,false,LAX,North America,Los Angeles,184,4.00
+138.3.242.15,443,443,true,FRA,Europe,Frankfurt,199,4.00
+158.101.144.34,2053,2053,true,LAX,North America,Los Angeles,195,3.99
+152.70.59.90,8443,443,true,AMS,Europe,Amsterdam,180,3.97
+158.101.139.42,2083,2083,true,LAX,North America,Los Angeles,200,3.97
+132.145.112.168,8880,8880,false,LAX,North America,Los Angeles,191,3.97
+132.145.127.51,8443,8443,true,LAX,North America,Los Angeles,179,3.97
+158.179.188.7,2095,2095,false,LAX,North America,Los Angeles,176,3.96
+132.145.167.207,443,443,true,IAD,North America,Ashburn,229,3.95
+132.145.113.148,8880,8880,false,LAX,North America,Los Angeles,176,3.95
+158.101.140.252,2086,2086,false,LAX,North America,Los Angeles,195,3.94
+151.145.69.105,8880,8880,false,HKG,Asia Pacific,Hong Kong,131,3.94
+158.101.140.154,2052,2052,false,LAX,North America,Los Angeles,184,3.93
+158.101.137.74,8880,8880,false,LAX,North America,Los Angeles,176,3.91
+138.3.215.11,8080,8080,false,HKG,Asia Pacific,Hong Kong,124,3.89
+158.101.159.181,80,80,false,LAX,North America,Los Angeles,191,3.89
+158.101.146.165,8880,8880,false,LAX,North America,Los Angeles,180,3.87
+168.138.200.155,8443,8443,true,SIN,Asia Pacific,Singapore,160,3.87
+158.101.140.255,8443,8443,true,LAX,North America,Los Angeles,256,3.86
+138.3.220.4,2095,2095,false,LAX,North America,Los Angeles,185,3.86
+158.179.188.7,2086,2086,false,LAX,North America,Los Angeles,186,3.83
+132.145.124.198,2096,2096,true,LAX,North America,Los Angeles,192,3.82
+158.101.155.158,80,80,false,LAX,North America,Los Angeles,177,3.81
+132.145.124.198,2082,2082,false,LAX,North America,Los Angeles,184,3.81
+138.3.208.9,8443,8443,true,LAX,North America,Los Angeles,241,3.81
+151.145.71.127,80,80,false,LAX,North America,Los Angeles,184,3.80
+131.186.61.45,2082,2082,false,LAX,North America,Los Angeles,193,3.79
+158.101.159.181,8080,8080,false,LAX,North America,Los Angeles,193,3.78
+138.2.29.102,2053,2053,true,HKG,Asia Pacific,Hong Kong,136,3.76
+140.83.37.145,2095,2095,false,LAX,North America,Los Angeles,176,3.75
+158.101.150.74,80,80,false,HKG,Asia Pacific,Hong Kong,147,3.75
+158.101.154.70,2095,2095,false,LAX,North America,Los Angeles,191,3.74
+131.186.61.45,80,0,false,LAX,North America,Los Angeles,176,3.72
+131.186.41.255,2082,2082,false,LAX,North America,Los Angeles,177,3.72
+140.83.36.42,2052,2052,false,SIN,Asia Pacific,Singapore,154,3.68
+158.179.188.159,2086,2086,false,LAX,North America,Los Angeles,192,3.68
+146.235.234.114,443,443,true,SJC,North America,San Jose,180,3.67
+158.101.146.160,2053,2053,true,LAX,North America,Los Angeles,182,3.67
+151.145.68.104,2087,2087,true,LAX,North America,Los Angeles,246,3.66
+138.2.20.230,2082,2082,false,HKG,Asia Pacific,Hong Kong,136,3.66
+140.83.37.200,2095,2095,false,LAX,North America,Los Angeles,183,3.65
+158.101.140.255,2096,2096,true,LAX,North America,Los Angeles,356,3.64
+140.238.51.89,2096,2096,true,LAX,North America,Los Angeles,179,3.62
+151.145.64.170,2095,2095,false,LAX,North America,Los Angeles,174,3.62
+158.101.146.160,2082,2082,false,LAX,North America,Los Angeles,182,3.60
+158.101.137.74,2082,2082,false,LAX,North America,Los Angeles,193,3.58
+138.2.10.251,2096,2096,true,LAX,North America,Los Angeles,190,3.54
+132.145.123.238,8880,8880,false,LAX,North America,Los Angeles,186,3.54
+158.101.150.74,2053,2053,true,LAX,North America,Los Angeles,215,3.52
+132.145.127.51,2083,2083,true,LAX,North America,Los Angeles,189,3.52
+138.2.13.200,80,80,false,LAX,North America,Los Angeles,184,3.47
+158.101.147.4,2095,2095,false,HKG,Asia Pacific,Hong Kong,144,3.47
+168.138.200.155,2053,2053,true,HKG,Asia Pacific,Hong Kong,137,3.47
+132.145.123.238,8080,8080,false,LAX,North America,Los Angeles,182,3.47
+158.101.140.252,2087,2087,true,LAX,North America,Los Angeles,261,3.45
+140.238.58.42,8443,8443,true,HKG,Asia Pacific,Hong Kong,151,3.44
+158.101.159.212,8443,8443,true,SIN,Asia Pacific,Singapore,175,3.44
+138.3.217.39,8443,8443,true,LAX,North America,Los Angeles,209,3.44
+138.3.217.39,2095,2095,false,LAX,North America,Los Angeles,183,3.43
+132.145.120.182,2082,2082,false,LAX,North America,Los Angeles,188,3.43
+158.101.154.70,2087,2087,true,LAX,North America,Los Angeles,229,3.42
+131.186.61.45,2052,2052,false,LAX,North America,Los Angeles,197,3.42
+131.186.60.162,8880,8880,false,LAX,North America,Los Angeles,187,3.41
+158.101.140.252,2096,2096,true,LAX,North America,Los Angeles,221,3.41
+146.235.219.98,443,443,true,SJC,North America,San Jose,322,3.40
+158.101.159.212,2086,2086,false,LAX,North America,Los Angeles,176,3.40
+168.138.70.29,443,443,true,YYZ,North America,Toronto,256,3.40
+158.101.146.160,8443,8443,true,LAX,North America,Los Angeles,220,3.34
+140.83.37.200,2086,2086,false,LAX,North America,Los Angeles,176,3.32
+138.2.24.114,8880,8880,false,LAX,North America,Los Angeles,193,3.30
+140.238.53.190,2096,2096,true,LAX,North America,Los Angeles,183,3.23
+138.2.13.200,8080,8080,false,LAX,North America,Los Angeles,191,3.23
+158.101.139.42,2096,2096,true,LAX,North America,Los Angeles,194,3.22
+129.159.37.136,8443,443,true,SJC,North America,San Jose,307,3.20
+140.238.48.97,2083,2083,true,LAX,North America,Los Angeles,174,3.19
+131.186.41.82,2086,2086,false,NRT,Asia Pacific,Tokyo,75,3.18
+138.3.217.39,8080,8080,false,LAX,North America,Los Angeles,187,3.17
+141.147.181.148,80,80,false,LAX,North America,Los Angeles,183,3.15
+158.101.149.122,2053,2053,true,LAX,North America,Los Angeles,182,3.15
+192.9.135.122,8443,443,true,SJC,North America,San Jose,269,3.11
+158.101.131.218,2095,2095,false,LAX,North America,Los Angeles,192,3.11
+132.145.127.51,2052,2052,false,LAX,North America,Los Angeles,186,3.10
+138.3.210.114,2053,2053,true,LAX,North America,Los Angeles,210,3.08
+158.101.139.42,8080,8080,false,LAX,North America,Los Angeles,185,3.07
+132.145.123.112,2052,2052,false,HKG,Asia Pacific,Hong Kong,135,3.07
+140.238.53.190,2087,2087,true,LAX,North America,Los Angeles,186,3.03
+138.2.10.251,2052,2052,false,LAX,North America,Los Angeles,180,3.03
+140.238.39.87,2087,2087,true,LAX,North America,Los Angeles,188,3.02
+158.101.137.74,2082,2082,false,LAX,North America,Los Angeles,182,3.01
+158.178.129.114,2053,443,true,TLV,Middle East,Tel Aviv,208,2.99
+131.186.63.184,8880,8880,false,LAX,North America,Los Angeles,189,2.99
+140.238.33.165,2087,2087,true,NRT,Asia Pacific,Tokyo,82,2.98
+158.101.142.103,2052,2052,false,NRT,Asia Pacific,Tokyo,80,2.96
+158.101.147.4,2052,2052,false,HKG,Asia Pacific,Hong Kong,136,2.96
+132.226.9.173,2052,2052,false,LAX,North America,Los Angeles,178,2.96
+132.226.9.173,80,80,false,LAX,North America,Los Angeles,188,2.93
+151.145.69.105,80,80,false,HKG,Asia Pacific,Hong Kong,127,2.93
+158.101.169.13,2053,443,true,FRA,Europe,Frankfurt,180,2.90
+158.101.140.154,8880,8880,false,LAX,North America,Los Angeles,193,2.90
+138.2.18.184,443,443,true,LAX,North America,Los Angeles,259,2.89
+151.145.69.105,2052,2052,false,HKG,Asia Pacific,Hong Kong,130,2.86
+146.56.133.140,2096,80,false,LAX,North America,Los Angeles,90,2.86
+158.101.140.154,2086,2086,false,LAX,North America,Los Angeles,188,2.83
+140.238.58.42,2083,2083,true,LAX,North America,Los Angeles,189,2.83
+138.3.215.11,8443,8443,true,HKG,Asia Pacific,Hong Kong,203,2.83
+158.101.144.34,8080,8080,false,LAX,North America,Los Angeles,187,2.82
+132.145.127.51,8080,8080,false,HKG,Asia Pacific,Hong Kong,135,2.81
+158.101.146.165,80,80,false,LAX,North America,Los Angeles,184,2.80
+138.3.212.162,2052,2052,false,LAX,North America,Los Angeles,187,2.80
+141.147.40.44,8443,443,true,FRA,Europe,Frankfurt,168,2.80
+131.186.45.88,2095,2095,false,HKG,Asia Pacific,Hong Kong,134,2.80
+151.145.64.170,8080,8080,false,LAX,North America,Los Angeles,177,2.78
+168.138.198.53,8443,8443,true,NRT,Asia Pacific,Tokyo,70,2.78
+158.101.140.255,2086,2086,false,LAX,North America,Los Angeles,177,2.77
+138.2.128.181,443,443,true,FRA,Europe,Frankfurt,207,2.77
+158.101.175.51,2053,443,true,FRA,Europe,Frankfurt,192,2.77
+143.47.182.56,8443,443,true,AMS,Europe,Amsterdam,194,2.75
+158.101.155.246,2096,2096,true,LAX,North America,Los Angeles,181,2.75
+158.101.140.154,2083,2083,true,LAX,North America,Los Angeles,225,2.74
+158.179.191.14,80,80,false,NRT,Asia Pacific,Tokyo,80,2.74
+151.145.64.170,8880,8880,false,LAX,North America,Los Angeles,193,2.74
+158.101.140.255,8080,8080,false,LAX,North America,Los Angeles,176,2.73
+132.145.127.51,2086,2086,false,LAX,North America,Los Angeles,185,2.71
+132.145.113.148,2095,2095,false,LAX,North America,Los Angeles,176,2.71
+158.101.131.218,2086,2086,false,LAX,North America,Los Angeles,189,2.70
+158.101.147.4,8080,8080,false,HKG,Asia Pacific,Hong Kong,145,2.69
+158.101.149.122,8080,8080,false,LAX,North America,Los Angeles,187,2.69
+140.238.41.253,2083,2083,true,LAX,North America,Los Angeles,187,2.65
+158.101.150.74,2096,2096,true,LAX,North America,Los Angeles,211,2.61
+138.3.214.43,8080,8080,false,HKG,Asia Pacific,Hong Kong,135,2.61
+158.101.155.246,2082,2082,false,LAX,North America,Los Angeles,176,2.59
+131.186.38.135,2052,2052,false,LAX,North America,Los Angeles,185,2.59
+138.3.212.226,2095,2095,false,HKG,Asia Pacific,Hong Kong,139,2.59
+140.83.36.42,8080,8080,false,LAX,North America,Los Angeles,176,2.59
+138.2.14.164,8880,8880,false,LAX,North America,Los Angeles,184,2.56
+132.145.123.112,2087,2087,true,LAX,North America,Los Angeles,193,2.56
+158.101.154.70,2096,2096,true,HKG,Asia Pacific,Hong Kong,139,2.51
+140.83.37.145,80,80,false,LAX,North America,Los Angeles,184,2.48
+192.9.138.241,443,443,true,SJC,North America,San Jose,313,2.47
+192.18.139.229,8443,443,true,SJC,North America,San Jose,285,2.44
+140.83.36.42,2082,2082,false,LAX,North America,Los Angeles,183,2.39
+138.2.13.133,8880,8880,false,LAX,North America,Los Angeles,180,2.39
+132.145.112.247,2086,2086,false,HKG,Asia Pacific,Hong Kong,133,2.38
+168.138.205.38,2052,2052,false,LAX,North America,Los Angeles,179,2.38
+140.238.36.248,2087,2087,true,LAX,North America,Los Angeles,188,2.37
+132.145.127.51,2053,2053,true,HKG,Asia Pacific,Hong Kong,135,2.34
+158.101.144.34,8880,8880,false,LAX,North America,Los Angeles,192,2.31
+143.47.182.56,2053,443,true,AMS,Europe,Amsterdam,176,2.30
+140.238.60.177,2096,2096,true,LAX,North America,Los Angeles,182,2.29
+132.145.123.112,2086,2086,false,LAX,North America,Los Angeles,187,2.28
+168.138.205.38,8080,8080,false,LAX,North America,Los Angeles,187,2.27
+141.147.40.44,2053,443,true,FRA,Europe,Frankfurt,168,2.24
+138.3.212.226,80,80,false,LAX,North America,Los Angeles,174,2.23
+140.238.44.27,443,443,true,NRT,Asia Pacific,Tokyo,65,2.23
+146.56.133.140,2083,80,false,LAX,North America,Los Angeles,138,2.19
+132.145.127.51,8880,8880,false,LAX,North America,Los Angeles,178,2.18
+138.3.215.11,2086,2086,false,HKG,Asia Pacific,Hong Kong,130,2.17
+140.238.51.89,8443,8443,true,LAX,North America,Los Angeles,185,2.15
+192.18.149.159,8080,443,true,YYZ,North America,Toronto,227,2.12
+138.2.6.252,8880,8880,false,LAX,North America,Los Angeles,191,2.10
+168.138.200.155,2096,2096,true,LAX,North America,Los Angeles,192,2.10
+140.83.35.172,8880,8880,false,LAX,North America,Los Angeles,185,2.09
+158.101.139.42,8880,8880,false,LAX,North America,Los Angeles,192,2.08
+140.238.34.208,2053,2053,true,LAX,North America,Los Angeles,174,2.08
+158.179.191.14,2095,2095,false,NRT,Asia Pacific,Tokyo,73,2.05
+132.145.127.51,2087,2087,true,LAX,North America,Los Angeles,177,2.03
+140.238.39.21,8443,8443,true,LAX,North America,Los Angeles,184,2.01
+140.238.39.33,8443,8443,true,LAX,North America,Los Angeles,176,1.99
+138.3.212.162,2086,2086,false,LAX,North America,Los Angeles,191,1.97
+192.18.149.159,443,443,true,YYZ,North America,Toronto,250,1.96
+138.2.6.252,8443,8443,true,LAX,North America,Los Angeles,195,1.95
+138.2.8.232,2052,2052,false,LAX,North America,Los Angeles,176,1.95
+158.101.169.13,8443,443,true,FRA,Europe,Frankfurt,215,1.95
+140.83.37.145,2083,2083,true,HKG,Asia Pacific,Hong Kong,143,1.93
+168.138.200.155,2086,2086,false,LAX,North America,Los Angeles,183,1.90
+140.238.32.238,2083,2083,true,LAX,North America,Los Angeles,176,1.89
+168.138.206.236,2082,2082,false,LAX,North America,Los Angeles,187,1.86
+132.145.127.51,2096,2096,true,LAX,North America,Los Angeles,172,1.86
+140.83.35.172,2082,2082,false,LAX,North America,Los Angeles,178,1.83
+138.2.8.232,8443,8443,true,LAX,North America,Los Angeles,202,1.83
+158.101.137.74,2052,2052,false,LAX,North America,Los Angeles,182,1.81
+158.101.139.42,2086,2086,false,LAX,North America,Los Angeles,193,1.80
+132.145.123.112,2083,2083,true,LAX,North America,Los Angeles,198,1.76
+140.83.36.42,8880,8880,false,LAX,North America,Los Angeles,184,1.71
+168.138.198.53,2087,2087,true,NRT,Asia Pacific,Tokyo,84,1.71
+158.179.191.14,8880,8880,false,NRT,Asia Pacific,Tokyo,70,1.68
+158.179.191.14,2086,2086,false,NRT,Asia Pacific,Tokyo,69,1.65
+158.101.131.218,80,80,false,LAX,North America,Los Angeles,184,1.65
+158.101.131.218,2082,2082,false,LAX,North America,Los Angeles,183,1.64
+138.3.217.39,2082,2082,false,LAX,North America,Los Angeles,184,1.64
+158.101.175.51,8443,443,true,FRA,Europe,Frankfurt,170,1.62
+138.2.6.252,80,80,false,LAX,North America,Los Angeles,177,1.60
+138.3.220.4,80,80,false,LAX,North America,Los Angeles,183,1.60
+168.138.205.38,2083,2083,true,LAX,North America,Los Angeles,175,1.58
+132.145.123.112,80,80,false,LAX,North America,Los Angeles,177,1.57
+140.83.37.145,2052,2052,false,LAX,North America,Los Angeles,174,1.53
+151.145.64.170,80,80,false,LAX,North America,Los Angeles,180,1.53
+168.138.206.236,2096,2096,true,HKG,Asia Pacific,Hong Kong,144,1.52
+158.178.129.114,8443,443,true,TLV,Middle East,Tel Aviv,180,1.51
+140.238.44.118,2087,2087,true,LAX,North America,Los Angeles,183,1.50
+158.101.140.252,80,80,false,LAX,North America,Los Angeles,189,1.50
+140.238.54.149,2087,2087,true,LAX,North America,Los Angeles,184,1.49
+158.179.191.14,2096,2096,true,NRT,Asia Pacific,Tokyo,88,1.49
+138.2.18.11,2087,2087,true,LAX,North America,Los Angeles,263,1.48
+158.101.144.34,80,80,false,LAX,North America,Los Angeles,186,1.48
+168.138.206.109,2083,2083,true,NRT,Asia Pacific,Tokyo,73,1.47
+138.3.210.114,8443,8443,true,LAX,North America,Los Angeles,232,1.45
+138.3.222.204,2082,2082,false,NRT,Asia Pacific,Tokyo,70,1.44
+132.145.121.125,2086,2086,false,LAX,North America,Los Angeles,192,1.41
+158.101.140.252,8880,8880,false,LAX,North America,Los Angeles,183,1.40
+151.145.64.170,2086,2086,false,LAX,North America,Los Angeles,177,1.37
+138.2.6.252,2096,2096,true,HKG,Asia Pacific,Hong Kong,163,1.37
+138.2.6.252,2086,2086,false,LAX,North America,Los Angeles,193,1.33
+138.2.6.252,8080,8080,false,LAX,North America,Los Angeles,187,1.32
+151.145.69.105,2095,2095,false,HKG,Asia Pacific,Hong Kong,133,1.31
+151.145.69.105,2083,2083,true,HKG,Asia Pacific,Hong Kong,128,1.31
+158.101.140.252,2082,2082,false,LAX,North America,Los Angeles,176,1.31
+168.138.46.67,443,443,true,KIX,Asia Pacific,Osaka,85,1.22
+140.83.37.200,80,80,false,LAX,North America,Los Angeles,176,1.22
+138.3.212.162,2087,2087,true,LAX,North America,Los Angeles,212,1.21
+158.101.131.218,8880,8880,false,LAX,North America,Los Angeles,191,1.19
+138.2.13.200,8443,8443,true,LAX,North America,Los Angeles,241,1.18
+138.2.6.252,2052,2052,false,LAX,North America,Los Angeles,183,1.18
+158.101.131.218,8080,8080,false,LAX,North America,Los Angeles,190,1.17
+138.3.212.226,2082,2082,false,HKG,Asia Pacific,Hong Kong,150,1.13
+158.179.191.14,2082,2082,false,NRT,Asia Pacific,Tokyo,86,1.13
+140.83.37.145,2053,2053,true,LAX,North America,Los Angeles,176,1.10
+158.101.140.252,8880,8880,false,LAX,North America,Los Angeles,184,1.09
+138.3.220.4,2086,2086,false,LAX,North America,Los Angeles,174,1.09
+158.101.137.74,2086,2086,false,HKG,Asia Pacific,Hong Kong,133,1.08
+158.101.149.122,80,80,false,SIN,Asia Pacific,Singapore,160,1.08
+140.238.52.141,2053,2053,true,LAX,North America,Los Angeles,178,1.07
+158.101.140.255,80,80,false,LAX,North America,Los Angeles,187,1.05
+158.101.140.252,2096,2096,true,LAX,North America,Los Angeles,185,0.97
+138.2.6.252,2053,2053,true,LAX,North America,Los Angeles,220,0.96
+140.238.32.112,2083,2083,true,LAX,North America,Los Angeles,191,0.96
+168.138.200.155,2087,2087,true,LAX,North America,Los Angeles,174,0.95
+158.101.140.154,2082,2082,false,LAX,North America,Los Angeles,182,0.91
+168.138.206.236,2052,2052,false,HKG,Asia Pacific,Hong Kong,136,0.89
+132.145.124.198,2053,2053,true,LAX,North America,Los Angeles,179,0.85
+140.83.37.145,8443,8443,true,LAX,North America,Los Angeles,185,0.83
+158.101.140.255,8080,8080,false,LAX,North America,Los Angeles,183,0.82
+158.101.139.42,80,80,false,LAX,North America,Los Angeles,188,0.81
+132.145.121.125,2082,0,false,LAX,North America,Los Angeles,174,0.78
+168.138.206.236,2083,2083,true,LAX,North America,Los Angeles,177,0.77
+138.2.29.102,2083,2083,true,LAX,North America,Los Angeles,194,0.76
+140.83.37.145,2082,2082,false,LAX,North America,Los Angeles,183,0.76
+158.101.140.252,2083,2083,true,LAX,North America,Los Angeles,203,0.76
+132.145.123.238,2053,2053,true,LAX,North America,Los Angeles,192,0.75
+138.2.6.252,2095,2095,false,LAX,North America,Los Angeles,183,0.74
+151.145.64.170,2052,2052,false,LAX,North America,Los Angeles,186,0.73
+158.101.158.251,8880,8880,false,LAX,North America,Los Angeles,182,0.73
+158.101.140.252,2086,2086,false,LAX,North America,Los Angeles,188,0.72
+151.145.64.170,2082,2082,false,LAX,North America,Los Angeles,177,0.71
+158.101.144.34,2086,2086,false,LAX,North America,Los Angeles,194,0.70
+168.138.205.38,2082,2082,false,LAX,North America,Los Angeles,186,0.70
+158.101.137.74,2095,2095,false,HKG,Asia Pacific,Hong Kong,135,0.68
+158.101.159.212,2095,2095,false,LAX,North America,Los Angeles,186,0.67
+151.145.74.56,2087,2087,true,HKG,Asia Pacific,Hong Kong,136,0.65
+158.101.139.42,2082,2082,false,LAX,North America,Los Angeles,174,0.65
+141.147.170.160,8080,8080,false,LAX,North America,Los Angeles,177,0.64
+158.101.140.252,8080,8080,false,LAX,North America,Los Angeles,176,0.62
+158.101.140.252,8443,8443,true,LAX,North America,Los Angeles,248,0.61
+158.101.131.218,2052,2052,false,LAX,North America,Los Angeles,179,0.60
+138.2.8.232,2053,2053,true,LAX,North America,Los Angeles,203,0.60
+158.101.140.252,80,80,false,LAX,North America,Los Angeles,174,0.58
+140.83.37.145,2086,2086,false,LAX,North America,Los Angeles,180,0.55
+158.101.149.122,2082,2082,false,LAX,North America,Los Angeles,172,0.53
+158.101.140.252,2053,2053,true,HKG,Asia Pacific,Hong Kong,180,0.52
+151.145.64.170,2053,2053,true,LAX,North America,Los Angeles,248,0.51
+158.101.139.42,2052,2052,false,LAX,North America,Los Angeles,184,0.50
+138.2.75.236,80,0,false,SIN,Asia Pacific,Singapore,13,0.49
+158.101.155.246,2052,2052,false,LAX,North America,Los Angeles,188,0.48
+138.2.6.252,2087,2087,true,LAX,North America,Los Angeles,194,0.48
+158.101.140.252,2087,2087,true,LAX,North America,Los Angeles,236,0.48
+168.138.206.236,8443,8443,true,LAX,North America,Los Angeles,188,0.48
+158.101.131.218,2095,2095,false,SIN,Asia Pacific,Singapore,164,0.47
+132.145.121.125,8880,0,false,LAX,North America,Los Angeles,198,0.45
+138.2.6.252,2082,2082,false,LAX,North America,Los Angeles,182,0.43
+152.67.233.64,443,443,true,SJC,North America,San Jose,304,0.42
+138.3.212.226,2087,2087,true,LAX,North America,Los Angeles,203,0.42
+140.83.37.145,2096,2096,true,HKG,Asia Pacific,Hong Kong,147,0.41
+158.101.140.252,8080,8080,false,LAX,North America,Los Angeles,187,0.41
+158.101.140.252,2083,2083,true,LAX,North America,Los Angeles,176,0.41
+140.83.37.145,2087,2087,true,LAX,North America,Los Angeles,181,0.40
+151.145.64.170,2096,2096,true,LAX,North America,Los Angeles,256,0.40
+158.101.140.252,2053,2053,true,LAX,North America,Los Angeles,193,0.39
+158.101.140.255,2095,2095,false,LAX,North America,Los Angeles,174,0.38
+138.2.108.118,2082,0,false,SIN,Asia Pacific,Singapore,12,0.37
+158.101.140.255,2086,2086,false,LAX,North America,Los Angeles,183,0.37
+158.101.140.252,2052,2052,false,LAX,North America,Los Angeles,183,0.37
+140.83.37.145,8080,8080,false,HKG,Asia Pacific,Hong Kong,139,0.36
+138.2.108.118,2095,0,false,SIN,Asia Pacific,Singapore,9,0.36
+158.101.140.252,2095,2095,false,LAX,North America,Los Angeles,184,0.35
+138.2.108.118,8880,0,false,SIN,Asia Pacific,Singapore,9,0.35
+132.145.124.198,2086,2086,false,LAX,North America,Los Angeles,185,0.35
+151.145.64.170,8443,8443,true,LAX,North America,Los Angeles,255,0.34
+138.2.108.118,2086,0,false,SIN,Asia Pacific,Singapore,13,0.34
+158.101.140.154,8080,8080,false,HKG,Asia Pacific,Hong Kong,136,0.31
+158.101.140.252,2082,2082,false,SIN,Asia Pacific,Singapore,156,0.30
+138.2.108.118,2052,0,false,SIN,Asia Pacific,Singapore,27,0.30
+138.2.108.118,8080,0,false,SIN,Asia Pacific,Singapore,15,0.29
+151.145.64.170,2087,2087,true,HKG,Asia Pacific,Hong Kong,135,0.23
+140.238.32.112,2096,2096,true,HKG,Asia Pacific,Hong Kong,145,0.22
+141.147.147.28,80,80,false,KIX,Asia Pacific,Osaka,74,0.17
+152.67.211.182,80,0,false,ICN,Asia Pacific,Seoul,67,0.16
+192.9.157.76,443,8443,true,SJC,North America,San Jose,245,0.16
+152.67.65.204,80,0,false,MXP,Europe,Milan,192,0.12
+143.47.182.76,80,0,false,AMS,Europe,Amsterdam,179,0.11
+150.230.6.128,80,0,false,KIX,Asia Pacific,Osaka,66,0.10
+152.67.231.219,443,443,true,SJC,North America,San Jose,327,0.09
+168.138.41.79,443,443,true,KIX,Asia Pacific,Osaka,66,0.08
+138.2.108.118,80,0,false,SIN,Asia Pacific,Singapore,26,0.07
+158.101.136.221,80,0,false,NRT,Asia Pacific,Tokyo,71,0.07
+138.3.216.181,80,0,false,NRT,Asia Pacific,Tokyo,71,0.07
+151.145.65.108,80,0,false,NRT,Asia Pacific,Tokyo,76,0.07
+158.101.136.128,80,0,false,NRT,Asia Pacific,Tokyo,70,0.07
+158.101.136.221,80,0,false,NRT,Asia Pacific,Tokyo,73,0.07
+138.2.19.154,80,0,false,NRT,Asia Pacific,Tokyo,70,0.07
+158.101.136.128,80,0,false,NRT,Asia Pacific,Tokyo,80,0.07
+132.145.127.203,2053,443,true,NRT,Asia Pacific,Tokyo,71,0.06
+138.2.11.227,80,0,false,NRT,Asia Pacific,Tokyo,80,0.06
+132.145.123.6,80,0,false,NRT,Asia Pacific,Tokyo,70,0.06
+138.2.27.113,80,0,false,NRT,Asia Pacific,Tokyo,72,0.06
+158.179.202.138,80,0,false,ARN,Europe,Stockholm,172,0.06
+132.226.0.181,80,0,false,NRT,Asia Pacific,Tokyo,85,0.06
+138.2.14.77,80,0,false,NRT,Asia Pacific,Tokyo,70,0.06
+132.226.8.9,80,0,false,NRT,Asia Pacific,Tokyo,80,0.06
+138.2.26.80,80,0,false,NRT,Asia Pacific,Tokyo,81,0.06
+150.230.217.29,80,0,false,NRT,Asia Pacific,Tokyo,74,0.06
+138.3.222.50,80,0,false,NRT,Asia Pacific,Tokyo,73,0.06
+138.2.122.207,80,0,false,ICN,Asia Pacific,Seoul,67,0.06
+40.233.85.79,80,0,false,YYZ,North America,Toronto,233,0.06
+138.3.216.181,2052,0,false,NRT,Asia Pacific,Tokyo,79,0.06
+138.2.11.227,2052,0,false,NRT,Asia Pacific,Tokyo,84,0.06
+151.145.65.108,2095,0,false,NRT,Asia Pacific,Tokyo,71,0.06
+138.2.6.248,8080,0,false,NRT,Asia Pacific,Tokyo,71,0.06
+138.2.14.77,2095,0,false,NRT,Asia Pacific,Tokyo,75,0.06
+158.101.136.221,2082,0,false,NRT,Asia Pacific,Tokyo,73,0.06
+138.2.11.227,2095,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+132.226.0.181,2095,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+138.3.222.50,2095,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+132.226.0.181,8880,0,false,NRT,Asia Pacific,Tokyo,79,0.05
+158.101.136.221,8080,0,false,NRT,Asia Pacific,Tokyo,79,0.05
+152.67.251.79,80,0,false,SJC,North America,San Jose,275,0.05
+138.2.26.80,2082,0,false,NRT,Asia Pacific,Tokyo,80,0.05
+138.2.26.80,2095,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+158.101.136.128,2052,0,false,NRT,Asia Pacific,Tokyo,72,0.05
+158.101.136.221,8880,0,false,NRT,Asia Pacific,Tokyo,79,0.05
+150.230.105.183,2095,0,false,NRT,Asia Pacific,Tokyo,72,0.05
+150.230.108.82,8880,0,false,NRT,Asia Pacific,Tokyo,78,0.05
+138.2.6.248,2082,0,false,NRT,Asia Pacific,Tokyo,67,0.05
+141.148.227.230,80,0,false,AMS,Europe,Amsterdam,165,0.05
+151.145.65.108,8080,0,false,NRT,Asia Pacific,Tokyo,80,0.05
+132.145.123.6,8080,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+132.226.8.9,8880,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+138.2.19.154,8080,0,false,NRT,Asia Pacific,Tokyo,86,0.05
+132.145.123.6,2082,0,false,NRT,Asia Pacific,Tokyo,78,0.05
+138.3.222.50,2086,0,false,NRT,Asia Pacific,Tokyo,81,0.05
+158.101.136.128,8880,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+132.226.0.181,2086,0,false,NRT,Asia Pacific,Tokyo,78,0.05
+150.230.217.29,2052,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+138.2.27.113,8880,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+138.2.14.77,8880,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+138.2.27.113,2052,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+138.2.26.80,2086,0,false,NRT,Asia Pacific,Tokyo,80,0.05
+89.168.37.47,80,0,false,CDG,Europe,Paris,281,0.05
+138.3.244.36,80,0,false,FRA,Europe,Frankfurt,188,0.05
+138.2.14.77,2052,0,false,NRT,Asia Pacific,Tokyo,80,0.05
+132.226.8.9,2086,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+150.230.217.29,2082,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+138.2.19.154,2082,0,false,NRT,Asia Pacific,Tokyo,72,0.05
+132.145.123.6,2095,0,false,NRT,Asia Pacific,Tokyo,73,0.05
+138.2.11.227,2086,0,false,NRT,Asia Pacific,Tokyo,68,0.05
+158.101.136.221,2095,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+138.2.27.113,8080,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+158.101.136.128,2052,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+168.138.203.39,8080,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+138.2.11.227,2082,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+138.3.222.50,2052,0,false,NRT,Asia Pacific,Tokyo,73,0.05
+132.145.123.6,8880,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+132.226.0.181,2082,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+138.2.14.77,2086,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+138.3.216.181,8880,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+158.101.136.128,2082,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+138.2.6.248,2095,0,false,NRT,Asia Pacific,Tokyo,79,0.05
+138.3.222.50,8080,0,false,NRT,Asia Pacific,Tokyo,74,0.05
+138.2.11.227,8880,0,false,NRT,Asia Pacific,Tokyo,72,0.05
+132.145.117.33,2086,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+138.2.27.113,2082,0,false,NRT,Asia Pacific,Tokyo,91,0.05
+150.230.105.183,2082,0,false,NRT,Asia Pacific,Tokyo,81,0.05
+138.2.19.154,2086,0,false,NRT,Asia Pacific,Tokyo,74,0.05
+158.101.136.221,2086,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+138.2.14.77,8080,0,false,NRT,Asia Pacific,Tokyo,74,0.05
+138.2.14.77,2082,0,false,NRT,Asia Pacific,Tokyo,83,0.05
+132.145.123.6,2052,0,false,NRT,Asia Pacific,Tokyo,82,0.05
+132.145.123.6,2086,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+158.101.136.128,8080,0,false,NRT,Asia Pacific,Tokyo,72,0.05
+158.101.136.221,8080,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+158.101.136.221,8880,0,false,NRT,Asia Pacific,Tokyo,83,0.05
+150.230.213.65,2095,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+138.2.26.80,2052,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+138.3.216.181,2086,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+158.101.136.221,2052,0,false,NRT,Asia Pacific,Tokyo,67,0.05
+132.226.8.9,2082,0,false,NRT,Asia Pacific,Tokyo,68,0.05
+158.101.136.221,2082,0,false,NRT,Asia Pacific,Tokyo,73,0.05
+132.226.0.181,2052,0,false,NRT,Asia Pacific,Tokyo,83,0.05
+132.145.127.203,8443,443,true,NRT,Asia Pacific,Tokyo,69,0.05
+150.230.105.183,8080,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+168.138.203.39,2082,0,false,NRT,Asia Pacific,Tokyo,82,0.05
+132.226.8.9,8080,0,false,NRT,Asia Pacific,Tokyo,80,0.05
+132.226.8.9,2052,0,false,NRT,Asia Pacific,Tokyo,78,0.05
+138.3.222.50,8880,0,false,NRT,Asia Pacific,Tokyo,74,0.05
+138.3.216.181,8080,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+138.3.216.181,2095,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+168.138.203.39,2086,0,false,NRT,Asia Pacific,Tokyo,68,0.05
+158.101.136.221,2052,0,false,NRT,Asia Pacific,Tokyo,75,0.05
+138.2.6.248,8880,0,false,NRT,Asia Pacific,Tokyo,84,0.05
+158.180.84.48,443,443,true,ICN,Asia Pacific,Seoul,117,0.05
+151.145.65.108,2086,0,false,NRT,Asia Pacific,Tokyo,68,0.05
+138.3.216.181,2082,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+158.101.136.221,2086,0,false,NRT,Asia Pacific,Tokyo,81,0.05
+151.145.65.108,2052,0,false,NRT,Asia Pacific,Tokyo,72,0.05
+151.145.65.108,2082,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+158.101.136.128,2086,0,false,NRT,Asia Pacific,Tokyo,77,0.05
+158.101.136.128,8080,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+138.3.222.50,2082,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+151.145.65.108,8880,0,false,NRT,Asia Pacific,Tokyo,73,0.05
+158.101.136.128,2082,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+155.248.177.90,2086,0,false,NRT,Asia Pacific,Tokyo,79,0.05
+152.67.214.11,80,0,false,ICN,Asia Pacific,Seoul,68,0.05
+132.226.8.9,2095,0,false,NRT,Asia Pacific,Tokyo,76,0.05
+158.101.136.128,2095,0,false,NRT,Asia Pacific,Tokyo,70,0.05
+138.2.26.80,8080,0,false,NRT,Asia Pacific,Tokyo,67,0.05
+138.2.19.154,2052,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+192.18.130.23,80,0,false,SJC,North America,San Jose,311,0.05
+158.101.136.128,8880,0,false,NRT,Asia Pacific,Tokyo,78,0.05
+168.138.203.39,8880,0,false,NRT,Asia Pacific,Tokyo,69,0.05
+138.2.11.227,8080,0,false,NRT,Asia Pacific,Tokyo,71,0.05
+138.2.6.248,2086,0,false,NRT,Asia Pacific,Tokyo,98,0.05
+168.138.203.39,2095,0,false,NRT,Asia Pacific,Tokyo,73,0.05
+138.2.27.113,2086,0,false,NRT,Asia Pacific,Tokyo,76,0.04
+158.101.136.128,2095,0,false,NRT,Asia Pacific,Tokyo,72,0.04
+138.2.19.154,8880,0,false,NRT,Asia Pacific,Tokyo,74,0.04
+132.226.0.181,8080,0,false,NRT,Asia Pacific,Tokyo,69,0.04
+138.2.6.248,2052,0,false,NRT,Asia Pacific,Tokyo,69,0.04
+84.8.141.133,80,0,false,NBO,Africa,Nairobi,114,0.04
+158.101.136.128,2086,0,false,NRT,Asia Pacific,Tokyo,68,0.04
+168.138.203.39,2052,0,false,NRT,Asia Pacific,Tokyo,69,0.04
+68.233.110.141,80,0,false,HYD,Asia Pacific,Hyderabad,42,0.04
+143.47.45.82,80,0,false,MAD,Europe,Madrid,183,0.04
+138.2.108.118,2083,0,true,SIN,Asia Pacific,Singapore,66,0.03
+138.2.108.118,2053,0,true,SIN,Asia Pacific,Singapore,49,0.03
+138.2.108.118,2096,0,true,SIN,Asia Pacific,Singapore,50,0.03
+138.2.108.118,8443,0,true,SIN,Asia Pacific,Singapore,55,0.03
+138.2.6.248,80,0,false,NRT,Asia Pacific,Tokyo,85,0.03
+146.56.178.88,80,0,false,ICN,Asia Pacific,Seoul,96,0.03
+150.230.102.122,80,0,false,LAX,North America,Los Angeles,88,0.03
+141.147.72.90,443,0,true,FRA,Europe,Frankfurt,192,0.03
+129.213.118.11,80,0,false,IAD,North America,Ashburn,227,0.03
+151.145.65.108,8443,0,true,NRT,Asia Pacific,Tokyo,99,0.03
+138.2.27.113,8443,0,true,NRT,Asia Pacific,Tokyo,139,0.03
+138.2.6.248,2083,0,true,NRT,Asia Pacific,Tokyo,77,0.03
+140.83.36.199,2095,0,false,LAX,North America,Los Angeles,74,0.03
+151.145.65.108,2096,0,true,NRT,Asia Pacific,Tokyo,243,0.03
+158.101.136.128,2096,0,true,NRT,Asia Pacific,Tokyo,86,0.03
+151.145.65.108,2083,0,true,NRT,Asia Pacific,Tokyo,123,0.03
+158.101.136.128,8443,0,true,NRT,Asia Pacific,Tokyo,160,0.03
+138.2.11.227,2096,0,true,NRT,Asia Pacific,Tokyo,80,0.02
+138.2.6.248,2096,0,true,NRT,Asia Pacific,Tokyo,79,0.02
+168.138.203.39,8443,0,true,NRT,Asia Pacific,Tokyo,75,0.02
+158.101.136.128,2053,0,true,NRT,Asia Pacific,Tokyo,97,0.02
+138.2.27.113,2083,0,true,NRT,Asia Pacific,Tokyo,87,0.02
+158.101.136.221,8443,0,true,NRT,Asia Pacific,Tokyo,90,0.02
+132.226.8.9,2087,0,true,NRT,Asia Pacific,Tokyo,82,0.02
+138.2.26.80,2053,0,true,NRT,Asia Pacific,Tokyo,79,0.02
+138.2.19.154,8443,0,true,NRT,Asia Pacific,Tokyo,70,0.02
+138.2.14.77,8443,0,true,NRT,Asia Pacific,Tokyo,84,0.02
+158.101.136.128,2087,0,true,NRT,Asia Pacific,Tokyo,114,0.02
+138.3.216.181,2087,0,true,NRT,Asia Pacific,Tokyo,77,0.02
+138.2.14.77,2053,0,true,NRT,Asia Pacific,Tokyo,75,0.02
+146.56.38.64,80,0,false,LAX,North America,Los Angeles,103,0.02
+138.2.19.154,2053,0,true,NRT,Asia Pacific,Tokyo,110,0.02
+138.3.222.50,2096,0,true,NRT,Asia Pacific,Tokyo,76,0.02
+158.101.136.128,2083,0,true,NRT,Asia Pacific,Tokyo,142,0.02
+158.180.57.165,80,0,false,FRA,Europe,Frankfurt,166,0.02
+158.101.136.221,8443,0,true,NRT,Asia Pacific,Tokyo,84,0.02
+158.101.136.221,2087,0,true,NRT,Asia Pacific,Tokyo,134,0.02
+158.101.136.221,2053,0,true,NRT,Asia Pacific,Tokyo,144,0.02
+138.2.11.227,2053,0,true,NRT,Asia Pacific,Tokyo,114,0.02
+138.2.19.154,2087,0,true,NRT,Asia Pacific,Tokyo,123,0.02
+158.101.136.221,2053,0,true,NRT,Asia Pacific,Tokyo,120,0.02
+138.2.27.113,2053,0,true,NRT,Asia Pacific,Tokyo,74,0.02
+132.226.0.181,2083,0,true,NRT,Asia Pacific,Tokyo,76,0.02
+158.101.136.128,2083,0,true,NRT,Asia Pacific,Tokyo,82,0.02
+132.226.0.181,8443,0,true,NRT,Asia Pacific,Tokyo,69,0.02
+138.2.11.227,2087,0,true,NRT,Asia Pacific,Tokyo,97,0.02
+132.226.0.181,2053,0,true,NRT,Asia Pacific,Tokyo,75,0.02
+132.145.123.6,8443,0,true,NRT,Asia Pacific,Tokyo,74,0.02
+132.226.8.9,2083,0,true,NRT,Asia Pacific,Tokyo,81,0.02
+138.3.216.181,8443,0,true,NRT,Asia Pacific,Tokyo,72,0.02
+132.226.8.9,2053,0,true,NRT,Asia Pacific,Tokyo,79,0.02
+158.101.136.128,2087,0,true,NRT,Asia Pacific,Tokyo,136,0.02
+138.3.222.50,2053,0,true,NRT,Asia Pacific,Tokyo,93,0.02
+132.226.8.9,8443,0,true,NRT,Asia Pacific,Tokyo,68,0.02
+140.238.37.162,2053,0,true,NRT,Asia Pacific,Tokyo,70,0.02
+138.2.6.248,2053,0,true,NRT,Asia Pacific,Tokyo,71,0.02
+140.238.37.162,2096,0,true,NRT,Asia Pacific,Tokyo,81,0.02
+138.3.222.50,8443,0,true,NRT,Asia Pacific,Tokyo,107,0.02
+138.3.222.50,2087,0,true,NRT,Asia Pacific,Tokyo,87,0.02
+138.3.216.181,2096,0,true,NRT,Asia Pacific,Tokyo,112,0.02
+138.3.216.181,2053,0,true,NRT,Asia Pacific,Tokyo,70,0.02
+158.101.136.221,2096,0,true,NRT,Asia Pacific,Tokyo,84,0.02
+213.35.122.57,80,0,false,SIN,Asia Pacific,Singapore,38,0.02
+138.2.26.80,2087,0,true,NRT,Asia Pacific,Tokyo,78,0.02
+138.2.27.113,2096,0,true,NRT,Asia Pacific,Tokyo,94,0.02
+158.101.136.221,2083,0,true,NRT,Asia Pacific,Tokyo,82,0.02
+132.145.123.6,2096,0,true,NRT,Asia Pacific,Tokyo,72,0.02
+129.151.207.149,80,0,false,OSL,Europe,Oslo,183,0.02
+138.2.27.113,2087,0,true,NRT,Asia Pacific,Tokyo,78,0.02
+138.2.26.80,2096,0,true,NRT,Asia Pacific,Tokyo,101,0.02
+129.146.23.172,80,0,false,LAX,North America,Los Angeles,174,0.02
+138.2.26.80,2083,0,true,NRT,Asia Pacific,Tokyo,117,0.02
+138.2.14.77,2087,0,true,NRT,Asia Pacific,Tokyo,77,0.02
+141.148.227.28,80,0,false,AMS,Europe,Amsterdam,186,0.02
+132.226.0.181,2087,0,true,NRT,Asia Pacific,Tokyo,74,0.02
+138.2.26.80,8443,0,true,NRT,Asia Pacific,Tokyo,86,0.02
+132.226.8.9,2096,0,true,NRT,Asia Pacific,Tokyo,69,0.02
+158.101.136.221,2083,0,true,NRT,Asia Pacific,Tokyo,115,0.02
+158.101.136.221,2096,0,true,NRT,Asia Pacific,Tokyo,104,0.02
+138.3.216.181,2083,0,true,NRT,Asia Pacific,Tokyo,78,0.02
+132.226.0.181,2096,0,true,NRT,Asia Pacific,Tokyo,81,0.02
+168.138.203.39,2087,0,true,NRT,Asia Pacific,Tokyo,79,0.02
+138.3.222.50,2083,0,true,NRT,Asia Pacific,Tokyo,91,0.02
+168.138.203.39,80,0,false,NRT,Asia Pacific,Tokyo,70,0.02
+138.2.6.248,8443,0,true,NRT,Asia Pacific,Tokyo,97,0.02
+138.2.14.77,2096,0,true,NRT,Asia Pacific,Tokyo,100,0.02
+138.2.19.154,2096,0,true,NRT,Asia Pacific,Tokyo,140,0.02
+129.146.175.56,80,0,false,LAX,North America,Los Angeles,173,0.01
+143.47.177.162,443,0,true,FRA,Europe,Frankfurt,224,0.01
+151.145.65.108,2087,0,true,NRT,Asia Pacific,Tokyo,77,0.01
+132.145.123.6,2053,0,true,NRT,Asia Pacific,Tokyo,71,0.01
+132.145.123.6,2087,0,true,NRT,Asia Pacific,Tokyo,84,0.01
+151.145.65.108,2053,0,true,NRT,Asia Pacific,Tokyo,73,0.01
+146.56.134.155,443,0,false,ICN,Asia Pacific,Seoul,147,0.01
+132.145.123.6,2083,0,true,NRT,Asia Pacific,Tokyo,78,0.01
+132.145.54.222,80,0,false,LHR,Europe,London,167,0.01
+168.138.203.39,2096,0,true,NRT,Asia Pacific,Tokyo,76,0.01
+168.138.203.39,2083,0,true,NRT,Asia Pacific,Tokyo,69,0.01
+168.138.203.39,2053,0,true,NRT,Asia Pacific,Tokyo,91,0.01
+158.101.136.128,8443,0,true,NRT,Asia Pacific,Tokyo,83,0.01
+158.101.136.128,2096,0,true,NRT,Asia Pacific,Tokyo,72,0.01
+158.101.136.221,2087,0,true,NRT,Asia Pacific,Tokyo,80,0.01
+158.101.136.128,2053,0,true,NRT,Asia Pacific,Tokyo,106,0.01
+158.180.52.137,2095,0,false,FRA,Europe,Frankfurt,170,0.01
+141.144.250.193,2095,0,false,FRA,Europe,Frankfurt,180,0.01
+138.2.19.154,2083,0,true,NRT,Asia Pacific,Tokyo,137,0.01
+146.56.134.155,80,0,false,HKG,Asia Pacific,Hong Kong,93,0.01
+146.235.200.252,80,0,false,SJC,North America,San Jose,307,0.01
+213.35.121.216,80,0,false,SIN,Asia Pacific,Singapore,47,0.01
+192.9.138.102,80,0,false,SJC,North America,San Jose,283,0.01
+138.3.223.255,80,0,false,LAX,North America,Los Angeles,67,0.01
+152.70.255.150,80,0,false,ICN,Asia Pacific,Seoul,90,0.01
+129.159.34.113,80,0,false,SJC,North America,San Jose,263,0.01
+150.230.118.127,80,0,false,LHR,Europe,London,167,0.01
+158.101.47.60,80,0,false,LAX,North America,Los Angeles,180,0.01
+140.83.48.123,80,0,false,LAX,North America,Los Angeles,70,0.00
+138.2.112.229,80,0,false,ICN,Asia Pacific,Seoul,69,0.00
+132.226.7.29,80,0,false,LAX,North America,Los Angeles,73,0.00
+129.151.167.170,80,0,false,NBO,Africa,Nairobi,178,0.00
+158.178.150.142,80,0,false,AMS,Europe,Amsterdam,185,0.00
+146.56.46.54,80,0,false,ICN,Asia Pacific,Seoul,106,0.00
+168.138.198.241,8080,0,false,NRT,Asia Pacific,Tokyo,71,0.00
+146.235.218.69,80,0,false,SJC,North America,San Jose,309,0.00
+165.1.70.109,80,0,false,SJC,North America,San Jose,321,0.00
+158.180.79.112,443,0,false,ICN,Asia Pacific,Seoul,71,0.00
+193.122.117.38,8080,0,false,ICN,Asia Pacific,Seoul,86,0.00
+130.162.195.231,8080,0,false,MEL,Oceania,Melbourne,84,0.00
+140.238.8.180,8080,0,false,ICN,Asia Pacific,Seoul,116,0.00
+192.18.135.225,80,0,false,SJC,North America,San Jose,258,0.00
+165.1.70.109,443,0,false,SJC,North America,San Jose,186,0.00
+138.2.116.112,8080,0,false,ICN,Asia Pacific,Seoul,67,0.00
+89.168.60.62,80,0,false,CDG,Europe,Paris,273,0.00
+152.69.160.167,80,0,false,SYD,Oceania,Sydney,94,0.00
+150.136.63.56,80,0,false,IAD,North America,Ashburn,232,0.00
+144.22.163.224,80,0,false,GRU,South America,São Paulo,352,0.00
+193.122.123.249,80,0,false,ICN,Asia Pacific,Seoul,102,0.00
+130.162.160.241,80,0,false,LHR,Europe,London,178,0.00
+193.122.114.77,80,0,false,LAX,North America,Los Angeles,92,0.00
+152.67.221.236,80,0,false,ICN,Asia Pacific,Seoul,67,0.00
+143.47.178.255,80,0,false,AMS,Europe,Amsterdam,163,0.00
+141.148.225.67,80,0,false,AMS,Europe,Amsterdam,166,0.00
+158.178.149.128,80,0,false,YUL,North America,Montréal,183,0.00
+144.21.60.235,80,0,false,LHR,Europe,London,180,0.00
+168.138.52.190,80,0,false,KIX,Asia Pacific,Osaka,75,0.00
+141.147.103.238,80,0,false,LHR,Europe,London,180,0.00
+168.138.190.120,443,0,true,SIN,Asia Pacific,Singapore,1,0.00
+168.138.185.234,443,443,true,SIN,Asia Pacific,Singapore,2,0.00
+168.138.184.64,2087,2087,true,SIN,Asia Pacific,Singapore,2,0.00
+168.138.177.109,443,0,true,SIN,Asia Pacific,Singapore,2,0.00
+152.69.215.14,2083,0,true,SIN,Asia Pacific,Singapore,3,0.00
+152.69.215.14,80,80,false,SIN,Asia Pacific,Singapore,3,0.00
+152.69.213.91,80,80,false,SIN,Asia Pacific,Singapore,3,0.00
+152.69.215.14,8443,8443,true,SIN,Asia Pacific,Singapore,3,0.00
+168.138.185.28,2087,2087,true,SIN,Asia Pacific,Singapore,3,0.00
+152.69.215.14,2095,2095,false,SIN,Asia Pacific,Singapore,3,0.00
+152.69.213.165,443,0,false,SIN,Asia Pacific,Singapore,3,0.00
+152.69.215.14,2082,2082,false,SIN,Asia Pacific,Singapore,7,0.00
+168.138.184.64,2083,2083,true,SIN,Asia Pacific,Singapore,8,0.00
+158.178.246.169,2086,0,false,SIN,Asia Pacific,Singapore,8,0.00
+168.138.184.64,2053,2053,true,SIN,Asia Pacific,Singapore,8,0.00
+152.69.215.14,8880,8880,false,SIN,Asia Pacific,Singapore,9,0.00
+129.150.48.166,80,0,false,SIN,Asia Pacific,Singapore,14,0.00
+152.69.215.14,2096,2096,true,SIN,Asia Pacific,Singapore,15,0.00
+158.178.242.56,2082,0,false,SIN,Asia Pacific,Singapore,26,0.00
+129.150.48.166,2095,0,false,SIN,Asia Pacific,Singapore,28,0.00
+158.178.241.45,2082,0,false,SIN,Asia Pacific,Singapore,29,0.00
+158.178.242.56,8880,0,false,SIN,Asia Pacific,Singapore,30,0.00
+152.70.71.205,443,0,true,HYD,Asia Pacific,Hyderabad,46,0.00
+129.154.252.32,443,0,true,BOM,Asia Pacific,Mumbai,60,0.00
+168.138.198.53,8443,8443,true,NRT,Asia Pacific,Tokyo,67,0.00
+150.230.220.232,2086,2086,false,NRT,Asia Pacific,Tokyo,67,0.00
+138.2.120.207,80,0,false,ICN,Asia Pacific,Seoul,67,0.00
+131.186.62.248,443,0,true,HKG,Asia Pacific,Hong Kong,67,0.00
+150.230.252.145,80,0,false,ICN,Asia Pacific,Seoul,67,0.00
+146.56.103.228,443,0,true,ICN,Asia Pacific,Seoul,68,0.00
+152.67.223.147,443,443,true,ICN,Asia Pacific,Seoul,68,0.00
+141.147.147.28,443,443,true,KIX,Asia Pacific,Osaka,68,0.00
+150.230.216.117,2086,2086,false,NRT,Asia Pacific,Tokyo,68,0.00
+150.230.201.39,2086,2086,false,NRT,Asia Pacific,Tokyo,68,0.00
+132.226.7.217,443,443,true,LAX,North America,Los Angeles,68,0.00
+150.230.213.65,2052,0,false,NRT,Asia Pacific,Tokyo,68,0.00
+132.145.123.17,2095,0,false,LAX,North America,Los Angeles,68,0.00
+150.230.202.232,8880,8880,false,NRT,Asia Pacific,Tokyo,68,0.00
+150.230.213.65,2086,0,false,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.208.83,2086,2086,false,NRT,Asia Pacific,Tokyo,69,0.00
+155.248.162.233,80,0,false,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.214.218,8880,8880,false,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.216.117,8880,8880,false,NRT,Asia Pacific,Tokyo,69,0.00
+132.145.114.250,2087,0,true,NRT,Asia Pacific,Tokyo,69,0.00
+138.3.223.9,80,0,false,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.202.232,2052,2052,false,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.208.83,8443,0,true,NRT,Asia Pacific,Tokyo,69,0.00
+152.67.222.167,443,443,true,ICN,Asia Pacific,Seoul,69,0.00
+150.230.217.29,8080,0,false,NRT,Asia Pacific,Tokyo,69,0.00
+152.70.106.13,8880,0,false,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.220.232,2087,2087,true,NRT,Asia Pacific,Tokyo,69,0.00
+150.230.220.232,2095,2095,false,NRT,Asia Pacific,Tokyo,69,0.00
+140.238.37.208,443,443,true,SIN,Asia Pacific,Singapore,69,0.00
+131.186.58.151,2096,0,true,NRT,Asia Pacific,Tokyo,69,0.00
+132.145.120.103,2096,0,true,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.197.156,8080,8080,false,NRT,Asia Pacific,Tokyo,70,0.00
+155.248.186.182,8443,0,true,NRT,Asia Pacific,Tokyo,70,0.00
+168.138.209.244,2053,2053,true,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.213.65,80,0,false,NRT,Asia Pacific,Tokyo,70,0.00
+140.238.59.255,8443,8443,true,NRT,Asia Pacific,Tokyo,70,0.00
+141.147.182.70,2053,2053,true,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.201.63,2053,2053,true,NRT,Asia Pacific,Tokyo,70,0.00
+168.138.202.145,2083,0,true,NRT,Asia Pacific,Tokyo,70,0.00
+141.147.164.153,8443,8443,true,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.213.65,2082,0,false,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.197.156,8880,8880,false,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.208.83,2052,2052,false,NRT,Asia Pacific,Tokyo,70,0.00
+131.186.44.38,2053,2053,true,NRT,Asia Pacific,Tokyo,70,0.00
+158.101.90.190,8443,0,true,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.216.117,2082,2082,false,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.197.156,80,80,false,NRT,Asia Pacific,Tokyo,70,0.00
+141.147.160.221,2053,2053,true,NRT,Asia Pacific,Tokyo,70,0.00
+150.230.208.83,2095,2095,false,NRT,Asia Pacific,Tokyo,70,0.00
+131.186.46.75,2083,0,true,NRT,Asia Pacific,Tokyo,70,0.00
+138.2.75.91,443,0,true,SIN,Asia Pacific,Singapore,71,0.00
+150.230.216.117,8443,8443,true,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.208.83,80,80,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.197.156,2095,2095,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.105.183,2086,0,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.219.168,2082,2082,false,NRT,Asia Pacific,Tokyo,71,0.00
+132.145.120.118,2096,0,true,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.217.29,8443,0,true,NRT,Asia Pacific,Tokyo,71,0.00
+141.147.167.44,2053,2053,true,NRT,Asia Pacific,Tokyo,71,0.00
+141.147.164.153,2095,2095,false,NRT,Asia Pacific,Tokyo,71,0.00
+140.238.35.78,8880,0,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.109.138,2095,2095,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.219.168,2095,2095,false,NRT,Asia Pacific,Tokyo,71,0.00
+168.138.198.202,2053,0,true,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.212.9,8880,8880,false,NRT,Asia Pacific,Tokyo,71,0.00
+141.147.169.195,80,80,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.219.168,8880,8880,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.201.63,80,80,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.208.83,2083,0,true,NRT,Asia Pacific,Tokyo,71,0.00
+155.248.160.116,2086,0,false,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.197.156,2052,2052,false,NRT,Asia Pacific,Tokyo,71,0.00
+141.147.162.204,8443,8443,true,NRT,Asia Pacific,Tokyo,71,0.00
+150.230.109.252,8880,8880,false,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.109.138,80,80,false,NRT,Asia Pacific,Tokyo,72,0.00
+141.147.166.189,2087,2087,true,NRT,Asia Pacific,Tokyo,72,0.00
+141.147.167.44,2052,2052,false,NRT,Asia Pacific,Tokyo,72,0.00
+141.147.166.189,2053,2053,true,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.107.197,2095,2095,false,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.109.252,2095,2095,false,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.216.117,2096,2096,true,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.201.63,2086,2086,false,NRT,Asia Pacific,Tokyo,72,0.00
+168.138.212.184,8443,8443,true,NRT,Asia Pacific,Tokyo,72,0.00
+131.186.46.75,2087,0,true,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.107.94,2086,2086,false,NRT,Asia Pacific,Tokyo,72,0.00
+168.138.207.64,8443,0,true,NRT,Asia Pacific,Tokyo,72,0.00
+132.145.123.17,80,0,false,LAX,North America,Los Angeles,72,0.00
+141.147.165.179,2053,2053,true,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.208.83,2087,2087,true,NRT,Asia Pacific,Tokyo,72,0.00
+155.248.166.141,2087,0,true,NRT,Asia Pacific,Tokyo,72,0.00
+150.230.201.82,443,443,true,NRT,Asia Pacific,Tokyo,73,0.00
+168.138.215.188,2087,2087,true,NRT,Asia Pacific,Tokyo,73,0.00
+158.101.137.96,2052,2052,false,NRT,Asia Pacific,Tokyo,73,0.00
+141.147.164.54,2096,2096,true,NRT,Asia Pacific,Tokyo,73,0.00
+150.230.207.53,2086,2086,false,NRT,Asia Pacific,Tokyo,73,0.00
+158.179.186.234,2052,0,false,NRT,Asia Pacific,Tokyo,73,0.00
+141.147.169.131,2096,2096,true,NRT,Asia Pacific,Tokyo,73,0.00
+150.230.216.117,80,80,false,NRT,Asia Pacific,Tokyo,73,0.00
+168.138.209.84,2053,2053,true,NRT,Asia Pacific,Tokyo,73,0.00
+158.179.181.107,2086,0,false,NRT,Asia Pacific,Tokyo,73,0.00
+141.147.163.68,443,443,true,NRT,Asia Pacific,Tokyo,73,0.00
+150.230.201.39,8880,8880,false,NRT,Asia Pacific,Tokyo,73,0.00
+158.179.184.144,8080,0,false,NRT,Asia Pacific,Tokyo,74,0.00
+141.147.160.221,2096,2096,true,NRT,Asia Pacific,Tokyo,74,0.00
+150.230.208.83,8080,8080,false,NRT,Asia Pacific,Tokyo,74,0.00
+150.230.197.156,2082,2082,false,NRT,Asia Pacific,Tokyo,74,0.00
+155.248.162.233,2082,0,false,NRT,Asia Pacific,Tokyo,74,0.00
+150.230.220.232,2052,2052,false,NRT,Asia Pacific,Tokyo,74,0.00
+150.230.61.252,80,0,false,KIX,Asia Pacific,Osaka,74,0.00
+150.230.220.232,8080,8080,false,NRT,Asia Pacific,Tokyo,74,0.00
+168.138.50.14,443,443,true,KIX,Asia Pacific,Osaka,74,0.00
+150.230.201.39,2082,2082,false,NRT,Asia Pacific,Tokyo,74,0.00
+132.145.120.197,2053,0,true,NRT,Asia Pacific,Tokyo,74,0.00
+141.147.179.64,2053,2053,true,NRT,Asia Pacific,Tokyo,74,0.00
+152.70.111.251,2053,0,true,NRT,Asia Pacific,Tokyo,74,0.00
+131.186.58.151,2053,0,true,NRT,Asia Pacific,Tokyo,74,0.00
+168.138.215.188,2083,2083,true,NRT,Asia Pacific,Tokyo,74,0.00
+150.230.220.232,80,80,false,NRT,Asia Pacific,Tokyo,75,0.00
+168.138.203.39,2083,0,true,NRT,Asia Pacific,Tokyo,75,0.00
+150.230.212.9,2053,0,true,NRT,Asia Pacific,Tokyo,75,0.00
+141.147.164.153,80,80,false,NRT,Asia Pacific,Tokyo,75,0.00
+150.230.216.117,2095,2095,false,NRT,Asia Pacific,Tokyo,75,0.00
+155.248.168.251,2083,2083,true,NRT,Asia Pacific,Tokyo,75,0.00
+140.238.54.184,2053,2053,true,NRT,Asia Pacific,Tokyo,75,0.00
+168.138.211.217,2083,2083,true,NRT,Asia Pacific,Tokyo,75,0.00
+150.230.107.94,2052,2052,false,NRT,Asia Pacific,Tokyo,75,0.00
+150.230.201.39,2052,2052,false,NRT,Asia Pacific,Tokyo,75,0.00
+141.147.162.204,2083,2083,true,NRT,Asia Pacific,Tokyo,75,0.00
+141.147.182.70,8443,8443,true,NRT,Asia Pacific,Tokyo,75,0.00
+141.147.167.44,2096,2096,true,NRT,Asia Pacific,Tokyo,75,0.00
+150.230.107.197,8080,8080,false,NRT,Asia Pacific,Tokyo,75,0.00
+168.138.202.169,2053,2053,true,NRT,Asia Pacific,Tokyo,75,0.00
+141.147.162.204,2053,2053,true,NRT,Asia Pacific,Tokyo,75,0.00
+158.179.180.109,8080,0,false,NRT,Asia Pacific,Tokyo,76,0.00
+152.70.111.251,2082,0,false,NRT,Asia Pacific,Tokyo,76,0.00
+158.179.180.109,2082,0,false,NRT,Asia Pacific,Tokyo,76,0.00
+168.138.203.39,2053,0,true,NRT,Asia Pacific,Tokyo,76,0.00
+150.230.201.63,8080,8080,false,NRT,Asia Pacific,Tokyo,76,0.00
+152.70.111.251,2086,0,false,NRT,Asia Pacific,Tokyo,76,0.00
+150.230.107.197,8880,8880,false,NRT,Asia Pacific,Tokyo,76,0.00
+150.230.107.94,8080,8080,false,NRT,Asia Pacific,Tokyo,76,0.00
+168.138.198.50,8080,0,false,LAX,North America,Los Angeles,76,0.00
+140.238.37.162,8080,0,false,NRT,Asia Pacific,Tokyo,76,0.00
+150.230.202.232,2086,2086,false,NRT,Asia Pacific,Tokyo,76,0.00
+140.238.54.164,2053,2053,true,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.109.252,2053,0,true,NRT,Asia Pacific,Tokyo,77,0.00
+141.147.164.123,2096,2096,true,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.109.252,80,80,false,NRT,Asia Pacific,Tokyo,77,0.00
+141.147.169.131,2087,2087,true,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.109.138,8080,8080,false,NRT,Asia Pacific,Tokyo,77,0.00
+152.70.106.21,2082,0,false,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.98.39,2086,2086,false,NRT,Asia Pacific,Tokyo,77,0.00
+168.138.207.64,2053,2053,true,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.101.13,80,80,false,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.219.168,8443,8443,true,NRT,Asia Pacific,Tokyo,77,0.00
+158.179.181.107,2095,0,false,NRT,Asia Pacific,Tokyo,77,0.00
+140.238.54.184,2083,2083,true,NRT,Asia Pacific,Tokyo,77,0.00
+150.230.208.83,2053,0,true,NRT,Asia Pacific,Tokyo,77,0.00
+155.248.168.251,2087,2087,true,NRT,Asia Pacific,Tokyo,78,0.00
+150.230.101.13,2086,2086,false,NRT,Asia Pacific,Tokyo,78,0.00
+150.230.107.94,80,80,false,NRT,Asia Pacific,Tokyo,78,0.00
+150.230.201.63,2082,2082,false,NRT,Asia Pacific,Tokyo,78,0.00
+141.147.168.39,443,443,true,NRT,Asia Pacific,Tokyo,78,0.00
+141.147.166.189,8880,8880,false,NRT,Asia Pacific,Tokyo,78,0.00
+150.230.201.63,2052,2052,false,NRT,Asia Pacific,Tokyo,79,0.00
+132.226.10.153,8080,0,false,LAX,North America,Los Angeles,79,0.00
+150.230.107.197,2082,2082,false,NRT,Asia Pacific,Tokyo,79,0.00
+150.230.213.65,8880,0,false,NRT,Asia Pacific,Tokyo,79,0.00
+168.138.202.145,8443,8443,true,NRT,Asia Pacific,Tokyo,79,0.00
+141.147.169.195,2087,2087,true,NRT,Asia Pacific,Tokyo,79,0.00
+193.123.68.71,80,0,false,CDG,Europe,Paris,79,0.00
+141.147.169.195,2083,2083,true,NRT,Asia Pacific,Tokyo,80,0.00
+168.138.202.145,2096,2096,true,NRT,Asia Pacific,Tokyo,80,0.00
+158.179.186.170,8080,0,false,NRT,Asia Pacific,Tokyo,80,0.00
+141.147.164.54,2053,2053,true,NRT,Asia Pacific,Tokyo,80,0.00
+150.230.107.197,80,80,false,NRT,Asia Pacific,Tokyo,80,0.00
+158.179.186.170,8880,0,false,NRT,Asia Pacific,Tokyo,80,0.00
+150.230.207.53,8443,8443,true,NRT,Asia Pacific,Tokyo,80,0.00
+168.138.209.84,8443,8443,true,NRT,Asia Pacific,Tokyo,80,0.00
+150.230.108.82,80,0,false,NRT,Asia Pacific,Tokyo,81,0.00
+141.147.182.70,2087,2087,true,NRT,Asia Pacific,Tokyo,81,0.00
+141.147.166.189,2083,2083,true,NRT,Asia Pacific,Tokyo,81,0.00
+150.230.207.53,2052,2052,false,NRT,Asia Pacific,Tokyo,81,0.00
+150.230.109.138,2082,2082,false,NRT,Asia Pacific,Tokyo,81,0.00
+168.138.205.195,2087,2087,true,NRT,Asia Pacific,Tokyo,81,0.00
+141.147.160.221,8443,0,true,NRT,Asia Pacific,Tokyo,82,0.00
+158.179.178.142,2095,0,false,NRT,Asia Pacific,Tokyo,82,0.00
+150.230.207.53,2053,0,true,NRT,Asia Pacific,Tokyo,82,0.00
+150.230.219.168,2052,2052,false,NRT,Asia Pacific,Tokyo,82,0.00
+150.230.214.218,8080,8080,false,NRT,Asia Pacific,Tokyo,82,0.00
+158.101.89.33,8880,0,false,NRT,Asia Pacific,Tokyo,82,0.00
+150.230.109.252,2086,2086,false,NRT,Asia Pacific,Tokyo,82,0.00
+150.230.212.9,2086,2086,false,NRT,Asia Pacific,Tokyo,82,0.00
+158.101.89.33,2052,0,false,NRT,Asia Pacific,Tokyo,82,0.00
+131.186.37.49,2087,0,true,NRT,Asia Pacific,Tokyo,83,0.00
+168.138.211.217,2096,2096,true,NRT,Asia Pacific,Tokyo,83,0.00
+141.147.164.123,2053,2053,true,NRT,Asia Pacific,Tokyo,83,0.00
+141.147.179.64,8443,8443,true,NRT,Asia Pacific,Tokyo,83,0.00
+150.230.107.197,2096,0,true,NRT,Asia Pacific,Tokyo,83,0.00
+146.56.132.2,80,0,false,NRT,Asia Pacific,Tokyo,84,0.00
+141.147.169.131,8443,8443,true,NRT,Asia Pacific,Tokyo,84,0.00
+150.230.217.29,8880,0,false,NRT,Asia Pacific,Tokyo,84,0.00
+150.230.207.53,80,80,false,NRT,Asia Pacific,Tokyo,84,0.00
+141.147.165.179,2083,2083,true,NRT,Asia Pacific,Tokyo,84,0.00
+152.70.106.21,80,0,false,NRT,Asia Pacific,Tokyo,84,0.00
+150.230.201.39,8080,8080,false,NRT,Asia Pacific,Tokyo,84,0.00
+155.248.169.25,8443,0,true,NRT,Asia Pacific,Tokyo,85,0.00
+158.101.89.33,2095,0,false,NRT,Asia Pacific,Tokyo,85,0.00
+168.138.203.39,2096,0,true,NRT,Asia Pacific,Tokyo,85,0.00
+132.145.120.118,2083,0,true,NRT,Asia Pacific,Tokyo,85,0.00
+155.248.162.233,8880,0,false,NRT,Asia Pacific,Tokyo,86,0.00
+155.248.169.25,2087,0,true,NRT,Asia Pacific,Tokyo,86,0.00
+141.147.166.189,8443,8443,true,NRT,Asia Pacific,Tokyo,86,0.00
+168.138.200.159,2083,2083,true,NRT,Asia Pacific,Tokyo,86,0.00
+150.230.197.156,8443,8443,true,NRT,Asia Pacific,Tokyo,87,0.00
+141.147.164.153,2053,2053,true,NRT,Asia Pacific,Tokyo,87,0.00
+150.230.219.168,80,80,false,NRT,Asia Pacific,Tokyo,87,0.00
+150.230.109.252,2052,2052,false,NRT,Asia Pacific,Tokyo,87,0.00
+150.230.217.29,2086,0,false,NRT,Asia Pacific,Tokyo,87,0.00
+150.230.107.94,8880,8880,false,NRT,Asia Pacific,Tokyo,87,0.00
+168.138.202.169,2096,2096,true,NRT,Asia Pacific,Tokyo,88,0.00
+150.230.214.218,2082,2082,false,NRT,Asia Pacific,Tokyo,88,0.00
+150.230.202.232,8443,8443,true,NRT,Asia Pacific,Tokyo,88,0.00
+152.70.235.207,443,0,true,LAX,North America,Los Angeles,89,0.00
+141.147.164.123,8443,8443,true,NRT,Asia Pacific,Tokyo,90,0.00
+155.248.182.244,2053,0,true,NRT,Asia Pacific,Tokyo,91,0.00
+150.230.212.9,2087,2087,true,NRT,Asia Pacific,Tokyo,92,0.00
+152.70.249.67,443,0,true,LAX,North America,Los Angeles,93,0.00
+150.230.101.13,2095,2095,false,NRT,Asia Pacific,Tokyo,94,0.00
+141.147.169.131,2053,2053,true,NRT,Asia Pacific,Tokyo,94,0.00
+140.238.203.213,443,0,true,SYD,Oceania,Sydney,95,0.00
+141.147.169.195,2053,0,true,NRT,Asia Pacific,Tokyo,95,0.00
+155.248.165.169,8443,0,true,NRT,Asia Pacific,Tokyo,95,0.00
+155.248.166.39,2053,0,true,NRT,Asia Pacific,Tokyo,96,0.00
+168.138.211.217,2087,2087,true,NRT,Asia Pacific,Tokyo,96,0.00
+132.145.81.117,443,0,true,ICN,Asia Pacific,Seoul,96,0.00
+193.122.114.77,80,0,false,LAX,North America,Los Angeles,96,0.00
+141.147.164.54,2087,2087,true,NRT,Asia Pacific,Tokyo,97,0.00
+168.138.209.84,2087,2087,true,NRT,Asia Pacific,Tokyo,99,0.00
+150.230.107.94,2095,2095,false,NRT,Asia Pacific,Tokyo,100,0.00
+141.147.182.70,2083,2083,true,NRT,Asia Pacific,Tokyo,100,0.00
+155.248.166.141,2083,0,true,NRT,Asia Pacific,Tokyo,101,0.00
+130.162.140.215,443,443,true,LAX,North America,Los Angeles,102,0.00
+141.147.164.123,2083,2083,true,NRT,Asia Pacific,Tokyo,103,0.00
+141.147.162.204,2096,0,true,NRT,Asia Pacific,Tokyo,104,0.00
+141.147.165.179,2087,2087,true,NRT,Asia Pacific,Tokyo,105,0.00
+150.230.105.179,2082,2082,false,NRT,Asia Pacific,Tokyo,107,0.00
+140.238.8.243,8080,0,false,ICN,Asia Pacific,Seoul,107,0.00
+150.230.109.138,2096,0,true,NRT,Asia Pacific,Tokyo,110,0.00
+141.147.166.189,2096,0,true,NRT,Asia Pacific,Tokyo,117,0.00
+141.147.165.179,2096,2096,true,NRT,Asia Pacific,Tokyo,118,0.00
+141.147.162.204,2087,2087,true,NRT,Asia Pacific,Tokyo,121,0.00
+141.147.178.135,2083,2083,true,HKG,Asia Pacific,Hong Kong,121,0.00
+141.147.179.64,2083,2083,true,NRT,Asia Pacific,Tokyo,122,0.00
+146.56.130.73,80,0,false,LAX,North America,Los Angeles,123,0.00
+141.147.167.44,2083,2083,true,NRT,Asia Pacific,Tokyo,124,0.00
+141.147.169.195,2096,2096,true,NRT,Asia Pacific,Tokyo,126,0.00
+141.147.160.221,2083,2083,true,NRT,Asia Pacific,Tokyo,127,0.00
+150.230.105.228,80,80,false,HKG,Asia Pacific,Hong Kong,128,0.00
+131.186.59.232,2096,0,true,HKG,Asia Pacific,Hong Kong,128,0.00
+150.230.105.228,2095,2095,false,HKG,Asia Pacific,Hong Kong,128,0.00
+150.230.105.228,8080,8080,false,HKG,Asia Pacific,Hong Kong,129,0.00
+150.230.105.228,8880,8880,false,HKG,Asia Pacific,Hong Kong,129,0.00
+141.147.164.54,8443,8443,true,NRT,Asia Pacific,Tokyo,130,0.00
+168.138.212.175,2087,0,true,HKG,Asia Pacific,Hong Kong,132,0.00
+152.70.102.124,2052,2052,false,HKG,Asia Pacific,Hong Kong,132,0.00
+141.147.167.44,2087,2087,true,NRT,Asia Pacific,Tokyo,132,0.00
+168.138.196.164,2096,0,true,HKG,Asia Pacific,Hong Kong,133,0.00
+141.147.164.153,2096,2096,true,NRT,Asia Pacific,Tokyo,133,0.00
+150.230.216.34,2086,2086,false,HKG,Asia Pacific,Hong Kong,134,0.00
+150.230.193.89,8080,8080,false,HKG,Asia Pacific,Hong Kong,134,0.00
+141.147.164.153,2087,2087,true,NRT,Asia Pacific,Tokyo,134,0.00
+168.138.196.164,2087,2087,true,HKG,Asia Pacific,Hong Kong,134,0.00
+150.230.97.239,8880,8880,false,HKG,Asia Pacific,Hong Kong,135,0.00
+150.230.219.83,80,80,false,HKG,Asia Pacific,Hong Kong,135,0.00
+150.230.196.73,2096,2096,true,HKG,Asia Pacific,Hong Kong,135,0.00
+141.147.168.13,2096,2096,true,HKG,Asia Pacific,Hong Kong,136,0.00
+150.230.104.197,2086,2086,false,HKG,Asia Pacific,Hong Kong,137,0.00
+141.147.182.76,8880,8880,false,HKG,Asia Pacific,Hong Kong,139,0.00
+141.147.178.115,2053,2053,true,HKG,Asia Pacific,Hong Kong,139,0.00
+150.230.97.239,8080,8080,false,HKG,Asia Pacific,Hong Kong,140,0.00
+152.70.106.185,2095,2095,false,HKG,Asia Pacific,Hong Kong,140,0.00
+141.147.165.179,8443,8443,true,NRT,Asia Pacific,Tokyo,140,0.00
+141.147.179.64,2087,2087,true,NRT,Asia Pacific,Tokyo,140,0.00
+141.147.164.123,2087,2087,true,NRT,Asia Pacific,Tokyo,140,0.00
+152.70.104.69,2086,2086,false,HKG,Asia Pacific,Hong Kong,143,0.00
+150.230.192.173,2052,2052,false,SIN,Asia Pacific,Singapore,148,0.00
+141.147.179.64,2096,2096,true,NRT,Asia Pacific,Tokyo,148,0.00
+150.230.105.228,2096,0,true,HKG,Asia Pacific,Hong Kong,148,0.00
+150.230.212.213,8880,8880,false,SIN,Asia Pacific,Singapore,149,0.00
+141.147.168.159,2083,2083,true,HKG,Asia Pacific,Hong Kong,151,0.00
+150.230.205.56,80,80,false,SIN,Asia Pacific,Singapore,151,0.00
+150.230.202.132,8880,8880,false,SIN,Asia Pacific,Singapore,152,0.00
+150.230.213.95,8080,0,false,SIN,Asia Pacific,Singapore,156,0.00
+150.230.105.228,8443,0,true,HKG,Asia Pacific,Hong Kong,156,0.00
+141.147.164.54,2083,2083,true,NRT,Asia Pacific,Tokyo,156,0.00
+141.147.178.135,2096,2096,true,HKG,Asia Pacific,Hong Kong,157,0.00
+141.147.160.86,8443,8443,true,SIN,Asia Pacific,Singapore,157,0.00
+150.230.105.53,80,80,false,SIN,Asia Pacific,Singapore,158,0.00
+84.235.163.153,443,443,true,EWR,North America,Newark,158,0.00
+150.230.105.228,2082,2082,false,HKG,Asia Pacific,Hong Kong,158,0.00
+150.230.104.197,2087,0,true,HKG,Asia Pacific,Hong Kong,159,0.00
+158.101.215.77,443,0,true,FRA,Europe,Frankfurt,160,0.00
+168.138.212.40,8443,8443,true,SIN,Asia Pacific,Singapore,163,0.00
+150.230.193.89,2086,2086,false,SIN,Asia Pacific,Singapore,165,0.00
+144.24.191.100,443,443,true,FRA,Europe,Frankfurt,165,0.00
+141.147.174.190,2096,2096,true,HKG,Asia Pacific,Hong Kong,165,0.00
+152.70.184.140,443,0,true,FRA,Europe,Frankfurt,167,0.00
+144.24.163.83,2095,0,false,FRA,Europe,Frankfurt,167,0.00
+141.147.160.86,2083,2083,true,SIN,Asia Pacific,Singapore,167,0.00
+144.24.179.97,443,443,true,FRA,Europe,Frankfurt,167,0.00
+84.235.172.224,443,443,true,FRA,Europe,Frankfurt,168,0.00
+141.144.228.193,443,0,true,FRA,Europe,Frankfurt,169,0.00
+152.70.106.195,2086,0,false,HKG,Asia Pacific,Hong Kong,170,0.00
+141.147.178.135,2087,0,true,HKG,Asia Pacific,Hong Kong,170,0.00
+150.230.219.83,2082,0,false,LAX,North America,Los Angeles,172,0.00
+150.230.193.89,80,80,false,LAX,North America,Los Angeles,174,0.00
+168.138.194.121,8443,8443,true,LAX,North America,Los Angeles,174,0.00
+150.230.205.56,2086,2086,false,LAX,North America,Los Angeles,174,0.00
+150.230.216.34,8080,8080,false,LAX,North America,Los Angeles,174,0.00
+141.147.178.202,2053,2053,true,LAX,North America,Los Angeles,174,0.00
+141.147.160.86,2096,2096,true,LAX,North America,Los Angeles,174,0.00
+131.186.60.162,8443,0,true,LAX,North America,Los Angeles,174,0.00
+140.238.35.195,2096,2096,true,LAX,North America,Los Angeles,174,0.00
+150.230.199.118,2052,2052,false,LAX,North America,Los Angeles,174,0.00
+155.248.176.98,2087,2087,true,LAX,North America,Los Angeles,174,0.00
+155.248.162.160,2087,0,true,LAX,North America,Los Angeles,174,0.00
+150.230.217.63,80,80,false,LAX,North America,Los Angeles,175,0.00
+150.230.202.132,80,0,false,LAX,North America,Los Angeles,175,0.00
+141.147.183.96,2087,2087,true,LAX,North America,Los Angeles,175,0.00
+141.147.61.116,8443,443,true,FRA,Europe,Frankfurt,175,0.00
+150.230.204.117,2095,2095,false,LAX,North America,Los Angeles,176,0.00
+150.230.213.95,2086,0,false,LAX,North America,Los Angeles,176,0.00
+155.248.185.38,2053,0,true,LAX,North America,Los Angeles,176,0.00
+150.230.192.173,80,80,false,LAX,North America,Los Angeles,176,0.00
+150.230.208.113,2095,2095,false,LAX,North America,Los Angeles,176,0.00
+158.101.70.155,2086,0,false,LAX,North America,Los Angeles,176,0.00
+155.248.187.37,2087,0,true,LAX,North America,Los Angeles,176,0.00
+150.230.99.173,8443,0,true,LAX,North America,Los Angeles,176,0.00
+150.230.192.173,8443,0,true,LAX,North America,Los Angeles,176,0.00
+158.101.88.214,8080,8080,false,LAX,North America,Los Angeles,176,0.00
+150.230.217.63,2095,2095,false,LAX,North America,Los Angeles,176,0.00
+150.230.213.95,8880,8880,false,LAX,North America,Los Angeles,176,0.00
+150.230.204.117,2083,2083,true,LAX,North America,Los Angeles,176,0.00
+150.230.205.56,2052,2052,false,LAX,North America,Los Angeles,177,0.00
+150.230.213.95,2082,2082,false,LAX,North America,Los Angeles,177,0.00
+150.230.212.87,2052,2052,false,LAX,North America,Los Angeles,177,0.00
+150.230.99.173,2082,2082,false,LAX,North America,Los Angeles,177,0.00
+150.230.216.34,80,80,false,LAX,North America,Los Angeles,177,0.00
+150.230.212.87,2083,0,true,LAX,North America,Los Angeles,177,0.00
+152.70.98.174,2082,0,false,LAX,North America,Los Angeles,177,0.00
+150.230.219.83,2095,2095,false,LAX,North America,Los Angeles,178,0.00
+141.147.181.148,2096,2096,true,LAX,North America,Los Angeles,178,0.00
+150.230.217.63,2082,2082,false,LAX,North America,Los Angeles,179,0.00
+141.147.182.76,2053,2053,true,LAX,North America,Los Angeles,179,0.00
+158.179.186.251,2095,0,false,LAX,North America,Los Angeles,179,0.00
+144.24.177.206,443,443,true,EWR,North America,Newark,179,0.00
+150.230.200.210,2086,2086,false,LAX,North America,Los Angeles,179,0.00
+141.147.94.223,443,443,true,FRA,Europe,Frankfurt,179,0.00
+150.230.219.83,8880,8880,false,LAX,North America,Los Angeles,179,0.00
+150.230.192.173,2086,2086,false,LAX,North America,Los Angeles,179,0.00
+158.101.65.24,2082,0,false,LAX,North America,Los Angeles,179,0.00
+150.230.202.132,2052,2052,false,LAX,North America,Los Angeles,179,0.00
+150.230.199.118,8880,8880,false,LAX,North America,Los Angeles,179,0.00
+150.230.200.210,8080,8080,false,LAX,North America,Los Angeles,180,0.00
+150.230.212.87,2095,2095,false,LAX,North America,Los Angeles,180,0.00
+155.248.179.132,2053,0,true,LAX,North America,Los Angeles,180,0.00
+150.230.192.173,2095,2095,false,LAX,North America,Los Angeles,180,0.00
+168.138.206.236,2087,2087,true,LAX,North America,Los Angeles,180,0.00
+150.230.199.118,80,80,false,LAX,North America,Los Angeles,180,0.00
+158.101.205.235,443,0,true,FRA,Europe,Frankfurt,180,0.00
+129.159.197.137,8443,0,true,FRA,Europe,Frankfurt,180,0.00
+168.138.197.222,8443,8443,true,LAX,North America,Los Angeles,181,0.00
+158.179.182.19,2095,0,false,LAX,North America,Los Angeles,181,0.00
+132.145.112.247,2053,0,true,LAX,North America,Los Angeles,181,0.00
+150.230.101.125,8080,8080,false,LAX,North America,Los Angeles,181,0.00
+129.159.193.155,443,0,true,FRA,Europe,Frankfurt,181,0.00
+150.230.219.83,2052,2052,false,LAX,North America,Los Angeles,182,0.00
+150.230.213.95,2095,2095,false,LAX,North America,Los Angeles,182,0.00
+84.235.169.205,443,443,true,FRA,Europe,Frankfurt,182,0.00
+150.230.216.34,2096,2096,true,LAX,North America,Los Angeles,182,0.00
+150.230.216.34,2052,2052,false,LAX,North America,Los Angeles,182,0.00
+155.248.179.132,2087,0,true,LAX,North America,Los Angeles,182,0.00
+152.70.166.114,443,0,true,FRA,Europe,Frankfurt,182,0.00
+150.230.201.162,2095,2095,false,LAX,North America,Los Angeles,182,0.00
+150.230.208.113,2086,2086,false,LAX,North America,Los Angeles,183,0.00
+150.230.204.117,2096,2096,true,LAX,North America,Los Angeles,183,0.00
+150.230.196.73,2082,2082,false,LAX,North America,Los Angeles,183,0.00
+140.238.36.248,2083,2083,true,LAX,North America,Los Angeles,183,0.00
+150.230.196.73,2083,2083,true,LAX,North America,Los Angeles,183,0.00
+150.230.192.173,2082,2082,false,LAX,North America,Los Angeles,184,0.00
+152.70.107.26,8080,0,false,LAX,North America,Los Angeles,184,0.00
+150.230.193.89,8880,8880,false,LAX,North America,Los Angeles,184,0.00
+150.230.202.132,2086,2086,false,LAX,North America,Los Angeles,184,0.00
+150.230.205.56,2095,0,false,LAX,North America,Los Angeles,184,0.00
+150.230.204.117,80,80,false,LAX,North America,Los Angeles,184,0.00
+168.138.217.146,8443,0,true,LAX,North America,Los Angeles,184,0.00
+150.230.97.239,2082,2082,false,LAX,North America,Los Angeles,184,0.00
+141.147.178.115,2083,2083,true,LAX,North America,Los Angeles,184,0.00
+141.147.175.230,2053,2053,true,LAX,North America,Los Angeles,185,0.00
+168.138.195.31,2083,2083,true,LAX,North America,Los Angeles,185,0.00
+168.138.196.237,2053,0,true,LAX,North America,Los Angeles,185,0.00
+150.230.216.34,2095,2095,false,LAX,North America,Los Angeles,185,0.00
+168.138.194.121,8880,0,false,LAX,North America,Los Angeles,185,0.00
+158.101.214.101,443,0,true,FRA,Europe,Frankfurt,185,0.00
+150.230.212.213,2052,2052,false,LAX,North America,Los Angeles,185,0.00
+168.138.196.237,8443,0,true,LAX,North America,Los Angeles,185,0.00
+150.230.208.113,2082,2082,false,LAX,North America,Los Angeles,185,0.00
+150.230.200.210,2082,2082,false,LAX,North America,Los Angeles,186,0.00
+150.230.213.95,80,80,false,LAX,North America,Los Angeles,186,0.00
+150.230.108.135,2082,2082,false,LAX,North America,Los Angeles,186,0.00
+168.138.192.185,2083,2083,true,LAX,North America,Los Angeles,186,0.00
+155.248.163.133,8080,0,false,LAX,North America,Los Angeles,186,0.00
+141.147.182.76,2096,2096,true,LAX,North America,Los Angeles,186,0.00
+141.147.182.76,2083,2083,true,LAX,North America,Los Angeles,186,0.00
+150.230.201.162,8080,0,false,LAX,North America,Los Angeles,187,0.00
+141.147.178.202,2083,2083,true,LAX,North America,Los Angeles,187,0.00
+155.248.185.38,2083,0,true,LAX,North America,Los Angeles,187,0.00
+150.230.196.73,8080,8080,false,LAX,North America,Los Angeles,187,0.00
+150.230.219.83,2086,2086,false,LAX,North America,Los Angeles,187,0.00
+155.248.169.71,8443,0,true,LAX,North America,Los Angeles,187,0.00
+168.138.217.146,2096,0,true,SIN,Asia Pacific,Singapore,187,0.00
+150.230.199.118,2082,2082,false,LAX,North America,Los Angeles,187,0.00
+150.230.217.63,8080,0,false,LAX,North America,Los Angeles,187,0.00
+150.230.200.210,80,80,false,LAX,North America,Los Angeles,187,0.00
+158.101.81.4,80,80,false,LAX,North America,Los Angeles,187,0.00
+158.101.65.24,2095,2095,false,LAX,North America,Los Angeles,188,0.00
+168.138.192.185,2096,2096,true,LAX,North America,Los Angeles,188,0.00
+141.147.174.190,2087,2087,true,LAX,North America,Los Angeles,188,0.00
+150.230.196.73,2053,0,true,LAX,North America,Los Angeles,188,0.00
+155.248.162.160,2086,2086,false,LAX,North America,Los Angeles,189,0.00
+168.138.212.175,2053,0,true,LAX,North America,Los Angeles,189,0.00
+155.248.163.133,80,0,false,LAX,North America,Los Angeles,189,0.00
+141.147.178.202,2087,2087,true,LAX,North America,Los Angeles,189,0.00
+150.230.212.213,2082,2082,false,LAX,North America,Los Angeles,189,0.00
+144.24.189.21,8443,443,true,FRA,Europe,Frankfurt,189,0.00
+130.162.232.71,2095,0,false,FRA,Europe,Frankfurt,189,0.00
+150.230.204.117,8080,8080,false,LAX,North America,Los Angeles,190,0.00
+150.230.202.132,8080,8080,false,LAX,North America,Los Angeles,190,0.00
+168.138.192.185,8443,8443,true,LAX,North America,Los Angeles,190,0.00
+168.138.208.164,2087,2087,true,LAX,North America,Los Angeles,190,0.00
+129.146.243.241,443,0,true,LAX,North America,Los Angeles,191,0.00
+150.230.205.56,2082,2082,false,LAX,North America,Los Angeles,191,0.00
+158.179.182.19,2086,0,false,LAX,North America,Los Angeles,191,0.00
+141.147.183.96,2096,2096,true,LAX,North America,Los Angeles,191,0.00
+141.147.174.7,8443,0,true,LAX,North America,Los Angeles,191,0.00
+152.70.104.69,2095,0,false,LAX,North America,Los Angeles,192,0.00
+141.147.182.76,2087,0,true,LAX,North America,Los Angeles,192,0.00
+150.230.208.113,2052,2052,false,LAX,North America,Los Angeles,192,0.00
+150.230.196.73,8880,8880,false,LAX,North America,Los Angeles,193,0.00
+158.101.88.214,8880,0,false,LAX,North America,Los Angeles,193,0.00
+150.230.212.213,2086,2086,false,LAX,North America,Los Angeles,193,0.00
+168.138.217.146,2083,2083,true,LAX,North America,Los Angeles,193,0.00
+84.235.169.234,443,0,true,AMS,Europe,Amsterdam,194,0.00
+141.147.170.160,2087,2087,true,LAX,North America,Los Angeles,194,0.00
+150.230.212.87,8080,0,false,LAX,North America,Los Angeles,194,0.00
+131.186.43.107,2096,0,true,LAX,North America,Los Angeles,194,0.00
+144.21.54.211,443,0,true,SIN,Asia Pacific,Singapore,195,0.00
+150.230.106.21,8080,8080,false,LAX,North America,Los Angeles,195,0.00
+150.230.205.56,2087,0,true,LAX,North America,Los Angeles,195,0.00
+141.147.178.115,2087,2087,true,LAX,North America,Los Angeles,195,0.00
+158.179.176.239,2082,0,false,LAX,North America,Los Angeles,195,0.00
+141.147.170.160,8443,8443,true,LAX,North America,Los Angeles,196,0.00
+131.186.37.191,2053,0,true,LAX,North America,Los Angeles,196,0.00
+150.230.208.113,8080,0,false,LAX,North America,Los Angeles,197,0.00
+131.186.60.162,2087,0,true,LAX,North America,Los Angeles,197,0.00
+141.147.183.96,8443,8443,true,LAX,North America,Los Angeles,197,0.00
+150.230.105.53,2082,2082,false,LAX,North America,Los Angeles,198,0.00
+141.147.63.77,443,0,true,FRA,Europe,Frankfurt,198,0.00
+132.145.121.247,2087,2087,true,LAX,North America,Los Angeles,198,0.00
+150.230.216.34,2082,2082,false,LAX,North America,Los Angeles,198,0.00
+141.147.183.96,2083,2083,true,LAX,North America,Los Angeles,199,0.00
+141.147.80.7,443,443,true,FRA,Europe,Frankfurt,199,0.00
+129.146.84.236,443,443,true,LAX,North America,Los Angeles,199,0.00
+150.230.106.21,2087,2087,true,LAX,North America,Los Angeles,199,0.00
+141.147.168.159,2096,0,true,LAX,North America,Los Angeles,200,0.00
+132.145.112.168,2087,0,true,LAX,North America,Los Angeles,200,0.00
+141.147.174.7,2053,2053,true,LAX,North America,Los Angeles,201,0.00
+155.248.176.98,2053,0,true,LAX,North America,Los Angeles,202,0.00
+141.147.167.40,8443,8443,true,LAX,North America,Los Angeles,202,0.00
+132.145.117.216,2083,0,true,LAX,North America,Los Angeles,202,0.00
+141.147.168.13,8443,0,true,LAX,North America,Los Angeles,203,0.00
+150.230.104.197,8443,0,true,LAX,North America,Los Angeles,203,0.00
+168.138.200.155,8443,8443,true,LAX,North America,Los Angeles,203,0.00
+141.147.183.96,2053,2053,true,LAX,North America,Los Angeles,204,0.00
+131.186.62.26,2053,0,true,LAX,North America,Los Angeles,204,0.00
+141.147.178.115,2096,2096,true,LAX,North America,Los Angeles,204,0.00
+141.147.167.40,2096,2096,true,LAX,North America,Los Angeles,204,0.00
+168.138.200.155,2053,2053,true,LAX,North America,Los Angeles,205,0.00
+141.148.231.27,443,0,true,FRA,Europe,Frankfurt,205,0.00
+150.230.99.173,2087,0,true,LAX,North America,Los Angeles,205,0.00
+141.147.61.116,2053,443,true,FRA,Europe,Frankfurt,206,0.00
+150.230.101.125,2052,2052,false,LAX,North America,Los Angeles,206,0.00
+168.138.213.210,2053,2053,true,LAX,North America,Los Angeles,206,0.00
+141.147.178.202,8443,8443,true,LAX,North America,Los Angeles,207,0.00
+168.138.197.222,2087,0,true,LAX,North America,Los Angeles,207,0.00
+141.147.168.159,2053,2053,true,LAX,North America,Los Angeles,208,0.00
+141.147.168.13,2087,2087,true,LAX,North America,Los Angeles,208,0.00
+141.147.178.115,8443,8443,true,LAX,North America,Los Angeles,208,0.00
+141.147.160.86,2053,2053,true,LAX,North America,Los Angeles,208,0.00
+141.147.178.135,2053,0,true,HKG,Asia Pacific,Hong Kong,210,0.00
+129.146.17.9,443,443,true,LAX,North America,Los Angeles,210,0.00
+168.138.208.164,2096,2096,true,LAX,North America,Los Angeles,212,0.00
+141.147.174.190,2053,2053,true,LAX,North America,Los Angeles,212,0.00
+141.147.170.160,2083,2083,true,LAX,North America,Los Angeles,213,0.00
+141.147.160.86,2087,2087,true,LAX,North America,Los Angeles,215,0.00
+141.147.168.13,2053,2053,true,LAX,North America,Los Angeles,215,0.00
+150.230.105.53,8080,8080,false,LAX,North America,Los Angeles,216,0.00
+129.146.169.119,443,443,true,LAX,North America,Los Angeles,217,0.00
+141.147.170.160,2096,2096,true,LAX,North America,Los Angeles,221,0.00
+141.147.181.148,2087,2087,true,LAX,North America,Los Angeles,221,0.00
+141.147.175.230,8443,8443,true,LAX,North America,Los Angeles,223,0.00
+141.147.170.160,2053,2053,true,LAX,North America,Los Angeles,223,0.00
+141.147.167.40,2087,2087,true,LAX,North America,Los Angeles,224,0.00
+192.18.148.248,443,443,true,YYZ,North America,Toronto,226,0.00
+155.248.167.70,2096,2096,true,LAX,North America,Los Angeles,227,0.00
+192.18.159.223,80,0,false,YYZ,North America,Toronto,228,0.00
+150.230.44.131,8443,0,true,SJC,North America,San Jose,229,0.00
+158.101.24.17,443,443,true,LAX,North America,Los Angeles,229,0.00
+141.147.168.159,2087,2087,true,LAX,North America,Los Angeles,233,0.00
+129.159.83.88,8443,443,true,IAD,North America,Ashburn,235,0.00
+141.147.167.40,2053,2053,true,LAX,North America,Los Angeles,237,0.00
+192.18.150.176,2087,0,true,YYZ,North America,Toronto,238,0.00
+141.147.174.7,2087,2087,true,LAX,North America,Los Angeles,239,0.00
+141.147.168.13,2083,0,true,LAX,North America,Los Angeles,240,0.00
+129.146.60.210,443,443,true,LAX,North America,Los Angeles,242,0.00
+150.230.104.197,8080,8080,false,LAX,North America,Los Angeles,245,0.00
+141.147.181.148,8443,8443,true,LAX,North America,Los Angeles,246,0.00
+141.147.174.7,2083,0,true,LAX,North America,Los Angeles,249,0.00
+141.147.167.40,2083,0,true,LAX,North America,Los Angeles,250,0.00
+150.230.101.125,2053,0,true,LAX,North America,Los Angeles,258,0.00
+150.230.101.125,2096,0,true,LAX,North America,Los Angeles,258,0.00
+141.147.174.190,8443,8443,true,LAX,North America,Los Angeles,261,0.00
+141.147.174.190,2083,0,true,LAX,North America,Los Angeles,262,0.00
+141.147.168.159,8443,8443,true,LAX,North America,Los Angeles,284,0.00
+141.147.181.148,2053,0,true,LAX,North America,Los Angeles,284,0.00
+146.235.199.6,443,0,true,SJC,North America,San Jose,305,0.00
+152.70.123.225,8443,0,true,SJC,North America,San Jose,311,0.00

@@ -28,11 +28,8 @@ DOMAIN-SUFFIX,cf.xmsl.org
 # > TreeDiagram 服务器
 DOMAIN,789.123456.al
 
-# > 流媒体BlueSeaEmby&Musics服务器
-DOMAIN-SUFFIX,blueseacdn.com
-DOMAIN-SUFFIX,bsem.ddns.me
-DOMAIN-SUFFIX,bluesea.ddns.me
-DOMAIN-SUFFIX,blueseamusics.com
+# > 流媒体Starcat 服务器
+DOMAIN-SUFFIX,flarex.starcat.eu.org
 
 # > 流媒体StudyFun999服务器
 DOMAIN-SUFFIX,cf.studyfun.live

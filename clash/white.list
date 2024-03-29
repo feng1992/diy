@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,herofsh.eu.org
 DOMAIN-SUFFIX,ffssh.eu.org
 DOMAIN-SUFFIX,mylo.eu.org
 DOMAIN-SUFFIX,Judy.eu.org
-DOMAIN-SUFFIX,majorgg.eu.org
+#DOMAIN-SUFFIX,majorgg.eu.org
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-KEYWORD,dmhy

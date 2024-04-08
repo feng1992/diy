@@ -26,13 +26,20 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 - name: 🫶🏻 手动切换
   type: select
   use:
     - flowercloud
-    exculde: '到期|剩余流量|时间|官网|产品|平台|续费|官方|每周'
+  
+
+- name: ♻️ 自定义选择
+  type: select
+  use:
+    - flowercloud
+  
 
 - name: 🕹 巴哈姆特
   type: select
@@ -43,6 +50,7 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 - name: 🎬 奈飞
@@ -54,6 +62,7 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 - name: 🛢 油管
@@ -65,6 +74,7 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 - name: 🐹 迪士尼
@@ -76,6 +86,19 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 💬 OpenAi
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 - name: 📽 HBO
@@ -87,6 +110,43 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🎶 Spotify
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🚀 Speedtest
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🌍 twitter
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 - name: 🍃 广告拦截
@@ -105,6 +165,7 @@ proxy-groups:
     - 🇯🇵 日本节点
     - 🇰🇷 韩国节点
     - 🇺🇲 美国节点
+    - 🔋 低倍率节点
     - 🫶🏻 手动切换
 
 
@@ -157,6 +218,14 @@ proxy-groups:
   url: 'https://www.gstatic.com/generate_204'
   interval: 300
 
+- name: 🔋 低倍率节点
+  type: select
+  use:
+    - flowercloud
+  filter: '实验性|低倍率|x1|0.5|0.2'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
 rules:
 - GEOSITE,icloud@cn,DirectLink
 - GEOSITE,apple@cn,DirectLink
@@ -171,12 +240,26 @@ rules:
 - GEOSITE,youtube,🛢 油管
 - GEOSITE,disney,🐹 迪士尼
 - GEOSITE,hbo,📽 HBO
-- GEOSITE,apple-cn,DIRECT
-- GEOSITE,google-cn,DIRECT
-- GEOSITE,microsoft@cn,DIRECT
+- GEOSITE,openai,💬 OpenAi
+- GEOSITE,spotify,🎶 Spotify
+- GEOSITE,speedtest,🚀 Speedtest
+- GEOSITE,twitter,🌍 twitter
 - GEOSITE,cn,DIRECT
 - GEOSITE,private,DIRECT
 - GEOSITE,geolocation-!cn,🛫 节点选择
 - GEOIP,TELEGRAM,🛫 节点选择
+- DOMAIN-SUFFIX,odysseyplus.site,♻️ 自定义选择
+- DOMAIN-SUFFIX,cc.coemn.com,♻️ 自定义选择
+- DOMAIN-SUFFIX,scf.poloemby.xyz,♻️ 自定义选择
+- DOMAIN-SUFFIX,emby.wtf,♻️ 自定义选择
+- DOMAIN-SUFFIX,cf.jmsooo.com,♻️ 自定义选择
+- DOMAIN-SUFFIX,cf.xmsl.org,♻️ 自定义选择
+- DOMAIN-SUFFIX,film.ohhhh.org,♻️ 自定义选择
+- DOMAIN-SUFFIX,catlinks.co.uk,♻️ 自定义选择
+- DOMAIN-SUFFIX,emby.9191001.xyz,♻️ 自定义选择
+- DOMAIN-SUFFIX,embyplus.org,♻️ 自定义选择
+- DOMAIN-SUFFIX,play.charontv.com,♻️ 自定义选择
+- DOMAIN-SUFFIX,v4.mius.uk,♻️ 自定义选择
+- DOMAIN-SUFFIX,789.123456.al,♻️ 自定义选择
 - GEOIP,CN,DIRECT
 - MATCH,🛫 节点选择

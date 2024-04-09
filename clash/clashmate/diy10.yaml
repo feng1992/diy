@@ -27,7 +27,12 @@ proxy-providers:
     url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
     path: ./ruleset/SelfProxy.yaml
     interval: 3600
-
+  Emby:
+    type: http
+    behavior: domain
+    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/Emby.yaml"
+    path: ./ruleset/Emby.yaml
+    interval: 3600
     
 proxy-groups:
 - name: 🛫 节点选择
@@ -239,23 +244,11 @@ proxy-groups:
   url: 'https://www.gstatic.com/generate_204'
   interval: 300
 
+
 rules:
 - RULE-SET,SelfDirect,DIRECT
 - RULE-SET,SelfProxy,🛫 节点选择
-- DOMAIN-SUFFIX,odysseyplus.site,♻️ 自定义选择
-- DOMAIN-SUFFIX,cc.coemn.com,♻️ 自定义选择
-- DOMAIN-SUFFIX,scf.poloemby.xyz,♻️ 自定义选择
-- DOMAIN-SUFFIX,emby.wtf,♻️ 自定义选择
-- DOMAIN-SUFFIX,cf.jmsooo.com,♻️ 自定义选择
-- DOMAIN-SUFFIX,cf.xmsl.org,♻️ 自定义选择
-- DOMAIN-SUFFIX,film.ohhhh.org,♻️ 自定义选择
-- DOMAIN-SUFFIX,catlinks.co.uk,♻️ 自定义选择
-- DOMAIN-SUFFIX,emby.9191001.xyz,♻️ 自定义选择
-- DOMAIN-SUFFIX,embyplus.org,♻️ 自定义选择
-- DOMAIN-SUFFIX,play.charontv.com,♻️ 自定义选择
-- DOMAIN-SUFFIX,v4.mius.uk,♻️ 自定义选择
-- DOMAIN-SUFFIX,789.123456.al,♻️ 自定义选择
-
+- RULE-SET,Emby,♻️ 自定义选择
 
 - GEOSITE,icloud@cn,DirectLink
 - GEOSITE,apple@cn,DirectLink

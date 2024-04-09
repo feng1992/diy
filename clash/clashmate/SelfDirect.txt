@@ -1,6 +1,6 @@
 #自己使用的不需要代理的域名'
 payload:
-  - '+.dshfsh.eu.org''
+  - '+.dshfsh.eu.org'
   - '+.herofsh.eu.org'
   - '+.ffssh.eu.org'
   - '+.mylo.eu.org'

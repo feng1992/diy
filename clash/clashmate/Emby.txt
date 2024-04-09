@@ -1,8 +1,8 @@
 payload:
   - 'odysseyplus.site'
   - 'cc.coemn.com'
-  - 'scf.poloemby.xyz'
-  - 'emby.wtf'
+  - '+.poloemby.xyz'
+  - '+.emby.wtf'
   - 'cf.jmsooo.com'
   - 'cf.xmsl.org'
   - 'film.ohhhh.org'
@@ -10,5 +10,5 @@ payload:
   - 'emby.9191001.xyz'
   - 'embyplus.org'
   - 'play.charontv.com'
-  - 'emby-us-v4.mius.uk'
+  - '+.mius.uk'
   - '789.123456.al'

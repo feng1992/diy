@@ -19,19 +19,19 @@ proxy-providers:
     type: http
     behavior: domain
     url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
-    path: ./ruleset/mSelfDirect.yaml
+    path: ./ruleset/selfdirect.yaml
     interval: 3600
   SelfProxy:
     type: http
     behavior: domain
     url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
-    path: ./ruleset/SelfProxy.yaml
+    path: ./ruleset/selfproxy.yaml
     interval: 3600
   Emby:
     type: http
     behavior: domain
     url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/Emby.yaml"
-    path: ./ruleset/Emby.yaml
+    path: ./ruleset/emby.yaml
     interval: 3600
     
 proxy-groups:

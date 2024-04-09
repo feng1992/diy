@@ -15,25 +15,7 @@ proxy-providers:
       enable: true
       interval: 1200
       url: https://gstatic.com/generate_204
-rule-providers:
-  SelfDirect:
-    type: http
-    behavior: domain
-    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
-    path: ./ruleset/selfdirect.yaml
-    interval: 3600
-  SelfProxy:
-    type: http
-    behavior: domain
-    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
-    path: ./ruleset/selfproxy.yaml
-    interval: 3600
-  Emby:
-    type: http
-    behavior: domain
-    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/Emby.yaml"
-    path: ./ruleset/emby.yaml
-    interval: 3600
+
     
 proxy-groups:
 - name: 🛫 节点选择
@@ -188,7 +170,6 @@ proxy-groups:
     - 🫶🏻 手动切换
 
 
-
 - name: 🇭🇰 香港节点
   type: select
   use:
@@ -246,6 +227,26 @@ proxy-groups:
   interval: 300
 
 
+rule-providers:
+  SelfDirect:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/selfdirect.yaml
+    interval: 3600
+  SelfProxy:
+    type: http
+    behavior: domain
+    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
+    path: ./ruleset/selfproxy.yaml
+    interval: 3600
+  Emby:
+    type: http
+    behavior: domain
+    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/Emby.yaml"
+    path: ./ruleset/emby.yaml
+    interval: 3600
+    
 rules:
 - RULE-SET,SelfDirect,DIRECT
 - RULE-SET,SelfProxy,🛫 节点选择

@@ -12,3 +12,4 @@ payload:
   - 'play.charontv.com'
   - '+.mius.uk'
   - '789.123456.al'
+  - 'flarex.starcat.eu.org'

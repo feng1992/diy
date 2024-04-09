@@ -21,15 +21,14 @@ proxy-providers:
     url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
     path: ./ruleset/mSelfDirect.yaml
     interval: 3600
-  SelfDirect:
+  SelfProxy:
     type: http
     behavior: domain
-    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
-    path: ./ruleset/mSelfDirect.yaml
+    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
+    path: ./ruleset/SelfProxy.yaml
     interval: 3600
-    
-    
 
+    
 proxy-groups:
 - name: 🛫 节点选择
   type: select
@@ -241,6 +240,23 @@ proxy-groups:
   interval: 300
 
 rules:
+- RULE-SET,SelfDirect,DIRECT
+- RULE-SET,SelfProxy,🛫 节点选择
+- DOMAIN-SUFFIX,odysseyplus.site,♻️ 自定义选择
+- DOMAIN-SUFFIX,cc.coemn.com,♻️ 自定义选择
+- DOMAIN-SUFFIX,scf.poloemby.xyz,♻️ 自定义选择
+- DOMAIN-SUFFIX,emby.wtf,♻️ 自定义选择
+- DOMAIN-SUFFIX,cf.jmsooo.com,♻️ 自定义选择
+- DOMAIN-SUFFIX,cf.xmsl.org,♻️ 自定义选择
+- DOMAIN-SUFFIX,film.ohhhh.org,♻️ 自定义选择
+- DOMAIN-SUFFIX,catlinks.co.uk,♻️ 自定义选择
+- DOMAIN-SUFFIX,emby.9191001.xyz,♻️ 自定义选择
+- DOMAIN-SUFFIX,embyplus.org,♻️ 自定义选择
+- DOMAIN-SUFFIX,play.charontv.com,♻️ 自定义选择
+- DOMAIN-SUFFIX,v4.mius.uk,♻️ 自定义选择
+- DOMAIN-SUFFIX,789.123456.al,♻️ 自定义选择
+
+
 - GEOSITE,icloud@cn,DirectLink
 - GEOSITE,apple@cn,DirectLink
 - GEOSITE,apple-cn,DirectLink
@@ -262,18 +278,5 @@ rules:
 - GEOSITE,private,DIRECT
 - GEOSITE,geolocation-!cn,🛫 节点选择
 - GEOIP,TELEGRAM,🛫 节点选择
-- DOMAIN-SUFFIX,odysseyplus.site,♻️ 自定义选择
-- DOMAIN-SUFFIX,cc.coemn.com,♻️ 自定义选择
-- DOMAIN-SUFFIX,scf.poloemby.xyz,♻️ 自定义选择
-- DOMAIN-SUFFIX,emby.wtf,♻️ 自定义选择
-- DOMAIN-SUFFIX,cf.jmsooo.com,♻️ 自定义选择
-- DOMAIN-SUFFIX,cf.xmsl.org,♻️ 自定义选择
-- DOMAIN-SUFFIX,film.ohhhh.org,♻️ 自定义选择
-- DOMAIN-SUFFIX,catlinks.co.uk,♻️ 自定义选择
-- DOMAIN-SUFFIX,emby.9191001.xyz,♻️ 自定义选择
-- DOMAIN-SUFFIX,embyplus.org,♻️ 自定义选择
-- DOMAIN-SUFFIX,play.charontv.com,♻️ 自定义选择
-- DOMAIN-SUFFIX,v4.mius.uk,♻️ 自定义选择
-- DOMAIN-SUFFIX,789.123456.al,♻️ 自定义选择
 - GEOIP,CN,DIRECT
 - MATCH,🛫 节点选择

@@ -1,40 +1,40 @@
-#自己使用的不需要代理的域名"
+#自己使用的不需要代理的域名'
 payload:
-- "+.dshfsh.eu.org""
-- "+.herofsh.eu.org"
-- "+.ffssh.eu.org"
-- "+.mylo.eu.org"
-- "+.Judy.eu.org"
-- "+.majorgg.eu.org"
-- "+.m-team.cc"
-- "+.dmhy.org"
-- "+.seed.groueta.cc"
-- "+.hdchina.org"
-- "+.chdbits.co"
-- "+.springsunday.net"
-- "+.totheglory.im"
-- "+.pterclub.com"
-- "+.hdsky.me"
-- "+.ourbits.club"
-- "+.tracker.avgv.cc"
-- "+.hdhome.org"
-- "+.nicept.net"
-- "+.iptorrents.com"
-- "+.yingk.com"
-- "+.dicmusic.club"
-- "+.open.cd"
-- "+.tjupt.org"
-- "+.pt.btschool.club"
-- "+.nanyangpt.com"
-- "+.hares.top"
-- "+.et8.org"
-- "+.lemonhd.org"
-- "+.audiences.me"
-- "+.soulvoice.club"
-- "+.sharkpt.net"
-- "+.plex.tv"
-- "+.plex.com"
-- "+.softethernetwork.net"
-- "+.51zmt.top"
-- "+.scratch-network.net"
-- "+.cloudflare.com"
+  - '+.dshfsh.eu.org''
+  - '+.herofsh.eu.org'
+  - '+.ffssh.eu.org'
+  - '+.mylo.eu.org'
+  - '+.Judy.eu.org'
+  - '+.majorgg.eu.org'
+  - '+.m  -team.cc'
+  - '+.dmhy.org'
+  - '+.seed.groueta.cc'
+  - '+.hdchina.org'
+  - '+.chdbits.co'
+  - '+.springsunday.net'
+  - '+.totheglory.im'
+  - '+.pterclub.com'
+  - '+.hdsky.me'
+  - '+.ourbits.club'
+  - '+.tracker.avgv.cc'
+  - '+.hdhome.org'
+  - '+.nicept.net'
+  - '+.iptorrents.com'
+  - '+.yingk.com'
+  - '+.dicmusic.club'
+  - '+.open.cd'
+  - '+.tjupt.org'
+  - '+.pt.btschool.club'
+  - '+.nanyangpt.com'
+  - '+.hares.top'
+  - '+.et8.org'
+  - '+.lemonhd.org'
+  - '+.audiences.me'
+  - '+.soulvoice.club'
+  - '+.sharkpt.net'
+  - '+.plex.tv'
+  - '+.plex.com'
+  - '+.softethernetwork.net'
+  - '+.51zmt.top'
+  - '+.scratch  -network.net'
+  - '+.cloudflare.com'

@@ -1,6 +1,5 @@
 #需要代理域名"
 payload:
-
 - "+.easylistdownloads.adblockplus.org"
 - "+.api.themoviedb.org"
 - "+.duyaoss.com"

@@ -231,19 +231,19 @@ rule-providers:
   SelfDirect:
     type: http
     behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
     path: ./ruleset/selfdirect.yaml
     interval: 3600
   SelfProxy:
     type: http
     behavior: domain
-    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/feng1992/diy/blob/main/clash/clashmate/SelfProxy.yaml"
     path: ./ruleset/selfproxy.yaml
     interval: 3600
   Emby:
     type: http
     behavior: domain
-    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/Emby.yaml"
+    url: "https://ghproxy.com/https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/Emby.yaml"
     path: ./ruleset/emby.yaml
     interval: 3600
     

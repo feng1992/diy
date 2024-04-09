@@ -1,5 +1,5 @@
 payload:
-- "+.odysseyplus.site"
+- '+.odysseyplus.site'
 - "+.cc.coemn.com"
 - "+.scf.poloemby.xyz"
 - "+.emby.wtf"

@@ -10,5 +10,5 @@ payload:
   - 'emby.9191001.xyz'
   - 'embyplus.org'
   - 'play.charontv.com'
-  - 'v4.mius.uk'
+  - 'emby-us-v4.mius.uk'
   - '789.123456.al'

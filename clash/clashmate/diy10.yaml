@@ -15,6 +15,7 @@ proxy-providers:
       enable: true
       interval: 1200
       url: https://gstatic.com/generate_204
+rule-providers:
   SelfDirect:
     type: http
     behavior: domain

@@ -15,12 +15,20 @@ proxy-providers:
       enable: true
       interval: 1200
       url: https://gstatic.com/generate_204
-  mydirect:
+  SelfDirect:
     type: http
     behavior: domain
-    url: "https://github.com/xxx/Profiles/raw/master/MyDirect.yaml"
-    path: ./ruleset/mydirect.yaml
+    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
+    path: ./ruleset/mSelfDirect.yaml
     interval: 3600
+  SelfDirect:
+    type: http
+    behavior: domain
+    url: "https://github.com/feng1992/diy/blob/main/clash/clashmate/SelfDirect.yaml"
+    path: ./ruleset/mSelfDirect.yaml
+    interval: 3600
+    
+    
 
 proxy-groups:
 - name: 🛫 节点选择

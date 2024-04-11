@@ -10,7 +10,7 @@ payload:
   - '+.dmhy.org'
   - '+.seed.groueta.cc'
   - '+.hdchina.org'
-  - '+.chdbits.co'
+  - '+.ptchdbits.co'
   - '+.springsunday.net'
   - '+.totheglory.im'
   - '+.pterclub.com'

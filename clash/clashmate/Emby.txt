@@ -1,6 +1,6 @@
 payload:
-  - 'odysseyplus.site'
-  - 'cc.coemn.com'
+  - '+.odysseyplus.site'
+  - '+.cc.coemn.com'
   - '+.poloemby.xyz'
   - '+.emby.wtf'
   - 'cf.jmsooo.com'
@@ -8,7 +8,7 @@ payload:
   - 'film.ohhhh.org'
   - 'catlinks.co.uk'
   - 'emby.9191001.xyz'
-  - 'embyplus.org'
+  - '+.embyplus.org'
   - 'play.charontv.com'
   - '+.mius.uk'
   - '789.123456.al'

@@ -231,13 +231,13 @@ rule-providers:
   SelfDirect:
     type: http
     behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/feng1992/diy@main/clash/clashmate/SelfDirect.txt"
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt"
     path: ./ruleset/selfdirect.yaml
     interval: 3600
   SelfProxy:
     type: http
     behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/feng1992/diy@main/clash/clashmate/SelfProxy.yaml"
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt"
     path: ./ruleset/selfproxy.yaml
     interval: 3600
   Emby:

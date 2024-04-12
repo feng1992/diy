@@ -269,9 +269,9 @@ rules:
 - GEOSITE,spotify,🎶 Spotify
 - GEOSITE,speedtest,🚀 Speedtest
 - GEOSITE,twitter,🌍 twitter
-- GEOSITE,cn,DIRECT
-- GEOSITE,private,DIRECT
 - GEOSITE,geolocation-!cn,🛫 节点选择
 - GEOIP,TELEGRAM,🛫 节点选择
+- GEOSITE,cn,DIRECT
+- GEOSITE,private,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,🛫 节点选择

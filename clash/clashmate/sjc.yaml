@@ -1,0 +1,295 @@
+external-controller: 127.0.0.1:9090
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: true
+geodata-mode: true
+
+proxy-providers:
+  ✈️ 我的机场fl:
+    type: http
+    path: "./Providers/Proxy/flowercloud.yaml"
+    url: https://api.flowercloud.xyz/osubscribe.php?sid=3930&token=aBufp5jZRejW&sip002=1
+    interval: 36000
+    health-check:
+      enable: true
+      interval: 1200
+      url: https://gstatic.com/generate_204
+  ✈️ 我的机场dhh:
+    type: http
+    path: "./Providers/Proxy/dhh.yaml"
+    url: https://b.p-p.men/api/v1/client/subscribe?token=bb9dfd514f19a94d201d577bb69c642c
+    interval: 36000
+    health-check:
+      enable: true
+      interval: 1200
+      url: https://gstatic.com/generate_204
+
+    
+proxy-groups:
+- name: 🛫 节点选择
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🫶🏻 手动切换
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  
+
+- name: ♻️ 自定义选择
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  
+
+- name: 🕹 巴哈姆特
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🎬 奈飞
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🛢 油管
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🐹 迪士尼
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 💬 OpenAi
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 📽 HBO
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🎶 Spotify
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🚀 Speedtest
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🌍 twitter
+  type: select
+  proxies:
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+- name: 🍃 广告拦截
+  type: select
+  proxies:
+    - REJECT
+    - DIRECT
+
+- name: DirectLink
+  type: select
+  proxies:
+    - DIRECT
+    - 🇭🇰 香港节点
+    - 🇨🇳 台湾节点
+    - 🇸🇬 狮城节点
+    - 🇯🇵 日本节点
+    - 🇰🇷 韩国节点
+    - 🇺🇲 美国节点
+    - 🔋 低倍率节点
+    - 🫶🏻 手动切换
+
+
+- name: 🇭🇰 香港节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: '港|HK|Hong Kong'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+- name: 🇨🇳 台湾节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: '台|新北|彰化|TW|Taiwan'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+- name: 🇸🇬 狮城节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: '新加坡|坡|狮城|SG|Singapore'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+- name: 🇯🇵 日本节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: '日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+- name: 🇰🇷 韩国节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: 'KR|Korea|KOR|首尔|韩|韓'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+- name: 🇺🇲 美国节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: '美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+- name: 🔋 低倍率节点
+  type: select
+  use:
+    - ✈️ 我的机场fl
+    - ✈️ 我的机场dhh
+  filter: '实验性|低倍率|x1|0.5|0.2'
+  url: 'https://www.gstatic.com/generate_204'
+  interval: 300
+
+
+rule-providers:
+  SelfDirect:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt"
+    path: ./ruleset/selfdirect.yaml
+    interval: 3600
+  SelfProxy:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt"
+    path: ./ruleset/selfproxy.yaml
+    interval: 3600
+  Emby:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/Emby.txt"
+    path: ./ruleset/emby.yaml
+    interval: 3600
+    
+rules:
+- RULE-SET,SelfDirect,DIRECT
+- RULE-SET,SelfProxy,🛫 节点选择
+- RULE-SET,Emby,♻️ 自定义选择
+
+- GEOSITE,icloud@cn,DirectLink
+- GEOSITE,apple@cn,DirectLink
+- GEOSITE,apple-cn,DirectLink
+- GEOSITE,microsoft@cn,DirectLink
+- GEOSITE,google-cn,DirectLink
+- GEOSITE,category-games@cn,DirectLink
+- GEOSITE,test-ipv6,DirectLink
+- GEOSITE,category-ads-all,🍃 广告拦截
+- GEOSITE,bahamut, 🕹 巴哈姆特
+- GEOSITE,netflix, 🎬 奈飞
+- GEOSITE,youtube,🛢 油管
+- GEOSITE,disney,🐹 迪士尼
+- GEOSITE,hbo,📽 HBO
+- GEOSITE,openai,💬 OpenAi
+- GEOSITE,spotify,🎶 Spotify
+- GEOSITE,speedtest,🚀 Speedtest
+- GEOSITE,twitter,🌍 twitter
+- GEOIP,TELEGRAM,🛫 节点选择
+- GEOSITE,geolocation-!cn,🛫 节点选择
+- GEOSITE,cn,DIRECT
+- GEOSITE,private,DIRECT
+- GEOIP,CN,DIRECT
+- MATCH,🛫 节点选择

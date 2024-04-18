@@ -231,21 +231,22 @@ rule-providers:
   SelfDirect:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt"
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt?token=GHSAT0AAAAAACNGHZBHZUQRTLUMRWMOK7PKZRAQ5NQ"
     path: ./ruleset/selfdirect.yaml
     interval: 3600
   SelfProxy:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfDirect.txt"
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/SelfProxy.yaml?token=GHSAT0AAAAAACNGHZBHXJ7DPR7R2ZBC4DPGZRAQ4GA"
     path: ./ruleset/selfproxy.yaml
     interval: 3600
   Emby:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/Emby.txt"
+    url: "https://raw.githubusercontent.com/feng1992/diy/main/clash/clashmate/Emby.txt?token=GHSAT0AAAAAACNGHZBG4RDFJRZU6RUJOMTSZRAQ54A"
     path: ./ruleset/emby.yaml
     interval: 3600
+    
     
 rules:
 - RULE-SET,SelfDirect,DIRECT

@@ -14,7 +14,7 @@ proxy-providers:
     health-check:
       enable: true
       interval: 1200
-      url: https://gstatic.com/generate_204
+      url: http://1.1.1.1/generate_204
   ✈️ 我的机场dhh:
     type: http
     path: "./Providers/Proxy/dhh.yaml"
@@ -23,7 +23,7 @@ proxy-providers:
     health-check:
       enable: true
       interval: 1200
-      url: https://gstatic.com/generate_204
+      url: http://1.1.1.1/generate_204
 
     
 proxy-groups:
@@ -187,7 +187,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: '港|HK|Hong Kong'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 - name: 🇨🇳 台湾节点
@@ -196,7 +196,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: '台|新北|彰化|TW|Taiwan'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 - name: 🇸🇬 狮城节点
@@ -205,7 +205,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: '新加坡|坡|狮城|SG|Singapore'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 - name: 🇯🇵 日本节点
@@ -214,7 +214,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: '日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 - name: 🇰🇷 韩国节点
@@ -223,7 +223,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: 'KR|Korea|KOR|首尔|韩|韓'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 - name: 🇺🇲 美国节点
@@ -232,7 +232,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: '美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 - name: 🔋 低倍率节点
@@ -241,7 +241,7 @@ proxy-groups:
     - ✈️ 我的机场fl
     - ✈️ 我的机场dhh
   filter: '实验性|低倍率|x1|0.5|0.2'
-  url: 'https://www.gstatic.com/generate_204'
+  url: 'http://1.1.1.1/generate_204'
   interval: 300
 
 

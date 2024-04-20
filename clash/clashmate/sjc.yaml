@@ -9,7 +9,7 @@ proxy-providers:
   ✈️ 我的机场fl:
     type: http
     path: "./Providers/Proxy/flowercloud.yaml"
-    url: https://api.flowercloud.xyz/osubscribe.php?sid=3930&token=aBufp5jZRejW&sip002=1
+    url:  https://api.xmancdn.com/osubscribe.php?sid=3930&token=Fvazftqp&sip002=1
     interval: 36000
     health-check:
       enable: true

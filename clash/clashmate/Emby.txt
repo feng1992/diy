@@ -6,7 +6,7 @@ payload:
   - 'cf.jmsooo.com'
   - '+.xmsl.org'
   - 'film.ohhhh.org'
-  - 'catlinks.co.uk'
+  - '+.catlinks.co.uk'
   - 'emby.9191001.xyz'
   - '+.embyplus.org'
   - 'play.charontv.com'

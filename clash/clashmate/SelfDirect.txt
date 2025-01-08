@@ -1,5 +1,7 @@
 #自己使用的不需要代理的域名'
 payload:
+  - ‘+.herofsh.eu.org
+  - ‘+.dshfsh.eu.org
   - '+.m-team.cc'
   - '+.dmhy.org'
   - '+.seed.groueta.cc'

@@ -4,7 +4,6 @@ payload:
   - '+.carryz.net'
   - '+.poloemby.xyz'
   - '+.emby.wtf'
-  - '+.jmsuper.com'
   - '+.xmsl.org'
   - 'film.ohhhh.org'
   - '+.catlinks.co.uk'

@@ -1,9 +1,10 @@
 payload:
   - '+.odysseyplus.site'
   - '+.coemn.com'
+  - '+.carryz.net'
   - '+.poloemby.xyz'
   - '+.emby.wtf'
-  - 'cf.jmsooo.com'
+  - '+.jmsuper.com'
   - '+.xmsl.org'
   - 'film.ohhhh.org'
   - '+.catlinks.co.uk'
@@ -14,3 +15,4 @@ payload:
   - '+.123456.al'
   - 'flarex.starcat.eu.org'
   - 'film.ohhhh.org'
+  

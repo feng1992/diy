@@ -7,6 +7,7 @@ payload:
   - '+.seed.groueta.cc'
   - '+.hdchina.org'
   - '+.ptchdbits.co'
+  - '+.rainbowisland.co'
   - '+.springsunday.net'
   - '+.totheglory.im'
   - '+.pterclub.com'

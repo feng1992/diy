@@ -3,7 +3,6 @@ payload:
   - ‘+.herofsh.eu.org'
   - ‘+.dshfsh.eu.org'
   - '+.m-team.cc'
-  - '+.dmhy.org'
   - '+.seed.groueta.cc'
   - '+.hdchina.org'
   - '+.ptchdbits.co'

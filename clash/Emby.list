@@ -62,6 +62,9 @@ DOMAIN-SUFFIX,free.emby.eu.org
 # > NMEmby服务器
 DOMAIN-SUFFIX,film.goodisp.org
 
+# > 纸片人服务器
+DOMAIN-SUFFIX,embyplus.org
+
 # > 水泊梁山服务器
 DOMAIN-SUFFIX,emby.shuipo.lol
 DOMAIN-SUFFIX,cf.shuipo.lol

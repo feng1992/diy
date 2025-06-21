@@ -34,4 +34,4 @@ payload:
   - '+.51zmt.top'
   - '+.scratch-network.net'
   - '+.cloudflare.com'
-
+  - '+.eastsim.com'

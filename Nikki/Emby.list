@@ -1,0 +1,15 @@
+# > 流媒体Odyssey服务器
+DOMAIN-SUFFIX,odysseyplus.site
+# > 流媒体终点站服务器
+DOMAIN-SUFFIX,emby.wtf
+# > 流媒体Cc验证&播放服务器
+DOMAIN,cc.coemn.com
+# > 流媒体polo服务器
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+# > 流媒体垃圾影音服务器
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-SUFFIX,cf.xmsl.org
+# > 卡戎emby服务器
+DOMAIN-SUFFIX,play.charontv.com

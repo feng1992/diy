@@ -38,3 +38,4 @@ payload:
   - '+.scratch-network.net'
   - '+.cloudflare.com'
   - '+.eastsim.com'
+  - 'my.zerotier.com'
